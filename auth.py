@@ -11,10 +11,7 @@ DB_PATH = Path("auth.db")
 # Edit this dictionary to add/remove users
 # Format: "username": "password"
 # =========================================================
-USERS = {
-    "Chris": "Password123!",
-    "alice": "AnotherPassword456!",
-}
+USERS = st.secrets["users"]
 
 # =========================================================
 # Database helpers
