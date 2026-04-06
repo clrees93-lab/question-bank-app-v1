@@ -1,0 +1,5059 @@
+[
+  {
+    "id": 1,
+    "stem": "In patients with type 1 diabetes mellitus, when will the HbA1c expected to be the lowest?",
+    "options": [
+      "Age 9 and below",
+      "Age 10 to 19",
+      "Age 20 to 29",
+      "Age > 60"
+    ],
+    "correct_index": 0,
+    "explanation": "HbA1c is lowest in children <9 years. Pre-pubertal children are more insulin-sensitive. During puberty (10–19), growth hormone and sex steroids cause insulin resistance so HbA1c tends to rise. Adults generally have higher or more relaxed targets than young children.",
+    "specialty": "Endocrine",
+    "tags": [
+      "T1DM",
+      "HbA1c",
+      "Paediatrics",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 2,
+    "stem": "Which DNA repair pathway is affected by PARP inhibitors in the treatment of advanced BRCA1 positive advanced ovarian cancer?",
+    "options": [
+      "Base excision repair",
+      "Nucleotide excision repair",
+      "Double stranded break via homologous recombination",
+      "DNA mismatch repair"
+    ],
+    "correct_index": 0,
+    "explanation": "PARP-1 is required for base excision repair (BER) of single-strand breaks. In BRCA-mutated cells, homologous recombination is already defective. Blocking BER causes accumulation of single-strand breaks that collapse into double-strand breaks the cell cannot repair, leading to synthetic lethality. Thus PARP inhibitors target the base excision repair pathway.",
+    "specialty": "Oncology",
+    "tags": [
+      "PARP inhibitors",
+      "Base excision repair",
+      "BRCA1",
+      "Ovarian cancer",
+      "Oncology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 3,
+    "stem": "Using the diagram provided below, determine which of the following is most likely to represent a pathogenic mutation? EXON (CGGCAGGAT) | INTRON (AAGGCAGCT) | EXON (CGGGATAGC)",
+    "options": [
+      "CGGCA(A)GAT  |  AAGGCAGCTAG  |  CGGGATAGC",
+      "CGGCAGGAT  |  AAGGCGGCTAG  |  CGGG(A)TAGC",
+      "CGGCA_GAT  |  AAGGCAGCTAG  |  CGGGATAGC",
+      "CGGCAGGAT  |  AAGGCAGCTAG  | CG(A)GATAGC"
+    ],
+    "correct_index": 2,
+    "explanation": "The original exon sequence is: CGGCAGGAT  CGGGATAGC. Option C has a missing base (deletion) in the exon: CGGCA_GAT. This shifts the reading frame (frameshift mutation), so every codon downstream is changed, usually generating a premature stop codon and a truncated, non-functional protein _ highly likely to be pathogenic.",
+    "specialty": "Genetics",
+    "tags": [
+      "Genetics",
+      "Frameshift mutation",
+      "Exon deletion",
+      "Pathogenic mutation",
+      "2020 MS"
+    ],
+    "image_path": "images/q0003.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 4,
+    "stem": "A 50-year-old male presents with adult-onset asthma. It is not responding to salbutamol and inhaled corticosteroids. What is the next step in management?",
+    "options": [
+      "Spirometry",
+      "FeNO",
+      "CT chest",
+      "Sputum eosinophils"
+    ],
+    "correct_index": 0,
+    "explanation": "When asthma is not responding to standard therapy, the first step is to confirm the diagnosis, and spirometry with bronchodilator testing is the recommended initial investigation. FeNO and sputum eosinophils are secondary tests used after airflow obstruction is demonstrated. CT chest is not first-line unless red flags are present.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Asthma",
+      "Spirometry",
+      "Airways disease",
+      "Respiratory",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 5,
+    "stem": "What is the common homozygous gene mutation that results in haemochromatosis?",
+    "options": [
+      "C282Y",
+      "delta F508",
+      "H63D",
+      "S65C"
+    ],
+    "correct_index": 0,
+    "explanation": "Hereditary haemochromatosis is most commonly caused by homozygosity for the C282Y mutation in the HFE gene. Other mutations like H63D are less penetrant and typically cause milder or no disease.",
+    "specialty": "Genetics",
+    "tags": [
+      "Haemochromatosis",
+      "C282Y",
+      "HFE",
+      "Genetics",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 6,
+    "stem": "Over ten years the relative risk, (fully adjusted for confounders) of diabetes when comparing people who drink sugar sweetened beverages (SSBs) everyday compared to those who don't is 1.2. In a population where 50% of the people drink SSBs every day, what is the population attributable fraction?",
+    "options": [
+      "1%",
+      "2%",
+      "10%",
+      "20%"
+    ],
+    "correct_index": 2,
+    "explanation": "PAF = Pe(RR-1) / [Pe(RR-1) + 1]. With Pe = 0.5 and RR = 1.2, the PAF = 0.09, so the closest answer is 10%. (Pe = Population exposed)",
+    "specialty": "Statistics",
+    "tags": [
+      "PAF",
+      "Epidemiology",
+      "Statistics",
+      "Risk",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 7,
+    "stem": "A patient with Crohns disease has both axial (sacroiliitis) and peripheral arthritis. He is started on sulfasalazine and his bowel symptoms improve. Which arthritic symptoms will also improve?",
+    "options": [
+      "Both axial and peripheral",
+      "Just axial, not peripheral",
+      "Not axial, just peripheral",
+      "Neither axial nor peripheral"
+    ],
+    "correct_index": 2,
+    "explanation": "Sulfasalazine is effective for peripheral enteropathic arthritis but does not meaningfully improve axial (sacroiliac/spinal) disease, which responds better to biologic agents such as anti-TNF therapy.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Crohns disease",
+      "Enteropathic arthritis",
+      "Sulfasalazine",
+      "Rheumatology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 8,
+    "stem": "Beta-2 microglobulin is a component of which immune structure?",
+    "options": [
+      "B cell",
+      "T cell",
+      "MHC I",
+      "MHC II"
+    ],
+    "correct_index": 2,
+    "explanation": "Beta-2 microglobulin forms the invariant light chain of MHC class I molecules on all nucleated cells, stabilising the complex; it is not part of MHC class II.",
+    "specialty": "Immunology",
+    "tags": [
+      "Beta-2 microglobulin",
+      "MHC I",
+      "Immunology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 9,
+    "stem": "A patient eats microwaved rice for lunch and presents with vomiting, abdominal pain, and diarrhoea three hours later. What is the likely cause?",
+    "options": [
+      "Campylobacter",
+      "Bacillus cereus",
+      "Salmonella",
+      "Shigella"
+    ],
+    "correct_index": 1,
+    "explanation": "Bacillus cereus classically causes rapid-onset food poisoning from reheated rice due to preformed toxin; onset is typically within a few hours.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "Bacillus cereus",
+      "Food poisoning",
+      "Microwaved rice",
+      "Infectious diseases",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 10,
+    "stem": "What is the mechanism of methotrexate?",
+    "options": [
+      "Inhibits dihydrofolate reductase",
+      "Inhibits dihydroorotate reductase",
+      "Inhibits inosine monophosphate dehydrogenase",
+      "Inhibits thiopurine methyltransferase"
+    ],
+    "correct_index": 0,
+    "explanation": "Methotrexate is a folate analogue that competitively inhibits dihydrofolate reductase, reducing tetrahydrofolate and impairing thymidylate and purine synthesis.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Methotrexate",
+      "DHF reductase inhibitor",
+      "DMARD",
+      "Rheumatology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 11,
+    "stem": "What process of B cell maturation takes place in the germinal centres?",
+    "options": [
+      "Somatic hypermutation",
+      "Activation of B cells from T cells",
+      "Direct presentation of antigen to B cells",
+      "Positive selection"
+    ],
+    "correct_index": 0,
+    "explanation": "Within germinal centres, activated B cells undergo somatic hypermutation and affinity maturation of their immunoglobulin genes (often with class switching).",
+    "specialty": "Immunology",
+    "tags": [
+      "B cell maturation",
+      "Germinal centre",
+      "Somatic hypermutation",
+      "Immunology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 12,
+    "stem": "Pirfenidone delays worsening of forced vital capacity (FVC) in which group?",
+    "options": [
+      "Emphysema",
+      "Pulmonary embolism",
+      "Interstitial pulmonary fibrosis",
+      "Silicosis related fibrosis"
+    ],
+    "correct_index": 2,
+    "explanation": "Pirfenidone is an antifibrotic agent shown to slow FVC decline and disease progression in idiopathic pulmonary fibrosis, a form of interstitial pulmonary fibrosis.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Pirfenidone",
+      "Idiopathic pulmonary fibrosis",
+      "Interstitial lung disease",
+      "Respiratory",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 13,
+    "stem": "What cell type is typically found in the inflammatory infiltrate of clozapine-associated myocarditis?",
+    "options": [
+      "Lymphocytes",
+      "Neutrophils",
+      "Eosinophils",
+      "Giant cells"
+    ],
+    "correct_index": 2,
+    "explanation": "Clozapine myocarditis is characteristically an eosinophilic hypersensitivity myocarditis with prominent eosinophilic infiltrates on histology.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Clozapine myocarditis",
+      "Eosinophilic myocarditis",
+      "Cardiology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 14,
+    "stem": "What is the mechanism of resistance of carbapenemase-producing bacteria?",
+    "options": [
+      "Hydrolysis of beta-lactam",
+      "Alteration of target site",
+      "Change in porin size",
+      "Efflux pump"
+    ],
+    "correct_index": 0,
+    "explanation": "Carbapenemases are beta-lactamases that hydrolyse the beta-lactam ring of carbapenems, inactivating the antibiotic.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "Carbapenemase",
+      "Beta-lactamase",
+      "Antibiotic resistance",
+      "Infectious diseases",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 15,
+    "stem": "Which pharmacodynamic factor is most important for the efficacy of penicillins?",
+    "options": [
+      "Time above MIC",
+      "Peak concentration",
+      "AUC:MIC ratio",
+      "AUC"
+    ],
+    "correct_index": 0,
+    "explanation": "Penicillins are time-dependent killers; their efficacy correlates best with the proportion of the dosing interval that free drug levels remain above the MIC.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "Penicillin",
+      "Time above MIC",
+      "Pharmacodynamics",
+      "Infectious diseases",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 16,
+    "stem": "What is the mechanism of decreased haptoglobin in haemolytic anaemia?",
+    "options": [
+      "Haptoglobin haemoglobin dimers cleared by liver",
+      "Bilirubin haptoglobin dimers cleared by liver",
+      "Haptoglobin haemoglobin dimers cleared by kidney",
+      "Bilirubin haptoglobin dimers cleared by kidney"
+    ],
+    "correct_index": 0,
+    "explanation": "In intravascular haemolysis, free haemoglobin binds haptoglobin to form complexes that are taken up and cleared by the liver, depleting serum haptoglobin.",
+    "specialty": "Haematology",
+    "tags": [
+      "Haemolytic anaemia",
+      "Haptoglobin",
+      "Intravascular haemolysis",
+      "Haematology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 17,
+    "stem": "Which cranial nerves carry parasympathetic nerve fibres?",
+    "options": [
+      "III, V, VII, IX",
+      "III, V, VII, X",
+      "III, V, IX, X",
+      "III, VII, IX, X"
+    ],
+    "correct_index": 3,
+    "explanation": "Preganglionic parasympathetic fibres leave the brainstem in cranial nerves III, VII, IX and X; V does not carry preganglionic parasympathetic fibres.",
+    "specialty": "Neurology",
+    "tags": [
+      "Parasympathetic cranial nerves",
+      "CN III",
+      "CN VII",
+      "CN IX",
+      "CN X",
+      "Neurology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 18,
+    "stem": "Type B nerve fibres are small, myelinated fibres. Which of the following is an example of this?",
+    "options": [
+      "Pain and temperature",
+      "Vibration and proprioception",
+      "Efferent to intrafusal muscles",
+      "Preganglionic nerve fibres of autonomic system"
+    ],
+    "correct_index": 3,
+    "explanation": "Type B fibres are small, myelinated preganglionic autonomic fibres with relatively slow conduction compared with larger type A fibres.",
+    "specialty": "Neurology",
+    "tags": [
+      "Type B nerve fibres",
+      "Preganglionic autonomic",
+      "Neurology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 19,
+    "stem": "What is the primary mechanism of action for metaraminol?",
+    "options": [
+      "Alpha 1",
+      "Alpha 2",
+      "Beta 1",
+      "Beta 2"
+    ],
+    "correct_index": 0,
+    "explanation": "Metaraminol is a predominantly alpha-1 adrenergic agonist (with some indirect noradrenaline-releasing effects) used as a vasopressor to increase blood pressure.",
+    "specialty": "Intensive care",
+    "tags": [
+      "Metaraminol",
+      "Alpha-1 agonist",
+      "Vasopressor",
+      "ICU",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 20,
+    "stem": "Which of the following rarely causes renal amyloidosis?",
+    "options": [
+      "Transthyretin-associated",
+      "AA",
+      "AL",
+      "Apolipoprotein A1 amyloidosis"
+    ],
+    "correct_index": 0,
+    "explanation": "Renal involvement is common in AA and AL amyloidoses and can occur with ApoA1; transthyretin (ATTR) amyloidosis predominantly affects the heart and peripheral nerves and rarely causes renal amyloid.",
+    "specialty": "Renal",
+    "tags": [
+      "Renal amyloidosis",
+      "Transthyretin",
+      "AA amyloid",
+      "AL amyloid",
+      "Renal",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 21,
+    "stem": "What is the most common type of Ehlers-Danlos syndrome?",
+    "options": [
+      "Classic",
+      "Hypermobile",
+      "Cardiac-valvular",
+      "Vascular"
+    ],
+    "correct_index": 1,
+    "explanation": "The hypermobile type of Ehlers-Danlos syndrome is the most common clinical subtype, characterised by joint hypermobility and soft, stretchy skin without the marked vascular fragility seen in the vascular type.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Ehlers-Danlos",
+      "Hypermobile",
+      "EDS",
+      "Rheumatology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 22,
+    "stem": "When determining whether a drug is bioequivalent, which pharmacological parameter is most important?",
+    "options": [
+      "Maximal concentration",
+      "Area under the curve",
+      "Bioavailability",
+      "Distribution"
+    ],
+    "correct_index": 1,
+    "explanation": "Bioequivalence studies primarily compare the area under the plasma concentration-time curve (AUC), along with Cmax (though AUC has becomen the primary measure), to ensure similar extent and rate of absorption between formulations.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Bioequivalence",
+      "AUC",
+      "Pharmacology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 23,
+    "stem": "What is the most common cell type for functioning pituitary adenomas?",
+    "options": [
+      "Gonadotroph",
+      "Somatotroph",
+      "Lactotroph",
+      "Pituicyte"
+    ],
+    "correct_index": 2,
+    "explanation": "Prolactin-secreting lactotroph adenomas are the most common functioning pituitary adenomas, followed by somatotroph and corticotroph tumours.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Pituitary adenoma",
+      "Lactotroph",
+      "Prolactinoma",
+      "Endocrine",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 24,
+    "stem": "What is the function of telomerase reverse transcriptase?",
+    "options": [
+      "Adding DNA to ends",
+      "Capping the ends of DNA",
+      "Unravelling DNA helix",
+      "Removing telomere repeat sequence from the 3 end of telomeres"
+    ],
+    "correct_index": 0,
+    "explanation": "Telomerase is a reverse transcriptase that adds repetitive DNA sequences to the ends of chromosomes, helping maintain telomere length during replication.",
+    "specialty": "Genetics",
+    "tags": [
+      "Telomerase",
+      "Telomere",
+      "Reverse transcriptase",
+      "Genetics",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 25,
+    "stem": "BRCA1-associated breast cancers are most commonly associated with which receptor pattern?",
+    "options": [
+      "ER positive PR positive HER2 negative",
+      "ER negative PR negative HER2 negative",
+      "ER positive PR negative HER2 negative",
+      "ER negative PR positive HER2 positive"
+    ],
+    "correct_index": 1,
+    "explanation": "BRCA1-related breast cancers are typically high-grade, basal-like, and triple negative for ER, PR and HER2.",
+    "specialty": "Oncology",
+    "tags": [
+      "BRCA1",
+      "Triple negative breast cancer",
+      "Oncology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 26,
+    "stem": "A patient with a QTc of 550 milliseconds requires antibiotics. Which of these is most likely to cause further QT prolongation?",
+    "options": [
+      "Amoxicillin",
+      "Ciprofloxacin",
+      "Nitrofurantoin",
+      "Cephalexin"
+    ],
+    "correct_index": 1,
+    "explanation": "Fluoroquinolones such as ciprofloxacin can prolong the QT interval, whereas amoxicillin, nitrofurantoin and cephalexin do not have significant QT-prolonging effects.",
+    "specialty": "Cardiology",
+    "tags": [
+      "QT prolongation",
+      "Ciprofloxacin",
+      "Cardiology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 27,
+    "stem": "Which vitamin is given to patients with chronic haemolytic anaemia to reduce the risk of developing aplastic crisis?",
+    "options": [
+      "Vitamin C",
+      "Cobalamin",
+      "Folate",
+      "Vitamin B12"
+    ],
+    "correct_index": 2,
+    "explanation": "Patients with chronic haemolysis have increased red cell turnover and folate requirements for DNA synthesis, so folic acid supplementation is used to prevent megaloblastic change and aplastic crises.",
+    "specialty": "Haematology",
+    "tags": [
+      "Haemolytic anaemia",
+      "Folate",
+      "Haematology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 28,
+    "stem": "In which breast cancer patients are CDK4/6 inhibitors indicated?",
+    "options": [
+      "ER PR positive HER2 negative",
+      "ER PR negative HER2 positive",
+      "ER PR negative HER2 negative",
+      "ER PR positive HER2 positive"
+    ],
+    "correct_index": 0,
+    "explanation": "Cyclin-D-CDK4/6 inhibitors such as palbociclib are used in hormone-receptor-positive, HER2-negative advanced or metastatic breast cancer in combination with endocrine therapy. Inhibition of CDK4/6 prevents phosphorylation of pRB (retinoblastoma protein), keeping pRB in its active hypophosphorylated form. Active pRB remains bound to E2F, preventing E2F-mediated transcription of genes such as Cyclin E that are required for S-phase entry. As a result, the cell is arrested in G1 and cannot progress to the S phase.",
+    "specialty": "Oncology",
+    "tags": [
+      "CDK4 6 inhibitor",
+      "Breast cancer",
+      "ER positive",
+      "HER2 negative",
+      "Oncology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 29,
+    "stem": "What is the mechanism of action of sirolimus in treating tuberous sclerosis?",
+    "options": [
+      "Inhibitor of TSC1-TSC2 gene interaction",
+      "Activator of TSC1-TSC2 gene interaction",
+      "Mammalian target of rapamycin inhibitor",
+      "None of the above"
+    ],
+    "correct_index": 2,
+    "explanation": "Sirolimus is an inhibitor of the mammalian target of rapamycin (mTOR) pathway, which is overactive in tuberous sclerosis due to TSC1 or TSC2 mutations.",
+    "specialty": "Genetics",
+    "tags": [
+      "Sirolimus",
+      "mTOR inhibitor",
+      "Tuberous sclerosis",
+      "Genetics",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 30,
+    "stem": "What is the approximate half life of thyroxine in humans?",
+    "options": [
+      "1 day",
+      "7 days",
+      "21 days",
+      "42 days"
+    ],
+    "correct_index": 1,
+    "explanation": "Thyroxine has a long half life of about 7 days in euthyroid individuals, which underlies the slow onset and offset of effect with dose changes. It would technically allow patients to take their weekly dose on one day per week. Futhermore, it explains why daily dosing is adjusted by calculating the total weekly dose.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Thyroxine",
+      "T4",
+      "Half life",
+      "Endocrine",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 31,
+    "stem": "What is array comparative genomic hybridisation used for?",
+    "options": [
+      "Balanced chromosomal translocations",
+      "Chromosomal microdeletions",
+      "Missense mutations",
+      "Single nucleotide polymorphisms"
+    ],
+    "correct_index": 1,
+    "explanation": "Array comparative genomic hybridisation detects copy number changes such as microdeletions and microduplications, but does not detect balanced translocations or point mutations.",
+    "specialty": "Genetics",
+    "tags": [
+      "Array CGH",
+      "Microdeletion",
+      "Copy number variation",
+      "Genetics",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 32,
+    "stem": "What is the expected thyroid scintigraphy pattern in subacute thyroiditis?",
+    "options": [
+      "Diffuse uptake",
+      "Focal uptake",
+      "Normal",
+      "Suppressed"
+    ],
+    "correct_index": 3,
+    "explanation": "In subacute (de Quervain) thyroiditis, preformed hormone is released from a damaged gland, so radioiodine uptake is low or absent and appears suppressed on scintigraphy.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Subacute thyroiditis",
+      "Thyroid scintigraphy",
+      "Endocrine",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 33,
+    "stem": "What is the mechanism of action of denosumab, a RANK ligand inhibitor?",
+    "options": [
+      "Inhibits osteoclast maturation",
+      "Inhibits osteoblast apoptosis",
+      "Causes osteoblast apoptosis",
+      "Causes osteoclast maturation"
+    ],
+    "correct_index": 0,
+    "explanation": "Denosumab is a monoclonal antibody against RANK ligand, preventing RANK ligand from binding RANK on osteoclast precursors and thereby inhibiting osteoclast formation and activity.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Denosumab",
+      "RANK ligand",
+      "Osteoclast",
+      "Endocrine",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 34,
+    "stem": "Tranexamic acid improves survival in major trauma. What does tranexamic acid bind to?",
+    "options": [
+      "Plasminogen",
+      "Thrombin",
+      "Factor X",
+      "Fibrin"
+    ],
+    "correct_index": 0,
+    "explanation": "Tranexamic acid is a lysine analogue that binds plasminogen and plasmin, inhibiting their interaction with fibrin and thereby reducing fibrinolysis. (It has the opposite effect to tPA)",
+    "specialty": "Haematology",
+    "tags": [
+      "Tranexamic acid",
+      "Plasminogen",
+      "Antifibrinolytic",
+      "Haematology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 35,
+    "stem": "B-type natriuretic peptide is commonly measured in heart failure. In which patient group does it have reduced sensitivity for diagnosing heart failure?",
+    "options": [
+      "Chronic kidney disease",
+      "Sepsis",
+      "Advanced age",
+      "Obesity"
+    ],
+    "correct_index": 3,
+    "explanation": "BNP levels tend to be lower than expected in obese patients, reducing the sensitivity of BNP for detecting heart failure in this group.",
+    "specialty": "Cardiology",
+    "tags": [
+      "BNP",
+      "Heart failure",
+      "Obesity",
+      "Cardiology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 36,
+    "stem": "Oxygenation is increased by improving functional residual capacity. This is done by adjusting which ventilator setting?",
+    "options": [
+      "End inspiratory pressure",
+      "Increased FiO2",
+      "PEEP",
+      "Respiratory rate"
+    ],
+    "correct_index": 2,
+    "explanation": "Positive end expiratory pressure increases functional residual capacity, helping to prevent alveolar collapse and improve oxygenation.",
+    "specialty": "Respiratory",
+    "tags": [
+      "PEEP",
+      "FRC",
+      "Oxygenation",
+      "Respiratory",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 37,
+    "stem": "Peak concentrations of therapeutic doses of paracetamol occur at about 2 hours. In overdose, peak concentrations occur later, around 6 hours. What is the main reason for this difference?",
+    "options": [
+      "Delayed absorption",
+      "Delayed elimination",
+      "Administration of N-acetylcysteine",
+      "Administration of activated charcoal"
+    ],
+    "correct_index": 0,
+    "explanation": "Massive overdose slows gastric emptying and can lead to formation of pharmacobezoars, delaying absorption and shifting the time to peak concentration.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Paracetamol overdose",
+      "Delayed absorption",
+      "Pharmacology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 38,
+    "stem": "Which cytokine is particularly implicated in recurrent fever syndromes such as familial Mediterranean fever?",
+    "options": [
+      "Interferon gamma",
+      "Interleukin 1",
+      "Tumour necrosis factor",
+      "Interleukin 17"
+    ],
+    "correct_index": 1,
+    "explanation": "Familial Mediterranean fever and several other autoinflammatory syndromes are driven by excess interleukin 1 signalling and respond to IL-1 blockade. Treatment could therefore include Anakinra",
+    "specialty": "Immunology",
+    "tags": [
+      "Familial Mediterranean fever",
+      "IL-1",
+      "Autoinflammatory",
+      "Immunology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 39,
+    "stem": "What is the most common mechanism for angioedema with the use of neprilysin inhibitors after changing from ACE inhibitors?",
+    "options": [
+      "Substance P",
+      "Bradykinin",
+      "Leukotriene D2",
+      "Prostaglandin E2"
+    ],
+    "correct_index": 1,
+    "explanation": "Both ACE inhibitors and neprilysin inhibitors reduce bradykinin breakdown, so overlap or inadequate washout can lead to accumulation of bradykinin and angioedema. Hence the 72hr washout when switching from ACEi to Entresto",
+    "specialty": "Cardiology",
+    "tags": [
+      "Neprilysin inhibitor",
+      "ACE inhibitor",
+      "Bradykinin",
+      "Angioedema",
+      "Cardiology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 40,
+    "stem": "What is the main mechanism for paracetamol toxicity in overdose?",
+    "options": [
+      "Cytochrome P450 inhibition",
+      "Disruption of oxidative phosphorylation",
+      "Induction of glucuronidation",
+      "Relative glutathione deficiency"
+    ],
+    "correct_index": 3,
+    "explanation": "In overdose, excess paracetamol is shunted through cytochrome P450 pathways to form the toxic metabolite NAPQI. When hepatic glutathione is depleted, NAPQI binds to cellular proteins and causes hepatocellular necrosis.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Paracetamol toxicity",
+      "NAPQI",
+      "Glutathione",
+      "Pharmacology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 41,
+    "stem": "In elderly people, serum creatinine may not adequately reflect renal function. What is the main reason?",
+    "options": [
+      "Increase in comorbidities",
+      "Decrease in renal mass",
+      "Diet",
+      "Reduced muscle mass"
+    ],
+    "correct_index": 3,
+    "explanation": "Older adults have reduced skeletal muscle mass which lowers creatinine production. Serum creatinine may appear normal despite reduced GFR, so eGFR is essential.",
+    "specialty": "Renal",
+    "tags": [
+      "Creatinine",
+      "Low muscle mass",
+      "Renal",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 42,
+    "stem": "Which antibiotic is used for Pneumocystis jirovecii prophylaxis?",
+    "options": [
+      "Bactrim",
+      "Pentamidine",
+      "Ciprofloxacin",
+      "Augmentin"
+    ],
+    "correct_index": 0,
+    "explanation": "Trimethoprim sulfamethoxazole (Bactrim) is first line for Pneumocystis jirovecii prophylaxis in immunocompromised patients.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "Pneumocystis",
+      "Bactrim",
+      "ID",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 43,
+    "stem": "What is the main benefit of TAF over TDF in HIV management?",
+    "options": [
+      "Elimination of nephrotoxicity",
+      "Blocks CCR5 receptor",
+      "Improved efficacy as PrEP",
+      "Limited drug resistance"
+    ],
+    "correct_index": 0,
+    "explanation": "Tenofovir alafenamide (TAF) achieves high intracellular levels with lower plasma concentrations, reducing renal and bone toxicity compared to TDF.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "TAF",
+      "TDF",
+      "HIV",
+      "ID",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 44,
+    "stem": "What is the mechanism of action of beta lactamase?",
+    "options": [
+      "Hydrolyses the beta lactam ring",
+      "Disrupts DNA synthesis",
+      "Disrupts RNA signalling",
+      "Alters penicillin binding proteins"
+    ],
+    "correct_index": 0,
+    "explanation": "Beta lactamases hydrolyse the beta lactam ring of penicillins and related antibiotics, rendering them inactive.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "Beta lactamase",
+      "Antibiotic resistance",
+      "ID",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 45,
+    "stem": "What is the bioavailability of a drug with oral 100 mg AUC 50 and IV 10 mg AUC 5?",
+    "options": [
+      "25 percent",
+      "50 percent",
+      "75 percent",
+      "100 percent"
+    ],
+    "correct_index": 3,
+    "explanation": "Bioavailability is AUC oral divided by AUC IV multiplied by dose IV over dose oral. Here 50/5 multiplied by 10/100 equals 1, so bioavailability is 100 percent.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Bioavailability",
+      "AUC",
+      "Pharmacology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 46,
+    "stem": "Which vitamin deficiency can occur with long term metformin use?",
+    "options": [
+      "Vitamin B12",
+      "Vitamin B6",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 0,
+    "explanation": "Metformin interferes with B12 absorption in the terminal ileum. Long term treatment increases the risk of B12 deficiency and neuropathy.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Metformin",
+      "B12 deficiency",
+      "Endocrine",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 47,
+    "stem": "What is the reason for giving calcium chloride in severe hyperkalaemia?",
+    "options": [
+      "Counteracts membrane effects of potassium",
+      "Increases acid excretion",
+      "Corrects metabolic acidosis",
+      "Drives potassium into cells"
+    ],
+    "correct_index": 0,
+    "explanation": "Calcium chloride stabilises cardiac membranes and reduces arrhythmia risk but does not alter serum potassium.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Hyperkalaemia",
+      "Calcium chloride",
+      "Cardiology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 48,
+    "stem": "If there is a defect in VDJ rearrangement, which cells will be absent?",
+    "options": [
+      "B cells only",
+      "B and T cells",
+      "B T and NK cells",
+      "T cells only"
+    ],
+    "correct_index": 1,
+    "explanation": "VDJ recombination is essential for antigen receptor formation in both B and T cells. NK cells do not rely on this process.",
+    "specialty": "Immunology",
+    "tags": [
+      "VDJ",
+      "B cells",
+      "T cells",
+      "Immunology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 49,
+    "stem": "Which pathway is inhibited to reduce splenomegaly in primary myelofibrosis?",
+    "options": [
+      "JAK1 2",
+      "BRAF MEK",
+      "RAS MAPK",
+      "GCS F"
+    ],
+    "correct_index": 0,
+    "explanation": "Ruxolitinib inhibits JAK1 and JAK2, reducing cytokine driven splenic enlargement and improving symptoms.",
+    "specialty": "Haematology",
+    "tags": [
+      "Myelofibrosis",
+      "JAK inhibitor",
+      "Haem",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 50,
+    "stem": "What is the mechanism of liver damage in alpha 1 antitrypsin deficiency?",
+    "options": [
+      "Increased protease activity",
+      "Elastase overactivation",
+      "Protein accumulation in hepatocytes",
+      "Oxidative stress"
+    ],
+    "correct_index": 2,
+    "explanation": "Mutant alpha 1 antitrypsin accumulates inside hepatocytes causing cellular injury and fibrosis.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "A1AT",
+      "Liver injury",
+      "Protein accumulation",
+      "Liver",
+      "Hepatology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 51,
+    "stem": "What is the mechanism causing hypokalaemia with frusemide?",
+    "options": [
+      "Inhibits potassium hydrogen transporter in proximal tubule",
+      "Inhibits sodium potassium channel in distal convoluted tubule",
+      "Inhibits sodium potassium chloride channel in thick ascending loop",
+      "Inhibits sodium hydrogen symporter in thin descending loop"
+    ],
+    "correct_index": 2,
+    "explanation": "Loop diuretics block the NKCC2 transporter in the thick ascending limb. Increased sodium delivery distally increases potassium secretion causing hypokalaemia.",
+    "specialty": "Renal",
+    "tags": [
+      "Frusemide",
+      "Hypokalaemia",
+      "NKCC2",
+      "Renal",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 52,
+    "stem": "Which amyloid cardiomyopathy has the worst prognosis if untreated?",
+    "options": [
+      "AL",
+      "AA",
+      "Transthyretin",
+      "Abeta"
+    ],
+    "correct_index": 0,
+    "explanation": "AL amyloidosis progresses rapidly with severe cardiac involvement and the poorest natural prognosis.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Amyloid",
+      "AL",
+      "Cardiology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 53,
+    "stem": "In acute HIV 1 infection, which coreceptor does the virus commonly bind apart from CD4?",
+    "options": [
+      "CCR5",
+      "CXCR4",
+      "CD3",
+      "CTLA4"
+    ],
+    "correct_index": 0,
+    "explanation": "Most early HIV 1 strains are CCR5 tropic and use the CCR5 coreceptor to enter host cells. CCR5 is expressed on macrophages which are more involved in early infection.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "HIV",
+      "CCR5",
+      "ID",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 54,
+    "stem": "Major changes in pulsatility of which hormone initiate puberty?",
+    "options": [
+      "GnRH",
+      "Inhibin",
+      "Oxytocin",
+      "DHEA"
+    ],
+    "correct_index": 0,
+    "explanation": "Increased pulsatile secretion of GnRH triggers LH and FSH release, initiating puberty.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Puberty",
+      "GnRH",
+      "Endocrine",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 55,
+    "stem": "What is the best way to prevent BK virus nephropathy in early renal transplant?",
+    "options": [
+      "Reduce mycophenolate and tacrolimus dose",
+      "Add adefovir",
+      "Add acyclovir",
+      "Monitor BK PCR"
+    ],
+    "correct_index": 0,
+    "explanation": "Reducing immunosuppression, especially mycophenolate and tacrolimus, is the primary way to prevent BK nephropathy.",
+    "specialty": "Renal",
+    "tags": [
+      "BK virus",
+      "Transplant",
+      "Immunosuppression",
+      "Renal",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 56,
+    "stem": "What mechanism explains orthodeoxia in hepatopulmonary syndrome?",
+    "options": [
+      "Left heart preload",
+      "Pulmonary capillary dilatation",
+      "Increased intra abdominal pressure",
+      "Increased cardiac output"
+    ],
+    "correct_index": 1,
+    "explanation": "Dilated pulmonary vessels cause excessive shunting when upright, lowering oxygen saturation.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Orthodeoxia",
+      "HPS",
+      "Respiratory",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 57,
+    "stem": "Which technique is most likely to detect secondary medically significant abnormalities?",
+    "options": [
+      "Array CGH",
+      "FISH",
+      "Whole genome sequencing",
+      "Sanger sequencing"
+    ],
+    "correct_index": 2,
+    "explanation": "Whole genome sequencing captures coding and non coding regions and identifies incidental genetic findings at the highest rate.",
+    "specialty": "Genetics",
+    "tags": [
+      "WGS",
+      "Incidental findings",
+      "Genetics",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 58,
+    "stem": "What explains how somatic cancer gene rearrangements give rise to malignancy?",
+    "options": [
+      "Gene fusion",
+      "Gene translocation",
+      "Missense mutation",
+      "Nonsense mutation"
+    ],
+    "correct_index": 0,
+    "explanation": "Oncogenic gene fusions create abnormal proteins with uncontrolled signalling, driving malignant transformation.",
+    "specialty": "Genetics",
+    "tags": [
+      "Gene fusion",
+      "Oncogenesis",
+      "Genetics",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 59,
+    "stem": "What proportion of HLA B27 positive people have ankylosing spondylitis?",
+    "options": [
+      "5 percent",
+      "25 percent",
+      "50 percent",
+      "90 percent"
+    ],
+    "correct_index": 0,
+    "explanation": "Only about 5 percent of HLA B27 positive individuals develop ankylosing spondylitis, indicating additional triggers are required.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "HLA B27",
+      "Ankylosing spondylitis",
+      "Rheum",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 60,
+    "stem": "What method is used to reduce the risk of graft versus host disease in patients receiving a blood transfusion?",
+    "options": [
+      "Irradiation",
+      "Leukodepletion",
+      "Haemodilution",
+      "ATG"
+    ],
+    "correct_index": 0,
+    "explanation": "Irradiation of cellular blood products inactivates donor lymphocytes and prevents transfusion associated graft versus host disease, particularly in immunocompromised or HLA matched recipients.",
+    "specialty": "Haematology",
+    "tags": [
+      "Transfusion",
+      "Graft versus host disease",
+      "Irradiated blood",
+      "Haem",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 61,
+    "stem": "Which ECG finding is a minor criterion for acute rheumatic fever?",
+    "options": [
+      "Prolongation of the PR interval",
+      "Wide QRS interval",
+      "Tachycardia",
+      "QT prolongation"
+    ],
+    "correct_index": 0,
+    "explanation": "First degree heart block with PR interval prolongation is a minor Jones criterion for acute rheumatic fever; tachycardia is non specific and QRS or QT changes are not Jones criteria.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Rheumatic fever",
+      "PR prolongation",
+      "Jones criteria",
+      "Cardio",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 62,
+    "stem": "Which of the following is known as the universal plasma donor?",
+    "options": [
+      "O",
+      "AB",
+      "A",
+      "B"
+    ],
+    "correct_index": 1,
+    "explanation": "AB plasma lacks anti A and anti B antibodies and can therefore be given to recipients of any ABO group, making AB the universal plasma donor type.",
+    "specialty": "Haematology",
+    "tags": [
+      "Plasma transfusion",
+      "AB universal donor",
+      "Haem",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 63,
+    "stem": "What is the term for when someone has the desire and physical ability to perform a task but is unable to carry it out on command?",
+    "options": [
+      "Abulia",
+      "Agnosia",
+      "Alexia",
+      "Apraxia"
+    ],
+    "correct_index": 3,
+    "explanation": "Apraxia is the inability to perform learned purposeful movements despite preserved comprehension, strength and coordination; it reflects a disorder of motor planning rather than motivation or primary motor deficit.",
+    "specialty": "Neurology",
+    "tags": [
+      "Apraxia",
+      "Neurocognition",
+      "Neurology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 64,
+    "stem": "If there is a deficiency of terminal complement proteins, what is the impact on the complement pathways?",
+    "options": [
+      "Classic reduced, alternate reduced",
+      "Classic unchanged, alternate unchanged",
+      "Classic reduced, alternate unchanged",
+      "Classic unchanged, alternate reduced"
+    ],
+    "correct_index": 0,
+    "explanation": "Both the classical and alternative pathways converge on C3 and then the terminal components (C5 to C9). Deficiency of terminal complement impairs formation of the membrane attack complex for both pathways.",
+    "specialty": "Immunology",
+    "tags": [
+      "Complement",
+      "Terminal components",
+      "MAC",
+      "Immunology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 65,
+    "stem": "There are multiple hallmarks of cancer. Which hallmark is targeted by immune checkpoint inhibitors?",
+    "options": [
+      "Replicative immortality",
+      "Avoiding immune destruction",
+      "Evading growth suppressors",
+      "Sustained proliferative signalling"
+    ],
+    "correct_index": 1,
+    "explanation": "Checkpoint inhibitors such as anti PD1 and anti CTLA4 antibodies remove inhibitory signals on T cells, restoring immune recognition of tumour cells and counteracting the hallmark of avoiding immune destruction.",
+    "specialty": "Oncology",
+    "tags": [
+      "Hallmarks of cancer",
+      "Checkpoint inhibitor",
+      "Immune evasion",
+      "Oncology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 66,
+    "stem": "Select the most appropriate lung function parameter: the volume of air breathed in and out with each normal breath.",
+    "options": [
+      "Tidal volume",
+      "Inspiratory reserve volume",
+      "Vital capacity",
+      "Functional residual capacity",
+      "FEV1",
+      "Diffusion capacity",
+      "Residual volume",
+      "Total lung capacity"
+    ],
+    "correct_index": 0,
+    "explanation": "Tidal volume is the small volume of air moved in and out of the lungs during quiet breathing, typically about 500 millilitres in an adult.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Lung volumes",
+      "Tidal volume",
+      "Respiratory physiology",
+      "Resp",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 67,
+    "stem": "Select the most appropriate lung function parameter: the volume exhaled with maximal expiration after taking a maximal inspiration.",
+    "options": [
+      "Tidal volume",
+      "Inspiratory reserve volume",
+      "Vital capacity",
+      "Functional residual capacity",
+      "FEV1",
+      "Diffusion capacity",
+      "Residual volume",
+      "Total lung capacity"
+    ],
+    "correct_index": 2,
+    "explanation": "Vital capacity is the maximum volume exhaled after a maximal inspiration and reflects the sum of inspiratory reserve volume, tidal volume and expiratory reserve volume.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Lung volumes",
+      "Vital capacity",
+      "Respiratory physiology",
+      "Resp",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 68,
+    "stem": "Which cognitive test from the list best assesses working memory?",
+    "options": [
+      "Sentence repetition",
+      "Cube drawing",
+      "Naming three objects",
+      "Trail making",
+      "Months of the year backwards",
+      "Design fluency",
+      "Digit span forward",
+      "Sentence writing"
+    ],
+    "correct_index": 4,
+    "explanation": "Reciting the months of the year backwards requires holding and manipulating a well learned sequence, engaging attention and online manipulation, and is commonly used as a bedside working memory task.",
+    "specialty": "Neurology",
+    "tags": [
+      "Working memory",
+      "Months backwards",
+      "Cognitive testing",
+      "Neurology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 69,
+    "stem": "Which cognitive test from the list best assesses visual attention and task switching?",
+    "options": [
+      "Sentence repetition",
+      "Cube drawing",
+      "Naming three objects",
+      "Trail making",
+      "Months of the year backwards",
+      "Design fluency",
+      "Digit span forward",
+      "Sentence writing"
+    ],
+    "correct_index": 3,
+    "explanation": "The trail making test, particularly part B, assesses visual attention, psychomotor speed and the ability to switch between tasks, making it a classic test of set shifting and executive function.",
+    "specialty": "Neurology",
+    "tags": [
+      "Trail making",
+      "Executive function",
+      "Attention",
+      "Neurology",
+      "2020 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 70,
+    "stem": "A 56-year-old man with advanced alcoholic cirrhosis is admitted with an upper gastrointestinal haemorrhage requiring six units of blood. He is later found to have hypoxaemia with PaO2 51 mmHg and PaCO2 30 mmHg on room air, improving to PaO2 560 mmHg on 100 percent oxygen. What is the most likely cause of his arterial hypoxaemia?",
+    "options": [
+      "Ventilation perfusion mismatch",
+      "Intrapulmonary right to left shunt",
+      "Impaired oxygen diffusion",
+      "Reduced alveolar ventilation",
+      "Impaired oxygen carrying capacity of haemoglobin"
+    ],
+    "correct_index": 0,
+    "explanation": "A large increase in PaO2 when breathing 100 percent oxygen is characteristic of ventilation perfusion mismatch, whereas true right to left shunt shows much less improvement with high inspired oxygen.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Ventilation-perfusion mismatch",
+      "Hepatopulmonary syndrome",
+      "Hypoxaemia",
+      "ABG interpretation",
+      "Respiratory failure",
+      "Respiratory",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 71,
+    "stem": "Which one of the following is the most common biochemical association of obesity?",
+    "options": [
+      "Mutation of the insulin receptor",
+      "Reduced serum leptin",
+      "Mutation of the beta3 adrenergic receptor",
+      "Raised serum C peptide",
+      "Raised blood glucose"
+    ],
+    "correct_index": 3,
+    "explanation": "Obesity is classically associated with insulin resistance and compensatory hyperinsulinaemia, reflected biochemically by raised C peptide levels rather than primary receptor mutations or low leptin.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Obesity",
+      "Insulin resistance",
+      "Hyperinsulinaemia",
+      "C-peptide",
+      "Metabolic syndrome",
+      "Endocrine",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 72,
+    "stem": "Which feature of glomerular pathology is least consistent with Wegener granulomatosis?",
+    "options": [
+      "Focal necrosis",
+      "Crescents",
+      "IgG deposition",
+      "T cell infiltrate",
+      "Macrophage infiltrate"
+    ],
+    "correct_index": 2,
+    "explanation": "Wegener granulomatosis causes a pauci immune necrotising crescentic glomerulonephritis with little or no immunoglobulin deposition on immunofluorescence.",
+    "specialty": "Renal",
+    "tags": [
+      "Wegener granulomatosis",
+      "Granulomatosis with polyangiitis",
+      "Pauci-immune glomerulonephritis",
+      "RPGN",
+      "Renal pathology",
+      "Renal",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 73,
+    "stem": "In which circumstance is hepatitis C transmission most likely to occur?",
+    "options": [
+      "Intravenous drug use",
+      "Unprotected sexual activity with multiple partners",
+      "Vaginal delivery from a seropositive PCR negative mother",
+      "Breastfeeding from a seropositive PCR positive mother",
+      "Vaginal delivery from a seropositive, PCR positive mother"
+    ],
+    "correct_index": 0,
+    "explanation": "The highest risk of hepatitis C transmission is with intravenous drug use and needle sharing; sexual, perinatal and breastfeeding transmission are much less efficient.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "Hepatitis C",
+      "IV drug use",
+      "Blood-borne virus",
+      "Viral hepatitis",
+      "Transmission risk",
+      "Infectious diseases",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 74,
+    "stem": "Which is the most appropriate method for DNA genetic diagnosis of Huntington disease?",
+    "options": [
+      "RFLP analysis",
+      "PCR analysis",
+      "Size estimation of a triplet repeat",
+      "Southern hybridisation",
+      "Identification of gene-specific mutations"
+    ],
+    "correct_index": 2,
+    "explanation": "Huntington disease is due to CAG triplet repeat expansion in the HTT gene; diagnosis is made by sizing the repeat length, usually by PCR based sizing methods.",
+    "specialty": "Genetics",
+    "tags": [
+      "Huntington disease",
+      "Triplet repeat",
+      "CAG expansion",
+      "Neurogenetics",
+      "Genetic testing",
+      "Genetics",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 75,
+    "stem": "Transfusion transmitted infections in Australasia are now most likely to occur following infusion of which blood product?",
+    "options": [
+      "Red blood cells",
+      "Platelets",
+      "Factor VIII concentrate",
+      "Fresh frozen plasma",
+      "anti D immunoglobulin"
+    ],
+    "correct_index": 1,
+    "explanation": "Platelets are stored at room temperature, which favours organism survival; despite screening, they carry a higher residual risk of transfusion transmitted infection than other products.",
+    "specialty": "Haematology",
+    "tags": [
+      "Transfusion-transmitted infection",
+      "Platelet transfusion",
+      "Blood products",
+      "Transfusion medicine",
+      "Haematology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 76,
+    "stem": "Which of the following is least likely to be associated with a flare of systemic lupus erythematosus?",
+    "options": [
+      "Falling level of C3",
+      "Falling peripheral blood leucocyte count",
+      "Increasing titre of anti double stranded DNA antibodies",
+      "Increasing peripheral blood platelet count",
+      "Increasing urinary protein level"
+    ],
+    "correct_index": 3,
+    "explanation": "Active SLE is associated with complement consumption, cytopenias, rising anti dsDNA titres and increasing proteinuria; thrombocytopenia is typical, so a rising platelet count is least consistent with a flare.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Systemic lupus erythematosus",
+      "SLE flare",
+      "Disease activity",
+      "Complement",
+      "Anti-dsDNA",
+      "Rheumatology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 77,
+    "stem": "Which is the most likely reason for the increasing prevalence of heart failure in the community?",
+    "options": [
+      "Increasing prevalence of hypertension",
+      "Ageing of the population",
+      "Improvement in age adjusted prognosis of heart failure",
+      "Increasing numbers of older women in the population",
+      "Improved survival of patients with coronary heart disease"
+    ],
+    "correct_index": 4,
+    "explanation": "Better survival after myocardial infarction and other coronary events means more people live long enough to develop chronic left ventricular dysfunction, increasing heart failure prevalence.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Heart failure epidemiology",
+      "Coronary artery disease",
+      "Post-MI survival",
+      "LV dysfunction",
+      "Cardiology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 78,
+    "stem": "A Streptococcus pneumoniae isolate has high level resistance to penicillin with MIC greater than 2 micrograms per litre. It is most likely to be sensitive to which antibiotic?",
+    "options": [
+      "Erythromycin",
+      "Chloramphenicol",
+      "Cefotaxime",
+      "Vancomycin",
+      "Ciprofloxacin"
+    ],
+    "correct_index": 3,
+    "explanation": "High level penicillin resistant pneumococci may have reduced susceptibility to many beta lactams, but they remain reliably susceptible to vancomycin.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "Streptococcus pneumoniae",
+      "Penicillin resistance",
+      "Antibiotic choice",
+      "Vancomycin",
+      "Infectious diseases",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 79,
+    "stem": "Cytokine regulation, especially involving interleukin 2, is least affected by which immunosuppressive drug?",
+    "options": [
+      "Prednisolone",
+      "Mycophenolate",
+      "Cyclosporin",
+      "Tacrolimus",
+      "Rapamycin"
+    ],
+    "correct_index": 1,
+    "explanation": "Mycophenolate primarily inhibits de novo purine synthesis in lymphocytes; it does not directly inhibit IL2 production or signalling like calcineurin inhibitors or steroids.",
+    "specialty": "Immunology",
+    "tags": [
+      "Immunosuppression",
+      "IL-2",
+      "Calcineurin inhibitors",
+      "Mycophenolate",
+      "T-cell activation",
+      "Immunology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 80,
+    "stem": "In a bioavailability study, an intravenous dose of 20 mg gives an AUC of 100 mg hour per litre and an oral dose of 50 mg gives an AUC of 200 mg hour per litre. What is the oral bioavailability?",
+    "options": [
+      "50 percent",
+      "60 percent",
+      "70 percent",
+      "80 percent",
+      "90 percent"
+    ],
+    "correct_index": 3,
+    "explanation": "Bioavailability equals AUC oral divided by AUC IV multiplied by dose IV divided by dose oral. Here 200 100 times 20 50 equals 0 point 8, that is 80 percent.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Bioavailability",
+      "Pharmacokinetics",
+      "AUC",
+      "Drug absorption",
+      "Oral versus IV",
+      "Pharmacology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 81,
+    "stem": "The antigen to which pANCA most commonly binds in neutrophil azurophilic granules is:",
+    "options": [
+      "Myeloperoxidase",
+      "Tumour necrosis factor alpha",
+      "Elastase",
+      "Proteinase 3",
+      "Cathepsin G"
+    ],
+    "correct_index": 0,
+    "explanation": "Perinuclear ANCA in microscopic polyangiitis and related conditions most commonly targets myeloperoxidase in neutrophil granules.",
+    "specialty": "Immunology",
+    "tags": [
+      "pANCA",
+      "Myeloperoxidase",
+      "MPO",
+      "Vasculitis",
+      "ANCA-associated disease",
+      "Immunology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 82,
+    "stem": "A 35-year-old man presents with rectal bleeding. He describes the blood as being mixed with the stool. He is otherwise well. His brother was diagnosed with bowel cancer at the age of 38. At colonoscopy he was found to have two exophytic tumours, one at the hepatic flexure, the other in the distal transverse colon. The remainder of the colon was normal. Biopsies of both areas showed adenocarcinoma. The most likely genetic disorder in this family is",
+    "options": [
+      "Familial adenomatous polyposis coli",
+      "Hereditary non polyposis colorectal cancer",
+      "Gardner syndrome",
+      "Peutz Jeghers syndrome",
+      "a p53 gene mutation"
+    ],
+    "correct_index": 1,
+    "explanation": "Hereditary non polyposis colorectal cancer, or Lynch syndrome, causes early onset proximal colon cancers without the hundreds of adenomas seen in FAP.",
+    "specialty": "Oncology",
+    "tags": [
+      "Colorectal cancer",
+      "HNPCC",
+      "Lynch syndrome",
+      "Mismatch repair",
+      "Hereditary cancer",
+      "Oncology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 83,
+    "stem": "Which best describes the association between insulin resistance and coronary heart disease?",
+    "options": [
+      "Independent of total cholesterol",
+      "Confined to subjects with low HDL cholesterol",
+      "Confined to obese individuals",
+      "Confined to hypertensive subjects only",
+      "Confined to diabetic subjects only"
+    ],
+    "correct_index": 0,
+    "explanation": "Hyperinsulinaemia and insulin resistance predict coronary heart disease independent of total cholesterol and other conventional risk factors.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Insulin resistance",
+      "Hyperinsulinaemia",
+      "Metabolic risk",
+      "Coronary heart disease",
+      "Endocrine",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 84,
+    "stem": "A type 2 helper T lymphocyte differs most from a type 1 helper T lymphocyte in which of the following?",
+    "options": [
+      "Surface expression of CD4",
+      "Surface expression of MHC class II",
+      "Production of interleukin 3",
+      "Production of interleukin 5",
+      "Responsiveness to antigen presented by macrophages"
+    ],
+    "correct_index": 3,
+    "explanation": "Th2 cells characteristically produce IL5 and IL4, supporting humoral and eosinophilic responses, whereas Th1 cells produce IL2 and interferon gamma.",
+    "specialty": "Immunology",
+    "tags": [
+      "T helper cells",
+      "Th1 Th2 differentiation",
+      "IL-5",
+      "Eosinophils",
+      "Immune regulation",
+      "Immunology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 85,
+    "stem": "Which best describes hepatitis E virus infection?",
+    "options": [
+      "Enteric transmission, acute self limiting course, increased mortality in pregnant women",
+      "Parenteral transmission, chronic course, mortality due to chronic liver disease",
+      "Mode of transmission unknown, chronic course, mortality due to chronic liver disease",
+      "Parenteral transmission, acute self limiting course, increased mortality in pregnant women",
+      "Mode of transmission unknown, chronic course, does not cause clinically significant illness"
+    ],
+    "correct_index": 0,
+    "explanation": "Hepatitis E is an enterically transmitted acute hepatitis that is usually self limiting but carries high mortality in pregnant women.",
+    "specialty": "Infectious diseases",
+    "tags": [
+      "Hepatitis E",
+      "Enteric transmission",
+      "Acute hepatitis",
+      "Pregnancy mortality",
+      "Viral hepatitis",
+      "Infectious diseases",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 86,
+    "stem": "A renal transplant patient develops hyperglycaemia three months after transplantation. Which therapy is least likely to contribute to hyperglycaemia?",
+    "options": [
+      "Tacrolimus",
+      "Prednisolone",
+      "Azathioprine",
+      "Cyclosporin",
+      "Atenolol"
+    ],
+    "correct_index": 2,
+    "explanation": "Steroids and calcineurin inhibitors such as tacrolimus and cyclosporin impair glucose tolerance, whereas azathioprine is not typically diabetogenic.",
+    "specialty": "Renal",
+    "tags": [
+      "Renal transplant",
+      "Post-transplant diabetes",
+      "Calcineurin inhibitors",
+      "Steroid-induced hyperglycaemia",
+      "Renal",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 87,
+    "stem": "A 56-year-old man with severe emphysema and FEV1 of 0.7 litres is to have lung volume reduction surgery. What is the most likely outcome?",
+    "options": [
+      "A 50% possibility of a major complication",
+      "No change in FEV1",
+      "No change in exercise capacity",
+      "A 50% increase in FEV1",
+      "A 100% increase in exercise capacity"
+    ],
+    "correct_index": 0,
+    "explanation": "In appropriately selected patients lung volume reduction surgery can produce substantial gains in FEV1, of the order of 20-30%, although with important perioperative risk. It comes with up to a 50% risk of major adverse complications.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Emphysema",
+      "Lung volume reduction surgery",
+      "FEV1",
+      "Exercise capacity",
+      "Respiratory",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 88,
+    "stem": "For which of the following cancers is there least evidence of familial aggregation?",
+    "options": [
+      "Breast cancer",
+      "Germ cell tumours of the testis",
+      "Lung cancer",
+      "Ovarian cancer",
+      "Prostate cancer"
+    ],
+    "correct_index": 2,
+    "explanation": "Breast, ovarian, prostate and testicular germ cell tumours all show clear familial clustering; lung cancer is more strongly linked to shared environmental risk such as smoking.",
+    "specialty": "Oncology",
+    "tags": [
+      "Familial cancer risk",
+      "Breast cancer",
+      "Ovarian cancer",
+      "Lung cancer",
+      "Environmental risk",
+      "Oncology",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 89,
+    "stem": "In managing osteoporosis with alendronate, which property most influences the method of administration?",
+    "options": [
+      "Long half life in bone",
+      "Potential renal toxicity",
+      "Rapid clearance from plasma",
+      "Propensity to complex with mineral cations",
+      "Potential to casue diarrhoea"
+    ],
+    "correct_index": 3,
+    "explanation": "Oral bisphosphonates such as alendronate bind strongly to calcium and other cations, so they must be taken fasting with plain water and separated from food or supplements to allow absorption.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Alendronate",
+      "Bisphosphonates",
+      "Drug absorption",
+      "GI administration",
+      "Osteoporosis",
+      "Endocrine",
+      "1999 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 90,
+    "stem": "In a 25 year old female with atopic dermatitis, what is the most likely finding?",
+    "options": [
+      "Skin prick test positive to house dust mites",
+      "Rash in the flexor surfaces of elbows and knees",
+      "Skin Biopsy with eosinophils present",
+      "RAST",
+      "Serum IgE > 4000",
+      "Photosensitivity"
+    ],
+    "correct_index": 1,
+    "explanation": "Atopic dermatitis in adults classically presents with a chronic pruritic eczematous rash affecting flexural areas such as the antecubital and popliteal fossae; while elevated IgE and positive allergen tests can occur, they are not universal or required for diagnosis, and features like photosensitivity are not typical.",
+    "specialty": "Immunology",
+    "tags": [
+      "Atopic dermatitis",
+      "Eczema",
+      "Flexural rash",
+      "Antecubital fossa",
+      "Popliteal fossa",
+      "Pruritus",
+      "Atopy",
+      "Dermatology",
+      "Adult eczema",
+      "2010 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 91,
+    "stem": "In the immune system, what is the role of Toll Like receptors?",
+    "options": [
+      "Innate Immune system",
+      "Activation of neutrophils",
+      "Activation of Treg cells",
+      "Activation of the membrane attack complex",
+      "Activation of B-cells"
+    ],
+    "correct_index": 0,
+    "explanation": "Toll like receptors are pattern recognition receptors of the innate immune system that detect pathogen associated molecular patterns and initiate early immune responses.",
+    "specialty": "Immunology",
+    "tags": [
+      "TLR",
+      "Innate immunity",
+      "Pattern recognition receptors",
+      "PAMPs",
+      "Immune activation",
+      "2010 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 92,
+    "stem": "Which of the following vaccinations is relatively contraindicated in immunocompromised patient?",
+    "options": [
+      "HPV",
+      "Influenzae",
+      "Pneumococcal polysaccharide",
+      "Tetanus toxoid",
+      "VZV vaccination"
+    ],
+    "correct_index": 4,
+    "explanation": "Live attenuated vaccines such as VZV are relatively contraindicated in immunocompromised patients due to risk of disseminated infection.",
+    "specialty": "Immunology",
+    "tags": [
+      "Vaccination",
+      "Immunocompromised",
+      "Live vaccines",
+      "VZV",
+      "Contraindication",
+      "2010 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 93,
+    "stem": "A patient with IgA deficiency serum IgA undetectable is undergoing planning for a liver transplant. Which of the following is the major postoperative factor to consider during his perioperative management?",
+    "options": [
+      "Antibiotic administration",
+      "Blood transfusion anti IgA antibodies can cause anaphylaxis",
+      "Hepatobiliary anastomotic stricture",
+      "Immunosuppression",
+      "Post operative ventilation"
+    ],
+    "correct_index": 1,
+    "explanation": "Patients with IgA deficiency may develop anti IgA antibodies and can have anaphylaxis with blood transfusion.",
+    "specialty": "Immunology",
+    "tags": [
+      "IgA deficiency",
+      "Blood transfusion",
+      "Anaphylaxis",
+      "Anti IgA antibodies",
+      "Transplant",
+      "2010 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 94,
+    "stem": "What is the most common phenotype in someone who has IgG subclass deficiency?",
+    "options": [
+      "Autoimmune disease",
+      "Atopy",
+      "Normal phenotype",
+      "Chronic gastrointestinal infections",
+      "Recurrent sinopulmonary infections"
+    ],
+    "correct_index": 4,
+    "explanation": "IgG subclass deficiency most commonly presents with recurrent sinopulmonary infections due to impaired response to encapsulated organisms.",
+    "specialty": "Immunology",
+    "tags": [
+      "IgG subclass deficiency",
+      "Sinopulmonary infections",
+      "Humoral immunity",
+      "Encapsulated organisms",
+      "2010 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 95,
+    "stem": "A 35 year old man with Streptococcus pyogenes cellulitis of the right foot and a distant history of penicillin allergy unclear reaction as a child. What is the best method to test for allergy status in this man?",
+    "options": [
+      "In vitro IgE for penicillin RAST",
+      "In vitro total IgE",
+      "Graded oral flucloxacillin challenge",
+      "Skin prick and intradermal testing for penicillin",
+      "Skin prick and intradermal testing for cephazolin"
+    ],
+    "correct_index": 3,
+    "explanation": "Skin prick and intradermal testing is the best validated method to assess penicillin allergy risk.",
+    "specialty": "Immunology",
+    "tags": [
+      "Penicillin allergy",
+      "Skin testing",
+      "Drug allergy",
+      "Intradermal test",
+      "RAST",
+      "2010 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 96,
+    "stem": "HLA B5701 testing is now performed in HIV clinics. Which one of the following reactions does it screen for?",
+    "options": [
+      "Efavirenz CNS symptoms",
+      "Abacavir Rash Hypersensitivity reaction",
+      "Bactrim Rash",
+      "Tenofovir renal impairment",
+      "Adefovir lactic acidosis"
+    ],
+    "correct_index": 1,
+    "explanation": "HLA B5701 predicts risk of abacavir hypersensitivity reaction which can be severe and life threatening.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "HLA B5701",
+      "Abacavir",
+      "Hypersensitivity",
+      "HIV",
+      "Pharmacogenomics",
+      "2010 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 97,
+    "stem": "Which of the following best describes the method by which NK cells kill virally infected cells?",
+    "options": [
+      "Complement activation",
+      "Activation of virus specific B cells",
+      "Lysis of cells that have reduced MHC expression",
+      "Direct binding to highly conserved virus structures",
+      "Opsonisation of virus particles"
+    ],
+    "correct_index": 2,
+    "explanation": "NK cells recognise reduced MHC class I expression and induce apoptosis via perforin and granzyme.",
+    "specialty": "Immunology",
+    "tags": [
+      "NK cells",
+      "MHC class I",
+      "Perforin",
+      "Granzyme",
+      "Innate immunity",
+      "2011 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 98,
+    "stem": "A young adult presents with recurrent mild meningococcal infections. What is the likely primary immunodeficiency?",
+    "options": [
+      "CD4",
+      "CD8",
+      "Neutrophil",
+      "Total haemolytic complement level CH50",
+      "Immunoglobulins"
+    ],
+    "correct_index": 3,
+    "explanation": "Recurrent Neisseria infections suggest terminal complement deficiency screened with reduced CH50.",
+    "specialty": "Immunology",
+    "tags": [
+      "Complement deficiency",
+      "Neisseria",
+      "CH50",
+      "MAC",
+      "Recurrent infection",
+      "2011 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 99,
+    "stem": "Anaphylaxis is initiated by:",
+    "options": [
+      "Allergen induced production of IgE by B cells",
+      "Binding of allergen to IgE receptors on mast cells",
+      "Recruitment of basophils and eosinophils by IL 13",
+      "Release of leukotrienes and cytokines by mast cells",
+      "Spontaneous release of preformed histamine and tryptase granules from mast cells"
+    ],
+    "correct_index": 1,
+    "explanation": "Anaphylaxis is triggered by allergen cross linking IgE on mast cells leading to degranulation.",
+    "specialty": "Immunology",
+    "tags": [
+      "Anaphylaxis",
+      "IgE",
+      "Mast cells",
+      "Hypersensitivity",
+      "Type I reaction",
+      "2011 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 100,
+    "stem": "Common Variable Immunodeficiency CVID is the most common primary immunodeficiency in adults. The pathogenesis of this condition is best explained by:",
+    "options": [
+      "Absence of T and B co stimulatory signals",
+      "Absence of neutrophil respiratory burst",
+      "Dysfunction in T cell signalling and activation",
+      "Disorder of B Cell maturation",
+      "Absent or reduced B Cell function"
+    ],
+    "correct_index": 3,
+    "explanation": "CVID is due to failure of B cells to mature into plasma cells resulting in impaired immunoglobulin production.",
+    "specialty": "Immunology",
+    "tags": [
+      "CVID",
+      "B cell maturation",
+      "Immunodeficiency",
+      "Plasma cells",
+      "Antibody deficiency",
+      "2011 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 101,
+    "stem": "A 54 year old man with a history of HIV AIDS presents with focal left hand motor seizures. A CT brain shows a 3cm enhancing lesion in the right frontal lobe. What is the most likely cause?",
+    "options": [
+      "Glioma",
+      "Meningioma",
+      "Primary cerebral lymphoma",
+      "Secondary cerebral lymphoma",
+      "Secondary Kaposi sarcoma"
+    ],
+    "correct_index": 2,
+    "explanation": "In advanced HIV a solitary enhancing brain lesion is most consistent with primary CNS lymphoma often EBV associated.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "HIV",
+      "CNS lymphoma",
+      "EBV",
+      "Brain lesion",
+      "Seizures",
+      "2011 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 102,
+    "stem": "A 34 year old man presents with recurrent sinusitis and bronchitis with previous lobar pneumonias and low IgG and IgA with normal B cell count. What is the most likely diagnosis?",
+    "options": [
+      "CVID",
+      "HIV",
+      "IgG subclass deficiency",
+      "Selective IgA deficiency",
+      "SCID"
+    ],
+    "correct_index": 0,
+    "explanation": "Low IgG and IgA with normal B cells and recurrent infections indicates CVID due to impaired B cell maturation.",
+    "specialty": "Immunology",
+    "tags": [
+      "CVID",
+      "Immunodeficiency",
+      "IgG",
+      "IgA",
+      "Recurrent infections",
+      "B cell dysfunction",
+      "2011 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 103,
+    "stem": "A nurse sustains a needlestick injury from a patient with HIV and high viral load poorly compliant with therapy. What is the appropriate advice for post exposure prophylaxis?",
+    "options": [
+      "Await HIV genotype before starting treatment",
+      "Enrol in experimental prophylaxis program",
+      "Give antiretrovirals the patient has never been exposed to",
+      "Prescribe same antiretrovirals as patient",
+      "Reassure no further action needed"
+    ],
+    "correct_index": 2,
+    "explanation": "PEP should use drugs the source patient has not been exposed to to avoid resistance.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "HIV",
+      "Needlestick",
+      "PEP",
+      "Antiretrovirals",
+      "Resistance",
+      "2011 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 104,
+    "stem": "A 26 year old woman has had 2 previous miscarriages. Which antibody is associated with the highest future risk of miscarriages?",
+    "options": [
+      "Anti cardiolipin",
+      "Anti Ro",
+      "ANA",
+      "Anti LA",
+      "Anti Sm",
+      "Anti histone"
+    ],
+    "correct_index": 0,
+    "explanation": "Anticardiolipin antibodies are part of antiphospholipid syndrome causing recurrent miscarriage via placental thrombosis.",
+    "specialty": "Immunology",
+    "tags": [
+      "Antiphospholipid syndrome",
+      "Anticardiolipin",
+      "Recurrent miscarriage",
+      "Thrombosis",
+      "Autoimmune",
+      "2011 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 105,
+    "stem": "Absence of B cells is characteristic of which primary disorder?",
+    "options": [
+      "Chronic granulomatous disease CGD",
+      "Common variable immunodeficiency CVID",
+      "Di George Syndrome",
+      "X linked agammaglobulinaemia XLA",
+      "X linked lymphoproliferative disease XLP"
+    ],
+    "correct_index": 3,
+    "explanation": "XLA causes failure of B cell maturation due to BTK mutation leading to absent peripheral B cells and low immunoglobulins.",
+    "specialty": "Immunology",
+    "tags": [
+      "XLA",
+      "BTK",
+      "B cell deficiency",
+      "Agammaglobulinaemia",
+      "Primary immunodeficiency",
+      "2012 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 106,
+    "stem": "What is the role of the HLA human leukocyte antigen or MHC major histocompatibility complex in the immune response?",
+    "options": [
+      "Presentation of antigens to T cells",
+      "Co stimulation between T and B cells",
+      "Production of cytokines",
+      "Production of pathogenic autoantibodies",
+      "Stimulation of natural killer NK cells"
+    ],
+    "correct_index": 0,
+    "explanation": "MHC molecules present antigen peptides to T cells enabling adaptive immune activation.",
+    "specialty": "Immunology",
+    "tags": [
+      "MHC",
+      "HLA",
+      "Antigen presentation",
+      "T cells",
+      "Adaptive immunity",
+      "2012 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 107,
+    "stem": "You suspect a patient has a T cell immunodeficiency. Which recurrent infections would support this suspicion?",
+    "options": [
+      "Candida glabrata oesophagitis",
+      "Gardnerella vaginalis vulvovaginitis",
+      "Neisseria meningitidis meningitis",
+      "Staphylococcus aureus furunculosis",
+      "Streptococcus pneumoniae pneumonia"
+    ],
+    "correct_index": 0,
+    "explanation": "T cell deficiency predisposes to opportunistic fungal infections such as Candida oesophagitis.",
+    "specialty": "Immunology",
+    "tags": [
+      "T cell deficiency",
+      "Candida",
+      "Opportunistic infection",
+      "Cell mediated immunity",
+      "Fungal infection",
+      "2012 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 108,
+    "stem": "This is a picture of a woman with Stevens Johnson Syndrome Toxic Epidermal Necrolysis. Which of the following is the most likely cause of this condition?",
+    "options": [
+      "Amoxycillin",
+      "Erythromycin",
+      "Lamotrigine",
+      "Levetiracetam",
+      "Trimethoprim"
+    ],
+    "correct_index": 2,
+    "explanation": "SJS TEN is most strongly associated with antiepileptics such as lamotrigine.",
+    "specialty": "Immunology",
+    "tags": [
+      "SJS",
+      "TEN",
+      "Lamotrigine",
+      "Drug reaction",
+      "Hypersensitivity",
+      "2012 CA"
+    ],
+    "image_path": "images/q0004.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 109,
+    "stem": "45 year old male ex IVDU stable on methadone with HIV recently started on a protease inhibitor presents with anxiety abdominal cramps nausea vomiting diarrhoea sweating and hypertension. What is the most appropriate course of action?",
+    "options": [
+      "Cease the protease inhibitor",
+      "Increase the dose of methadone",
+      "Investigate for opportunistic infection",
+      "Prescribe an anxiolytic such as diazepam",
+      "Reassure this is expected side effect"
+    ],
+    "correct_index": 1,
+    "explanation": "Protease inhibitors increase methadone metabolism causing opioid withdrawal requiring dose increase.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "Methadone",
+      "HIV",
+      "Protease inhibitor",
+      "Drug interaction",
+      "Opioid withdrawal",
+      "2012 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 110,
+    "stem": "A 20 year old male presents with erythematous rash arthralgia fever weight loss abdominal pain and leukocytoclastic vasculitis on biopsy. What is the expected finding on deep dermal immunofluorescence?",
+    "options": [
+      "Complement C3",
+      "Fibrinogen",
+      "IgA",
+      "IgG",
+      "IgM"
+    ],
+    "correct_index": 2,
+    "explanation": "IgA vasculitis shows IgA deposition in vessel walls on immunofluorescence.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "IgA vasculitis",
+      "Henoch Schonlein purpura",
+      "Leukocytoclastic vasculitis",
+      "IgA",
+      "Immune complexes",
+      "2012 CA"
+    ],
+    "image_path": "images/q0005.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 111,
+    "stem": "The most important event in complement dependent cytotoxicity is:",
+    "options": [
+      "Fc receptor binding to membrane bound antigens",
+      "Something about membrane lipid rafts",
+      "Fas Fas ligand induced apoptosis",
+      "Formation of membrane attack complex",
+      "Perforin mediated cytolysis"
+    ],
+    "correct_index": 3,
+    "explanation": "Complement dependent cytotoxicity results in formation of the membrane attack complex causing cell lysis.",
+    "specialty": "Immunology",
+    "tags": [
+      "Complement",
+      "MAC",
+      "Cytotoxicity",
+      "Immune response",
+      "C5b-9",
+      "2013 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 112,
+    "stem": "What test is most likely to confirm a primary immunodeficiency in a 25 year old female?",
+    "options": [
+      "B cell level",
+      "T cell level",
+      "Complement CH50 assay",
+      "IgG level",
+      "IgM level"
+    ],
+    "correct_index": 3,
+    "explanation": "Serum IgG measurement is the most useful initial test for adult primary immunodeficiency especially CVID.",
+    "specialty": "Immunology",
+    "tags": [
+      "Primary immunodeficiency",
+      "IgG",
+      "CVID",
+      "Screening",
+      "Humoral immunity",
+      "2013 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 113,
+    "stem": "What is the key cell type involved in graft versus host disease in an allogenic cord stem cell transplant?",
+    "options": [
+      "B cells",
+      "NK cells",
+      "Dendritic cells",
+      "T cells"
+    ],
+    "correct_index": 3,
+    "explanation": "GVHD is mediated by donor T cells recognising recipient tissues as foreign.",
+    "specialty": "Immunology",
+    "tags": [
+      "GVHD",
+      "T cells",
+      "Transplant",
+      "Allogenic",
+      "Immune response",
+      "2013 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 114,
+    "stem": "You suspect a patient has a T cell immunodeficiency. Which recurrent infections would support this suspicion?",
+    "options": [
+      "Candida glabrata oesophagitis",
+      "Gardnerella vaginalis vulvovaginitis",
+      "Neisseria meningitidis meningitis",
+      "Staphylococcus aureus furunculosis",
+      "Streptococcus pneumoniae pneumonia"
+    ],
+    "correct_index": 0,
+    "explanation": "T cell deficiency predisposes to opportunistic fungal infections such as Candida oesophagitis.",
+    "specialty": "Immunology",
+    "tags": [
+      "T cell deficiency",
+      "Candida",
+      "Opportunistic infection",
+      "Fungal",
+      "Cell mediated immunity",
+      "2013 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 115,
+    "stem": "A middle aged patient presents with headache lethargy lymphadenopathy and a purpuric rash on his feet with cryoglobulins and an IgM paraprotein. What is the most likely diagnosis?",
+    "options": [
+      "Hepatitis C infection",
+      "Rheumatoid arthritis",
+      "Sjogren syndrome",
+      "Waldenstrom macroglobulinaemia",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_index": 3,
+    "explanation": "Type I cryoglobulinaemia with monoclonal IgM is classically associated with Waldenstrom macroglobulinaemia.",
+    "specialty": "Haematology",
+    "tags": [
+      "Cryoglobulinaemia",
+      "IgM",
+      "Waldenstrom",
+      "Hyperviscosity",
+      "Lymphoproliferative",
+      "2013 CA"
+    ],
+    "image_path": "images/q0006.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 116,
+    "stem": "A 43 year old woman presents with proximal muscle weakness anti Jo 1 positive ANA positive CK 2000 ESR 60 EMG myopathic changes. What is the worst prognostic feature?",
+    "options": [
+      "Dysphagia",
+      "Rash",
+      "CK greater than 2000",
+      "Interstitial lung disease",
+      "Raynaud phenomenon"
+    ],
+    "correct_index": 3,
+    "explanation": "Interstitial lung disease is the major cause of morbidity and mortality in antisynthetase syndrome.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Antisynthetase",
+      "Anti Jo 1",
+      "Myositis",
+      "ILD",
+      "Prognosis",
+      "2013 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 117,
+    "stem": "A patient with newly diagnosed partial epilepsy started on carbamazepine develops a maculopapular rash after 2 weeks. What is the predominant cell type involved?",
+    "options": [
+      "T cells",
+      "IgG",
+      "Complement",
+      "IgE",
+      "B cells"
+    ],
+    "correct_index": 0,
+    "explanation": "This is a type IV delayed hypersensitivity reaction mediated by T cells.",
+    "specialty": "Immunology",
+    "tags": [
+      "Type IV hypersensitivity",
+      "T cells",
+      "Drug rash",
+      "Carbamazepine",
+      "Delayed reaction",
+      "2013 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 118,
+    "stem": "What is the greatest predictor of future thrombosis in patients with antiphospholipid syndrome?",
+    "options": [
+      "Annexin A5 antibody",
+      "Anticardiolipin antibody",
+      "Lupus anticoagulant",
+      "Beta 2 glycoprotein 1 antibody",
+      "Anti thrombin antibody"
+    ],
+    "correct_index": 2,
+    "explanation": "Lupus anticoagulant is the strongest predictor of thrombosis risk in antiphospholipid syndrome.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "APS",
+      "Lupus anticoagulant",
+      "Thrombosis",
+      "Autoimmune",
+      "Hypercoagulable",
+      "2013 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 119,
+    "stem": "A 23 year old woman presents with fatigue weight loss and symmetrical small joint swelling. Which is the best test to establish the diagnosis?",
+    "options": [
+      "Rheumatoid factor RF",
+      "Anti CCP antibodies",
+      "ESR",
+      "CRP",
+      "ANA",
+      "Hand X ray",
+      "Serum uric acid",
+      "Creatine kinase CK"
+    ],
+    "correct_index": 1,
+    "explanation": "Anti-CCP antibodies are ~95 to 98% specific for Rheumatoid arthritis and can be positive early, even before radiographic changes. They also predict a more aggressive, erosive disease course.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Rheumatoid arthritis",
+      "Anti CCP",
+      "Diagnosis",
+      "Autoimmune",
+      "Small joints",
+      "2013 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 120,
+    "stem": "What is the gold standard test for diagnosis of food allergy?",
+    "options": [
+      "RAST IgE",
+      "Skin prick test",
+      "Food challenge",
+      "IgE level",
+      "Eosinophils"
+    ],
+    "correct_index": 2,
+    "explanation": "Oral food challenge is the gold standard for diagnosing food allergy.",
+    "specialty": "Immunology",
+    "tags": [
+      "Food allergy",
+      "Oral challenge",
+      "Gold standard",
+      "IgE",
+      "Allergy testing",
+      "2013 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 121,
+    "stem": "A 20 year old male presents with rash arthralgia abdominal pain and leukocytoclastic vasculitis. What is the expected finding on deep dermal immunofluorescence?",
+    "options": [
+      "Complement C3",
+      "Fibrinogen",
+      "IgA",
+      "IgG",
+      "IgM"
+    ],
+    "correct_index": 2,
+    "explanation": "IgA vasculitis shows IgA deposition in vessel walls on immunofluorescence.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "IgA vasculitis",
+      "Henoch Schonlein purpura",
+      "IgA",
+      "Leukocytoclastic vasculitis",
+      "Immune complexes",
+      "2013 CA"
+    ],
+    "image_path": "images/q0005.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 122,
+    "stem": "A 20 year old young woman has recurrent facial swelling shown below. Which of the following is the most sensitive test for her condition?",
+    "options": [
+      "C4 level",
+      "Tryptase",
+      "Histamine",
+      "IgE",
+      "Eosinophils"
+    ],
+    "correct_index": 0,
+    "explanation": "Low C4 is the most sensitive screening test for hereditary angioedema due to C1 esterase inhibitor deficiency.",
+    "specialty": "Immunology",
+    "tags": [
+      "Hereditary angioedema",
+      "C4",
+      "C1 esterase inhibitor",
+      "Angioedema",
+      "Complement",
+      "2014 MS"
+    ],
+    "image_path": "images/q0007.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 123,
+    "stem": "Delay in the time to giving which of the following intervention worsens prognosis for anaphylaxis:",
+    "options": [
+      "Adrenaline",
+      "Bronchodilators",
+      "Corticosteroids",
+      "Anti histamines",
+      "IV fluids"
+    ],
+    "correct_index": 0,
+    "explanation": "Early intramuscular adrenaline is the most important intervention in anaphylaxis and delays worsen outcomes.",
+    "specialty": "Immunology",
+    "tags": [
+      "Anaphylaxis",
+      "Adrenaline",
+      "Emergency",
+      "Management",
+      "Hypersensitivity",
+      "2014 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 124,
+    "stem": "Complete absence of B lymphocytes is seen in which condition?",
+    "options": [
+      "Chronic granulomatous disease",
+      "X linked agammaglobulinaemia",
+      "Di George syndrome",
+      "Common variable immunodeficiency",
+      "X linked lymphoproliferative disease"
+    ],
+    "correct_index": 1,
+    "explanation": "X linked agammaglobulinaemia causes failure of B cell maturation leading to absent peripheral B lymphocytes.",
+    "specialty": "Immunology",
+    "tags": [
+      "XLA",
+      "BTK",
+      "B cells",
+      "Agammaglobulinaemia",
+      "Primary immunodeficiency",
+      "2014 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 125,
+    "stem": "A 25 year old woman presents with recurrent sinopulmonary infections. A deficiency of which of the following suggests a primary immunodeficiency?",
+    "options": [
+      "B cells",
+      "T cells",
+      "IgG",
+      "IgM",
+      "Ch50 complement level"
+    ],
+    "correct_index": 2,
+    "explanation": "IgG deficiency is the key marker of humoral immunodeficiency causing recurrent sinopulmonary infections.",
+    "specialty": "Immunology",
+    "tags": [
+      "IgG",
+      "Primary immunodeficiency",
+      "Sinopulmonary infections",
+      "Humoral immunity",
+      "CVID",
+      "2014 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 126,
+    "stem": "In kidney or other solid organ transplant, what confers the greatest risk of CMV post transplant?",
+    "options": [
+      "Past CMV infection",
+      "Continued immune suppression with tacrolimus",
+      "Methylprednisone pulse for acute rejection",
+      "CMV +ve organ donor and CMV naive recipient",
+      "ATG for acute rejection"
+    ],
+    "correct_index": 3,
+    "explanation": "Greatest CMV risk is donor positive recipient negative causing primary infection in immunosuppressed host.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "CMV",
+      "Transplant",
+      "D positive R negative",
+      "Immunosuppression",
+      "Infection risk",
+      "2014 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 127,
+    "stem": "In patients with primary common variable immunodeficiency syndrome, which of the following malignancies is most common when compared to the general population?",
+    "options": [
+      "Non melanotic skin cancer",
+      "Breast cancer",
+      "Non Hodgkin lymphoma",
+      "Acute myeloid leukemia",
+      "Multiple myeloma"
+    ],
+    "correct_index": 2,
+    "explanation": "CVID is associated with increased risk of lymphoproliferative disorders especially non Hodgkin lymphoma.",
+    "specialty": "Immunology",
+    "tags": [
+      "CVID",
+      "Lymphoma",
+      "Malignancy",
+      "Immunodeficiency",
+      "B cell proliferation",
+      "2014 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 128,
+    "stem": "What side effect must a patient about to start carbamazepine be warned about?",
+    "options": [
+      "Agranulocytosis",
+      "Hepatotoxicity",
+      "Syncope",
+      "Severe skin reactions",
+      "Psychosis"
+    ],
+    "correct_index": 3,
+    "explanation": "Carbamazepine is associated with severe skin reactions such as Stevens Johnson syndrome and TEN.",
+    "specialty": "Immunology",
+    "tags": [
+      "Carbamazepine",
+      "SJS",
+      "TEN",
+      "Drug reaction",
+      "Hypersensitivity",
+      "2014 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 129,
+    "stem": "A 28 year old man has a 10 year history of recurrent respiratory infections. His CT chest is shown below. Blood tests are as follows Hb Normal WCC Normal Platelets Normal Lymphocytes Normal Neutrophils Normal IgG Decreased IgM Decreased IgA Decreased Normal T cell subsets Normal CD 19 count What is the most likely diagnosis?",
+    "options": [
+      "Common variable immunodeficiency",
+      "Cystic fibrosis",
+      "HIV",
+      "Severe congenital immunodeficiency",
+      "X linked agammaglobulinaemia"
+    ],
+    "correct_index": 0,
+    "explanation": "Low IgG IgA and IgM with normal B cells and T cells indicates CVID.",
+    "specialty": "Immunology",
+    "tags": [
+      "CVID",
+      "Hypogammaglobulinaemia",
+      "Recurrent infections",
+      "B cells",
+      "Humoral deficiency",
+      "2014 CA"
+    ],
+    "image_path": "images/q0008.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 130,
+    "stem": "The pathogenesis of periodic fever syndrome is thought to primarily involve?",
+    "options": [
+      "Natural killer cells",
+      "Cytokines",
+      "Inflammasomes",
+      "Eosinophils",
+      "Neutrophils"
+    ],
+    "correct_index": 2,
+    "explanation": "Periodic fever syndromes are driven by inflammasome activation leading to IL 1 mediated inflammation.",
+    "specialty": "Immunology",
+    "tags": [
+      "Inflammasome",
+      "Periodic fever",
+      "Autoinflammatory",
+      "IL1",
+      "Innate immunity",
+      "2014 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 131,
+    "stem": "In contact dermatitis, which cell type is most responsible for the formation of wheal and oedema?",
+    "options": [
+      "B cells",
+      "T cells",
+      "Eosinophils",
+      "Mast cells",
+      "Neutrophils"
+    ],
+    "correct_index": 3,
+    "explanation": "Wheal and oedema are due to mast cell degranulation releasing histamine causing increased vascular permeability.",
+    "specialty": "Immunology",
+    "tags": [
+      "Contact dermatitis",
+      "Mast cells",
+      "Histamine",
+      "Wheal",
+      "Type IV hypersensitivity",
+      "2015 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 132,
+    "stem": "What is the most common manifestation of secondary immunodeficiency caused by chronic systemic steroid use?",
+    "options": [
+      "Bacterial bronchopneumonia",
+      "Folliculitis",
+      "Herpes zoster",
+      "Oral candidiasis",
+      "Viral meningitis"
+    ],
+    "correct_index": 0,
+    "explanation": "Chronic steroid use most commonly predisposes to bacterial infections particularly bronchopneumonia.",
+    "specialty": "Immunology",
+    "tags": [
+      "Steroids",
+      "Immunosuppression",
+      "Bacterial infection",
+      "Bronchopneumonia",
+      "Secondary immunodeficiency",
+      "2015 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 133,
+    "stem": "Subcutaneous and sublingual desensitisation immunotherapy is fast becoming widely accepted as effective treatment for aeroallergen desensitisation. Absolute numbers of which of the following cells is most likely to increase with immunotherapy?",
+    "options": [
+      "Eosinophils",
+      "Macrophages",
+      "Th1 helper T lymphocytes",
+      "Regulatory Treg lymphocytes",
+      "Natural killer NK lymphocytes"
+    ],
+    "correct_index": 3,
+    "explanation": "Immunotherapy increases regulatory T cells which suppress allergic Th2 responses and promote tolerance.",
+    "specialty": "Immunology",
+    "tags": [
+      "Immunotherapy",
+      "Treg",
+      "Allergy",
+      "Desensitisation",
+      "Immune tolerance",
+      "2015 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 134,
+    "stem": "Young boy presents with recurrent sinopulmonary infection and two episodes of bronchial pneumonia. Bloods show low IgG low IgA normal IgE. What is the most likely diagnosis?",
+    "options": [
+      "Common variable immunodeficiency",
+      "X linked agammaglobulinaemia",
+      "Severe combined immunodeficiency",
+      "Leucocyte adhesion deficiency",
+      "Chronic granulomatous disease"
+    ],
+    "correct_index": 0,
+    "explanation": "Low IgG and IgA with recurrent infections suggests CVID with impaired antibody production.",
+    "specialty": "Immunology",
+    "tags": [
+      "CVID",
+      "Hypogammaglobulinaemia",
+      "Recurrent infections",
+      "Humoral deficiency",
+      "Paediatric",
+      "2015 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 135,
+    "stem": "Acquired angioedema secondary to autoimmune disease is caused by decreased inhibition in which part of the complement cascade?",
+    "options": [
+      "Mannose binding lectin",
+      "Classical pathway",
+      "Alternative pathway",
+      "Factor H",
+      "Terminal membrane attack complex"
+    ],
+    "correct_index": 1,
+    "explanation": "C1 esterase inhibitor deficiency leads to loss of inhibition of the classical complement pathway.",
+    "specialty": "Immunology",
+    "tags": [
+      "Angioedema",
+      "C1 inhibitor",
+      "Complement",
+      "Classical pathway",
+      "Bradykinin",
+      "2015 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 136,
+    "stem": "33 year old man presents with hypotension hypoxia rash after bee sting. After resuscitation what is the most appropriate management?",
+    "options": [
+      "Antihistamines H1 H2",
+      "Nil further management",
+      "Adrenaline autoinjector",
+      "Desensitisation",
+      "Avoid gardening"
+    ],
+    "correct_index": 2,
+    "explanation": "After anaphylaxis patients require adrenaline autoinjector for future episodes and education.",
+    "specialty": "Immunology",
+    "tags": [
+      "Anaphylaxis",
+      "Bee sting",
+      "Adrenaline",
+      "Autoinjector",
+      "Allergy",
+      "2015 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 137,
+    "stem": "A 50 year old man with HIV CD4 545 presents with fever lymphadenopathy and palmar rash. What is the diagnosis?",
+    "options": [
+      "CMV",
+      "HSV",
+      "Toxoplasmosis",
+      "Syphilis",
+      "EBV"
+    ],
+    "correct_index": 3,
+    "explanation": "Palmar rash with systemic symptoms is characteristic of secondary syphilis.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "Syphilis",
+      "Secondary syphilis",
+      "Palmar rash",
+      "HIV",
+      "Infection",
+      "2015 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 138,
+    "stem": "Which aspect compared with the humoral immune system is a cardinal feature of the innate immune system?",
+    "options": [
+      "Diversity",
+      "Memory",
+      "Specificity",
+      "Inflammation",
+      "Self tolerance"
+    ],
+    "correct_index": 3,
+    "explanation": "Innate immunity is characterised by rapid non specific responses dominated by inflammation.",
+    "specialty": "Immunology",
+    "tags": [
+      "Innate immunity",
+      "Inflammation",
+      "Non specific",
+      "Immune system",
+      "2016 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 139,
+    "stem": "Which of the following is a critical step in central T cell tolerance?",
+    "options": [
+      "Antigen presentation",
+      "Negative selection",
+      "Apoptosis",
+      "Costimulation",
+      "Receptor editing"
+    ],
+    "correct_index": 1,
+    "explanation": "Central T cell tolerance is mediated by negative selection removing self reactive T cells in the thymus.",
+    "specialty": "Immunology",
+    "tags": [
+      "T cell tolerance",
+      "Negative selection",
+      "Thymus",
+      "Autoimmunity",
+      "Central tolerance",
+      "2016 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 140,
+    "stem": "Conjugate vaccines attached to a carrier protein and polysaccharide antigen have better efficacy than conjugated vaccine attached to polysaccharide alone. Why?",
+    "options": [
+      "Depot",
+      "Better T cell response",
+      "More IgM",
+      "Makes memory B cell",
+      "Antigen transport to lymph nodes"
+    ],
+    "correct_index": 1,
+    "explanation": "Protein conjugation enables T cell dependent responses improving class switching and memory.",
+    "specialty": "Immunology",
+    "tags": [
+      "Vaccines",
+      "Conjugate vaccine",
+      "T cell dependent",
+      "Memory B cells",
+      "Immunology",
+      "2016 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 141,
+    "stem": "A 20 year old man suffers from SJS due to amoxicillin. In addition to referral to an immunologist what additional treatment or advice should you offer him?",
+    "options": [
+      "Intradermal antigen sensitivity testing",
+      "Skin prick testing",
+      "No further treatment or advice",
+      "Avoid beta lactam antibiotics for life",
+      "Perform desensitisation to amoxicillin"
+    ],
+    "correct_index": 3,
+    "explanation": "SJS is a severe type IV hypersensitivity requiring lifelong avoidance of the causative drug and related agents.",
+    "specialty": "Immunology",
+    "tags": [
+      "SJS",
+      "Drug reaction",
+      "Type IV hypersensitivity",
+      "Amoxicillin",
+      "Allergy",
+      "2016 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 142,
+    "stem": "A 52 year old female landscape gardener is stung by a bee and develops anaphylaxis with elevated tryptase. What is the most appropriate treatment for reducing future risk of further episodes?",
+    "options": [
+      "Desensitisation to bee venom",
+      "Prophylactic corticosteroids",
+      "Prophylactic antihistamines",
+      "Protective clothing",
+      "Prophylactic montelukast"
+    ],
+    "correct_index": 0,
+    "explanation": "Venom immunotherapy is the most effective way to prevent future anaphylaxis after insect sting.",
+    "specialty": "Immunology",
+    "tags": [
+      "Anaphylaxis",
+      "Bee sting",
+      "Venom immunotherapy",
+      "Desensitisation",
+      "Tryptase",
+      "2016 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 143,
+    "stem": "27 year old male with X linked agammaglobulinaemia exposed to chickenpox 2 days ago. What should you do next?",
+    "options": [
+      "Varicella serology",
+      "Observe",
+      "Oral acyclovir",
+      "Varicella immunoglobulin",
+      "Vaccination"
+    ],
+    "correct_index": 3,
+    "explanation": "XLA patients require passive immunisation with varicella immunoglobulin after exposure.",
+    "specialty": "Immunology",
+    "tags": [
+      "XLA",
+      "Varicella",
+      "Immunoglobulin",
+      "Exposure",
+      "Primary immunodeficiency",
+      "2016 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 144,
+    "stem": "An 18 year old female presents with a third episode of Neisseria bacteraemia. Which deficiency is likely?",
+    "options": [
+      "Severe combined immunodeficiency SCID",
+      "Common variable immunodeficiency CVID",
+      "Properdin deficiency",
+      "C3 deficiency",
+      "Membrane attack complex C5 to C9 deficiency"
+    ],
+    "correct_index": 4,
+    "explanation": "Recurrent Neisseria infections are classically due to terminal complement deficiency affecting MAC formation.",
+    "specialty": "Immunology",
+    "tags": [
+      "Complement deficiency",
+      "Neisseria",
+      "MAC",
+      "C5 C9",
+      "Recurrent infection",
+      "2016 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 145,
+    "stem": "Patients being commenced on azathioprine now often have TPMT levels (thiopurine methyltransferase) tested. Those who are poor metabolisers can have build up of metabolites 6-thioguanine (6-TG) and 6-methylmercaptopurine (6-MMP). This can result in detrimental effects due to:",
+    "options": [
+      "CYP450 induction",
+      "Bone marrow suppression",
+      "Rash",
+      "Seizures",
+      "Confusion"
+    ],
+    "correct_index": 1,
+    "explanation": "Azathioprine is inactivated via TPMT. Patients with low or absent TPMT activity accumulate toxic thioguanine metabolites, which damage rapidly dividing marrow precursors and cause potentially severe myelosuppression with leukopenia, anaemia, and thrombocytopenia.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Azathioprine",
+      "TPMT",
+      "Thiopurine toxicity",
+      "Bone marrow suppression",
+      "Myelosuppression",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 146,
+    "stem": "What does rheumatoid factor bind to?",
+    "options": [
+      "ANCA",
+      "Macrophages",
+      "Fc portion of IgG",
+      "IgM",
+      "Fab portion of IgG"
+    ],
+    "correct_index": 2,
+    "explanation": "Rheumatoid factor is usually an IgM autoantibody directed against the Fc portion of IgG. This promotes immune complex formation and contributes to synovial inflammation in rheumatoid arthritis.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Rheumatoid factor",
+      "Fc portion of IgG",
+      "Autoantibody",
+      "Immune complexes",
+      "Rheumatoid arthritis",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 147,
+    "stem": "What is the main cell type involved in sarcoid granuloma?",
+    "options": [
+      "T cell",
+      "Macrophage",
+      "Neutrophil",
+      "Platelet",
+      "B cell"
+    ],
+    "correct_index": 1,
+    "explanation": "Sarcoid granulomas are composed mainly of activated macrophages that become epithelioid histiocytes and giant cells. CD4 positive T cells drive the process, but macrophages are the main structural cell within the granuloma.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Sarcoidosis",
+      "Granuloma",
+      "Macrophage",
+      "Epithelioid histiocyte",
+      "Non-caseating granuloma",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 148,
+    "stem": "Dust mite desensitization works best for allergy that is associated with:",
+    "options": [
+      "Dust mite anaphylaxis",
+      "Allergic rhinitis",
+      "Eczema",
+      "Allergic asthma",
+      "Chronic urticaria"
+    ],
+    "correct_index": 1,
+    "explanation": "House dust mite immunotherapy is best established for IgE mediated allergic rhinitis. It can also help selected patients with allergic asthma, but rhinitis is the classic and most reliable indication; eczema and chronic urticaria are much less predictably responsive.",
+    "specialty": "Immunology",
+    "tags": [
+      "Dust mite",
+      "Desensitization",
+      "Immunotherapy",
+      "Allergic rhinitis",
+      "IgE mediated allergy",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 149,
+    "stem": "A patient with HIV is on Tenofovir. He is found to have proteinuria and glycosuria on urinalysis. Diagnosis of Tenofovir-related Fanconi syndrome would be most consistent with:",
+    "options": [
+      "Hypokalaemia",
+      "Hypomagnesaemia",
+      "Hypoglycaemia",
+      "Hypouricaemia",
+      "Hypocalcaemia"
+    ],
+    "correct_index": 3,
+    "explanation": "Tenofovir can cause proximal tubular dysfunction leading to Fanconi syndrome. The proximal tubule normally reabsorbs urate, glucose, phosphate, bicarbonate, and amino acids, so injury causes urinary wasting and is classically associated with hypouricaemia.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "Tenofovir",
+      "Fanconi syndrome",
+      "Proximal tubule",
+      "Hypouricaemia",
+      "HIV",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0010.png",
+    "explanation_video": "https://www.youtube.com/watch?v=PyJCf10vKLQ"
+  },
+  {
+    "id": 150,
+    "stem": "What immunoglobulin activates complement the most?",
+    "options": [
+      "IgG",
+      "IgA",
+      "IgD",
+      "IgE",
+      "IgM"
+    ],
+    "correct_index": 4,
+    "explanation": "IgM is the most efficient activator of the classical complement pathway because its pentameric structure allows a single antigen-bound IgM molecule to bind C1q and trigger the cascade. IgG can also activate complement, but usually requires multiple adjacent molecules.",
+    "specialty": "Immunology",
+    "tags": [
+      "IgM",
+      "Complement",
+      "Classical pathway",
+      "C1q",
+      "Immunoglobulins",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 151,
+    "stem": "What cells of the immune system are most important for killing of intracellular pathogens?",
+    "options": [
+      "B cells",
+      "T cells",
+      "NK cells",
+      "Macrophages"
+    ],
+    "correct_index": 1,
+    "explanation": "Cell mediated immunity is key for intracellular pathogens. CD8 cytotoxic T cells kill infected host cells, while Th1 cells activate macrophages to control intracellular organisms such as mycobacteria.",
+    "specialty": "Immunology",
+    "tags": [
+      "T cells",
+      "Intracellular pathogens",
+      "Cell mediated immunity",
+      "CD8",
+      "Th1",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 152,
+    "stem": "Which of the following best describes the mechanism of action of glucocorticoids?",
+    "options": [
+      "Inhibition of calcineurin",
+      "Binding to FKBP12",
+      "Inhibition of inosine monophosphate dehydrogenase",
+      "Inhibition of transcription of pro-inflammatory cytokines",
+      "Depletion of CD52-positive cells"
+    ],
+    "correct_index": 3,
+    "explanation": "Glucocorticoids bind intracellular glucocorticoid receptors and alter gene transcription. They suppress transcription of multiple pro-inflammatory cytokines including IL-1, IL-2, and TNF-alpha, producing broad anti-inflammatory and immunosuppressive effects.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Glucocorticoids",
+      "Mechanism of action",
+      "Cytokines",
+      "Transcription",
+      "Immunosuppression",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 153,
+    "stem": "Which of the following best describes the mechanism of action of mycophenolate mofetil?",
+    "options": [
+      "Inhibition of calcineurin",
+      "Binding to FKBP12",
+      "Inhibition of inosine monophosphate dehydrogenase",
+      "Inhibition of transcription of pro-inflammatory cytokines",
+      "Depletion of CD52-positive cells"
+    ],
+    "correct_index": 2,
+    "explanation": "Mycophenolate inhibits inosine monophosphate dehydrogenase, blocking de novo guanine synthesis. Because activated lymphocytes rely heavily on this pathway, it selectively reduces T and B cell proliferation.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Mycophenolate mofetil",
+      "IMPDH",
+      "Purine synthesis",
+      "Lymphocyte proliferation",
+      "Immunosuppression",
+      "2017 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 154,
+    "stem": "What is most often the first presentation of AA amyloidosis?",
+    "options": [
+      "Renal",
+      "Cardiovascular",
+      "Macroglossia",
+      "Skin",
+      "Neurological"
+    ],
+    "correct_index": 0,
+    "explanation": "AA amyloidosis most often first presents with renal disease, especially proteinuria that may become nephrotic range, followed by progressive renal impairment. Macroglossia and marked cardiac involvement are much more typical of AL rather than AA amyloid.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "AA amyloidosis",
+      "Renal",
+      "Proteinuria",
+      "Nephrotic syndrome",
+      "Amyloid",
+      "2017 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 155,
+    "stem": "A medical student asks you about whether she can take the annual influenza vaccine. As a child she ate scrambled eggs and developed lip swelling and local urticaria. Since then she has avoided all raw or cooked eggs but has eaten eggs in baked goods such as cakes. What do you advise her?",
+    "options": [
+      "She can never have the influenza vaccine",
+      "She can have the influenza vaccine",
+      "She must have skin prick testing against egg white",
+      "She should have 1/10 dose of the influenza vaccine",
+      "She should receive the vaccine under observation in a hospital setting"
+    ],
+    "correct_index": 1,
+    "explanation": "Influenza vaccination is safe in patients with egg allergy, including those with previous urticaria or angioedema after egg exposure. Routine skin testing, split dosing, or hospital observation is not required in most cases.",
+    "specialty": "Immunology",
+    "tags": [
+      "Influenza vaccine",
+      "Egg allergy",
+      "Vaccination",
+      "Allergy",
+      "Immunisation",
+      "2017 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 156,
+    "stem": "A Turkish lady presents with mouth ulcers, sore eyes. Cannot recall further info. Her condition is most likely consistent with?",
+    "options": [
+      "Behcet’s disease",
+      "Apthous ulcer",
+      "Herpes simplex infection",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_index": 0,
+    "explanation": "A patient from a Mediterranean background with recurrent oral ulcers and eye involvement is highly suggestive of Behçet’s disease. Behçet’s classically causes recurrent oral and genital ulceration with uveitis due to a multisystem vasculitic process.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Behcets disease",
+      "Oral ulcers",
+      "Uveitis",
+      "Mediterranean",
+      "Vasculitis",
+      "2017 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 157,
+    "stem": "A man presents with abdominal pain and haematuria, foot drop, and a lace-like rash on his lower limbs. He is found on abdominal angiography to have multiple aneurysms within the abdomen. What would you expect to find on his blood tests?",
+    "options": [
+      "Rheumatoid factor",
+      "P-ANCA",
+      "C-ANCA",
+      "No antibodies",
+      "dsDNA"
+    ],
+    "correct_index": 3,
+    "explanation": "This is classic polyarteritis nodosa with medium vessel disease causing mesenteric or renal ischaemia, mononeuritis multiplex, livedo reticularis, and microaneurysms. PAN is characteristically ANCA negative, so no specific autoantibodies are expected.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "Polyarteritis nodosa",
+      "PAN",
+      "ANCA negative",
+      "Medium vessel vasculitis",
+      "Microaneurysms",
+      "2017 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 158,
+    "stem": "A man with previous AV repair for a biscuspid aortic valve. In childhood he had a reaction to amoxicillin, manifesting as urticaria and a rash. He has avoided amoxicillin and any penicillins since. He now requires a dental procedure which needs antibiotic prophylaxis and his cardiologist would like him to be given oral penicillin if able, rather than any other option. The results of his IgE RAST are shown below: Amoxicillin IgE mildly raised Benzathine penicillin IgE 0 (undetectable) Benzylpenicillin IgE 0 (undetectable) What management should be advised?",
+    "options": [
+      "Give amoxicillin",
+      "Given penicillin as planned without challenge",
+      "Skin prick testing to penicillin",
+      "Oral challenge to penicillin",
+      "Penicillin desensitization"
+    ],
+    "correct_index": 3,
+    "explanation": "Many patients with childhood penicillin allergy lose sensitisation over time. With negative benzylpenicillin and benzathine penicillin IgE and only mildly raised amoxicillin IgE, the best way to confirm or exclude persistent allergy is a supervised oral penicillin challenge, which is the diagnostic gold standard in a low risk patient.",
+    "specialty": "Immunology",
+    "tags": [
+      "Penicillin allergy",
+      "Oral challenge",
+      "Drug allergy",
+      "IgE",
+      "Amoxicillin",
+      "2017 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 159,
+    "stem": "What is the main purpose of somatic hypermutation in B cells?",
+    "options": [
+      "Deletion of autoreactive B cells.",
+      "Expression of class II MHC.",
+      "Generation of receptor diversity.",
+      "Induction of anergy.",
+      "Selection of high affinity B cells."
+    ],
+    "correct_index": 4,
+    "explanation": "Somatic hypermutation introduces point mutations into the variable regions of immunoglobulin genes in germinal centre B cells, generating clones with varying antigen affinity. These clones are then selected, with high-affinity B cells surviving and expanding while low-affinity cells undergo apoptosis. The net effect is affinity maturation, producing antibodies that bind antigen more effectively over time.",
+    "specialty": "Immunology",
+    "tags": [
+      "Somatic hypermutation",
+      "Affinity maturation",
+      "B cells",
+      "Germinal centre",
+      "Antibody affinity",
+      "2018 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 160,
+    "stem": "Tenofovir disoproxil fumarate is used in the management of HIV infection in combination with other antiretrovirals. What is the site of action of tenofovir in the HIV life cycle?",
+    "options": [
+      "HIV binding and entry of cells.",
+      "HIV protease activity.",
+      "HIV reverse transcriptase activity.",
+      "HIV viral assembly.",
+      "Integration of HIV DNA."
+    ],
+    "correct_index": 2,
+    "explanation": "Tenofovir is a nucleotide reverse transcriptase inhibitor that is incorporated into viral DNA during reverse transcription, causing chain termination and preventing conversion of viral RNA into DNA. This blocks an early and essential step in the HIV life cycle before integration into the host genome.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "Tenofovir",
+      "NRTI",
+      "Reverse transcriptase",
+      "HIV lifecycle",
+      "Antiretroviral",
+      "2018 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 161,
+    "stem": "Defects in the interleukin 12-dependent interferon gamma pathways are most likely to lead to infection with which organism?",
+    "options": [
+      "Candida albicans.",
+      "Herpes simplex.",
+      "Neisseria meningitidis.",
+      "Non-tuberculous Mycobacterium.",
+      "Staphylococcus aureus."
+    ],
+    "correct_index": 3,
+    "explanation": "The IL-12 to IFN gamma pathway is central to Th1 mediated immunity and macrophage activation against intracellular pathogens. Defects in this pathway impair macrophage killing and predispose to infections with intracellular organisms, particularly non-tuberculous mycobacteria and BCG. In contrast, Candida is linked to Th17 defects, Neisseria to complement deficiency, and Staphylococcus to neutrophil dysfunction.",
+    "specialty": "Immunology",
+    "tags": [
+      "IL12",
+      "IFN gamma",
+      "Th1",
+      "Mycobacteria",
+      "Intracellular pathogens",
+      "2018 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 162,
+    "stem": "Which acute-phase protein binds to phospholipid in foreign pathogens or damaged host cells?",
+    "options": [
+      "C-reactive protein.",
+      "Ceruloplasmin.",
+      "Fibrinogen.",
+      "Mannose-binding lectin.",
+      "Serum amyloid A."
+    ],
+    "correct_index": 0,
+    "explanation": "C-reactive protein is an acute phase reactant that binds phosphocholine on microbial membranes and damaged host cells. This binding opsonises targets and activates the classical complement pathway via C1q, contributing to innate immune clearance.",
+    "specialty": "Immunology",
+    "tags": [
+      "CRP",
+      "Acute phase protein",
+      "Complement",
+      "Opsonisation",
+      "Innate immunity",
+      "2018 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 163,
+    "stem": "A 19-year-old male is currently in hospital with his third episode of lobar pneumonia due to Streptococcus pneumoniae in the last 2 years. He reports a background of chronic sinus symptoms and frequent bronchitis, and takes 4–6 courses of antibiotics per year. He also reports intermittent nonbloody diarrhoea. Preliminary screening for immunodeficiency shows low IgG low IgA normal IgM and CD19 positive cells 0. What is the most likely diagnosis?",
+    "options": [
+      "Common variable immunodeficiency CVID.",
+      "IgA deficiency.",
+      "Specific antibody deficiency.",
+      "X-linked agammaglobulinaemia.",
+      "X-linked hyper IgM syndrome."
+    ],
+    "correct_index": 3,
+    "explanation": "This patient has recurrent sinopulmonary infections with hypogammaglobulinaemia and, critically, absence of CD19 positive B cells. This indicates failure of B cell maturation due to BTK mutation, consistent with X-linked agammaglobulinaemia. CVID typically has normal or reduced B cells, while hyper IgM has elevated IgM with class switching defects.",
+    "specialty": "Immunology",
+    "tags": [
+      "XLA",
+      "BTK",
+      "B cell absence",
+      "Hypogammaglobulinaemia",
+      "Recurrent infections",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 164,
+    "stem": "In addition to removing the cause, what is the immediate treatment for anaphylaxis?",
+    "options": [
+      "Adrenalin 0.1 mg IV.",
+      "Adrenalin 0.5 mg IV.",
+      "Adrenalin 0.5 mg IM.",
+      "Adrenalin 1 mg IM.",
+      "Adrenalin 5 mg nebulised."
+    ],
+    "correct_index": 2,
+    "explanation": "The first line treatment for anaphylaxis is intramuscular adrenaline 0.5 mg into the anterolateral thigh. This provides rapid alpha mediated vasoconstriction to reverse hypotension and beta effects for bronchodilation. IV adrenaline is reserved for refractory cases due to risk of arrhythmia.",
+    "specialty": "Immunology",
+    "tags": [
+      "Anaphylaxis",
+      "Adrenaline",
+      "IM",
+      "Emergency",
+      "Resuscitation",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 165,
+    "stem": "A 42-year-old Sudanese male is diagnosed with advanced HIV with a CD4 count of 50 cells per microlitre and develops fever and cervical lymphadenopathy one month after starting antiretroviral therapy. What is the most likely cause?",
+    "options": [
+      "Drug reaction.",
+      "Glandular fever.",
+      "HIV-related lymphadenopathy.",
+      "Immune reconstitution inflammatory syndrome IRIS.",
+      "Sarcoidosis."
+    ],
+    "correct_index": 3,
+    "explanation": "This presentation is classic for immune reconstitution inflammatory syndrome, which occurs weeks after starting ART in patients with advanced HIV. As immune function recovers, an exaggerated inflammatory response occurs against latent infections such as EBV, leading to fever and lymphadenopathy.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "IRIS",
+      "HIV",
+      "ART",
+      "Immune recovery",
+      "Lymphadenopathy",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 166,
+    "stem": "A 40-year-old HIV positive man with a CD4 count of 450 cells per microlitre presents with a 3 day history of fever cough sputum production and right lower lobe consolidation on chest x-ray. What is the most likely organism?",
+    "options": [
+      "Methicillin resistant Staphylococcus aureus.",
+      "Mycobacterium avium complex.",
+      "Mycobacterium tuberculosis.",
+      "Pneumocystis jirovecii.",
+      "Streptococcus pneumoniae."
+    ],
+    "correct_index": 4,
+    "explanation": "With a CD4 count above 200 this patient is relatively immunocompetent, so community acquired pneumonia pathogens predominate. The acute presentation with lobar consolidation and productive cough is most consistent with Streptococcus pneumoniae rather than opportunistic infections such as PCP or MAC.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "HIV",
+      "Pneumonia",
+      "Streptococcus pneumoniae",
+      "CD4",
+      "Community acquired infection",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 167,
+    "stem": "A 31-year-old woman has a history of facial swelling with ibuprofen and aspirin. After spraining her ankle she took paracetamol 1 g four times daily and developed facial swelling. What is the best explanation for this?",
+    "options": [
+      "High-dose paracetamol inhibits COX-1.",
+      "Paracetamol causes direct release of mast cell contents.",
+      "She has an IgE-mediated reaction to an excipient common to all three medications.",
+      "She has an underlying non-allergic condition causing angioedema.",
+      "The paracetamol has been cross-contaminated with aspirin or ibuprofen."
+    ],
+    "correct_index": 0,
+    "explanation": "This represents NSAID-exacerbated angioedema due to COX-1 inhibition. Although paracetamol is usually safe, high doses can weakly inhibit COX-1 and trigger symptoms in susceptible individuals. This is a non IgE mediated cross intolerance rather than a true drug allergy.",
+    "specialty": "Immunology",
+    "tags": [
+      "NSAID",
+      "Angioedema",
+      "COX1",
+      "Paracetamol",
+      "Cross intolerance",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 168,
+    "stem": "Patients with drug reaction with eosinophilia and systemic symptoms DRESS syndrome are most likely to have additional involvement of which system in addition to the skin?",
+    "options": [
+      "Cardiovascular.",
+      "Hepatic.",
+      "Neurological.",
+      "Renal.",
+      "Respiratory."
+    ],
+    "correct_index": 1,
+    "explanation": "DRESS syndrome commonly involves internal organs, most frequently the liver, leading to hepatitis and markedly elevated transaminases. It can progress to liver failure, making hepatic involvement the most important systemic complication to monitor.",
+    "specialty": "Immunology",
+    "tags": [
+      "DRESS",
+      "Hepatitis",
+      "Drug reaction",
+      "Eosinophilia",
+      "Systemic involvement",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 169,
+    "stem": "What is the main reason why immunotherapy desensitisation is routinely offered to patients with anaphylaxis caused by insect venom but not to patients with anaphylaxis caused by food?",
+    "options": [
+      "Desensitisation has no effect on food allergies.",
+      "Greater diversity of allergenic epitopes with foods.",
+      "Oral administration is less likely to induce tolerance.",
+      "Risk of anaphylaxis is higher with foods.",
+      "Sustained tolerance is harder to achieve with foods."
+    ],
+    "correct_index": 4,
+    "explanation": "Venom immunotherapy induces durable immune tolerance through regulatory T cells and IgG4 responses, providing long term protection. In contrast food immunotherapy usually results in temporary desensitisation that requires ongoing exposure, with loss of protection if stopped and higher rates of reactions during treatment.",
+    "specialty": "Immunology",
+    "tags": [
+      "Immunotherapy",
+      "Desensitisation",
+      "Venom allergy",
+      "Food allergy",
+      "Tolerance",
+      "2018 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 170,
+    "stem": "Cells with downregulation of MHC class I are best able to be detected and destroyed by which class of immune cell?",
+    "options": [
+      "B cell",
+      "CD4+ T cell",
+      "CD8+ T cell",
+      "NK cell"
+    ],
+    "correct_index": 3,
+    "explanation": "Natural killer cells recognise 'missing self'. Normal cells express MHC class I which provides an inhibitory signal to NK cells. When MHC I is downregulated, as in viral infection or tumour cells, this inhibitory signal is lost, leading to NK cell activation and direct cytotoxic killing via perforin and granzyme.",
+    "specialty": "Immunology",
+    "tags": [
+      "NK cells",
+      "MHC I",
+      "Missing self",
+      "Innate immunity",
+      "Cytotoxicity",
+      "2019 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 171,
+    "stem": "Interleukin-5 causes stimulation of which cell class of the innate immune system?",
+    "options": [
+      "Eosinophils",
+      "T-lymphocytes",
+      "Natural killer cells",
+      "Neutrophils"
+    ],
+    "correct_index": 0,
+    "explanation": "IL-5 is the key cytokine for eosinophil growth, differentiation, activation, and survival. It is produced by Th2 cells and is central in helminth infection and allergic disease. Exam pearl: IL-5 = eosinophils; IL-4 = Th2; IL-12 = Th1; IL-15 = NK cells.",
+    "specialty": "Immunology",
+    "tags": [
+      "IL5",
+      "Eosinophils",
+      "Th2",
+      "Allergy",
+      "Helminths",
+      "2019 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 172,
+    "stem": "What is the predominant cell type implicated as the cause of the acute inflammatory process in sarcoidosis?",
+    "options": [
+      "Monocytes",
+      "Lymphocytes",
+      "Macrophages",
+      "Neutrophils"
+    ],
+    "correct_index": 1,
+    "explanation": "Sarcoidosis is driven by a Th1 CD4 positive T cell response. These lymphocytes release cytokines such as IFN gamma and IL-2, which activate macrophages and drive granuloma formation. Although macrophages form the granuloma, CD4 positive T cells are the key drivers of the inflammatory process.",
+    "specialty": "Respiratory",
+    "tags": [
+      "Sarcoidosis",
+      "CD4 T cells",
+      "Th1",
+      "Granuloma",
+      "Inflammation",
+      "2019 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 173,
+    "stem": "What is the primary tyrosine kinase mutated in systemic mastocytosis?",
+    "options": [
+      "Flt",
+      "JAK2",
+      "Kit",
+      "Abl"
+    ],
+    "correct_index": 2,
+    "explanation": "Systemic mastocytosis is caused by a gain of function mutation in the KIT receptor tyrosine kinase, most commonly D816V. KIT signalling promotes mast cell growth and survival, and constitutive activation leads to clonal mast cell proliferation.",
+    "specialty": "Haematology",
+    "tags": [
+      "KIT",
+      "Mastocytosis",
+      "D816V",
+      "Tyrosine kinase",
+      "Mast cells",
+      "2019 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 174,
+    "stem": "What is the effect of pharmacological blockade of CTLA4?",
+    "options": [
+      "Priming of naive T cells",
+      "Reactivation of anergic T cells",
+      "Induction of lymphocyte migration",
+      "Apoptosis of Treg cells"
+    ],
+    "correct_index": 0,
+    "explanation": "CTLA-4 is an inhibitory receptor that competes with CD28 for B7 on antigen presenting cells. Blocking CTLA-4 removes this inhibitory signal, enhancing co-stimulation and promoting activation (priming) of naive T cells. This is the mechanism of checkpoint inhibitors such as ipilimumab.",
+    "specialty": "Immunology",
+    "tags": [
+      "CTLA4",
+      "Checkpoint inhibitor",
+      "T cell activation",
+      "Ipilimumab",
+      "Co-stimulation",
+      "2019 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 175,
+    "stem": "In a transplant setting, what happens when donor antigen presenting cell presents donor antigen to the recipient’s T cells?",
+    "options": [
+      "Graft versus host disease",
+      "Acute cellular rejection",
+      "Acute antibody-mediated rejection",
+      "Immune tolerance"
+    ],
+    "correct_index": 1,
+    "explanation": "This describes direct allorecognition, where recipient T cells recognise donor MHC on donor antigen presenting cells. This leads to T cell activation and acute cellular rejection characterised by lymphocytic infiltration and tissue damage.",
+    "specialty": "Immunology",
+    "tags": [
+      "Transplant",
+      "Allorecognition",
+      "Acute rejection",
+      "T cells",
+      "Direct pathway",
+      "2019 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 176,
+    "stem": "Deficiency in what molecule is generally seen in atopic dermatitis?",
+    "options": [
+      "Collagen",
+      "Fillagrin",
+      "Integrin",
+      "Keratin"
+    ],
+    "correct_index": 1,
+    "explanation": "Filaggrin is essential for maintaining the skin barrier and hydration of the stratum corneum. Loss of function mutations lead to increased transepidermal water loss and enhanced allergen penetration, predisposing to atopic dermatitis.",
+    "specialty": "Dermatology",
+    "tags": [
+      "Filaggrin",
+      "Atopic dermatitis",
+      "Skin barrier",
+      "Eczema",
+      "Atopy",
+      "2019 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 177,
+    "stem": "What is the most common cardiac manifestation of IgG4 disease?",
+    "options": [
+      "Myocarditis",
+      "Thrombotic endocarditis",
+      "Aortic aneurysm",
+      "Recurrent pericarditis"
+    ],
+    "correct_index": 2,
+    "explanation": "IgG4-related disease causes a fibroinflammatory process with lymphoplasmacytic infiltration and storiform fibrosis. It commonly affects large vessels, leading to aortitis and progressive weakening of the vessel wall, resulting in aortic aneurysm.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "IgG4",
+      "Aortitis",
+      "Aneurysm",
+      "Storiform fibrosis",
+      "Autoimmune",
+      "2019 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 178,
+    "stem": "A 36 year old man presents with generalised urticaria that has been present for the past 3 days and minimally responsive to antihistamines with recent sore throat. What is the most likely diagnosis?",
+    "options": [
+      "Previously unrecognised food allergy",
+      "Infection associated urticaria",
+      "Chronic spontaneous urticaria",
+      "Allergy to paracetamol"
+    ],
+    "correct_index": 1,
+    "explanation": "This is acute urticaria less than 6 weeks duration with a clear recent infectious trigger. Viral or bacterial infections are a common cause of acute urticaria in adults. Chronic spontaneous urticaria requires symptoms beyond 6 weeks.",
+    "specialty": "Immunology",
+    "tags": [
+      "Urticaria",
+      "Infection",
+      "Acute urticaria",
+      "Allergy",
+      "Dermatology",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 179,
+    "stem": "What is the best explanation for why rituximab does not cause depletion of immunoglobulin G IgG?",
+    "options": [
+      "IgG has a longer half life than rituximab",
+      "CD20 is not expressed on plasma cells",
+      "Rituximab only targets abnormal B cells",
+      "Memory B cells rapidly regenerate IgG after depletion"
+    ],
+    "correct_index": 1,
+    "explanation": "Rituximab targets CD20 on mature B cells but plasma cells do not express CD20. Since plasma cells are responsible for antibody production, they are spared, so IgG levels are relatively preserved initially.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Rituximab",
+      "CD20",
+      "Plasma cells",
+      "IgG",
+      "B cells",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 180,
+    "stem": "What solid organ transplant has the poorest long term survival?",
+    "options": [
+      "Lung",
+      "Kidney",
+      "Liver",
+      "Heart"
+    ],
+    "correct_index": 0,
+    "explanation": "Lung transplantation has the poorest long term survival due to constant exposure to the external environment, high infection risk, and chronic rejection such as bronchiolitis obliterans syndrome.",
+    "specialty": "Transplant",
+    "tags": [
+      "Lung transplant",
+      "Survival",
+      "Chronic rejection",
+      "BOS",
+      "Infection",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 181,
+    "stem": "A 26 year old man treated for pneumonia develops rash hypotension and wheeze after benzylpenicillin. What is your next management?",
+    "options": [
+      "Hydrocortisone IV",
+      "Antihistamine",
+      "Adrenaline IM",
+      "Nebulised salbutamol"
+    ],
+    "correct_index": 2,
+    "explanation": "This is anaphylaxis with airway breathing and circulation compromise. Intramuscular adrenaline is the first line life saving treatment and should be given immediately into the anterolateral thigh. Other therapies are adjuncts.",
+    "specialty": "Immunology",
+    "tags": [
+      "Anaphylaxis",
+      "Adrenaline",
+      "Emergency",
+      "Penicillin",
+      "Allergy",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 182,
+    "stem": "Which disease modifying medication used to treat common autoimmune conditions has the highest risk of squamous cell carcinoma?",
+    "options": [
+      "Mycophenolate",
+      "Azathioprine",
+      "Methotrexate",
+      "Leflunomide"
+    ],
+    "correct_index": 1,
+    "explanation": "Azathioprine is associated with increased risk of cutaneous squamous cell carcinoma due to photosensitisation and DNA damage in keratinocytes, particularly with long term use.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Azathioprine",
+      "SCC",
+      "Skin cancer",
+      "Immunosuppression",
+      "Photosensitivity",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 183,
+    "stem": "A 23 year old medical student with previous egg allergy developing rash after scrambled eggs asks about influenza vaccination. What should you advise?",
+    "options": [
+      "She should have skin prick testing prior to vaccination.",
+      "She should avoid the influenza vaccination.",
+      "She is able to have the influenza vaccination as normal.",
+      "She should undergo egg desensitisation prior to vaccination."
+    ],
+    "correct_index": 2,
+    "explanation": "Egg allergy is not a contraindication to influenza vaccination. Modern vaccines contain minimal egg protein and are safe without special precautions in almost all patients, including those with prior urticaria.",
+    "specialty": "Immunology",
+    "tags": [
+      "Influenza vaccine",
+      "Egg allergy",
+      "Vaccination",
+      "Safety",
+      "Allergy",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 184,
+    "stem": "In a patient already treated with prednisolone and hydroxychloroquine who continues to have active non renal systemic lupus erythematosus what is the next step in therapy?",
+    "options": [
+      "Azathioprine",
+      "Mycophenolate",
+      "Methotrexate",
+      "Etanercept"
+    ],
+    "correct_index": 2,
+    "explanation": "For non renal SLE with persistent disease, methotrexate is commonly used as a steroid sparing agent, particularly for musculoskeletal and cutaneous manifestations. Etanercept is not used in SLE.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "SLE",
+      "Methotrexate",
+      "Immunosuppression",
+      "Non renal lupus",
+      "Treatment",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 185,
+    "stem": "A patient with cirrhosis develops acute kidney injury oliguria low urinary sodium and no improvement with albumin. What is the most likely diagnosis?",
+    "options": [
+      "Acute tubular necrosis",
+      "Hepatorenal syndrome",
+      "Acute interstitial nephritis",
+      "Glomerulonephritis"
+    ],
+    "correct_index": 1,
+    "explanation": "Hepatorenal syndrome is a functional renal failure in advanced liver disease caused by splanchnic vasodilation and renal vasoconstriction. Features include low urinary sodium bland urine normal imaging and failure to improve with volume expansion.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatorenal syndrome",
+      "Cirrhosis",
+      "AKI",
+      "Low sodium",
+      "Renal failure",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 186,
+    "stem": "Which of the following organisms is capable of causing autoinfection and hyperinfection in immunocompromised patients?",
+    "options": [
+      "Cytomegalovirus",
+      "Strongyloides stercoralis",
+      "Epstein Barr virus",
+      "Cryptococcus neoformans",
+      "Streptococcus pneumoniae"
+    ],
+    "correct_index": 1,
+    "explanation": "Strongyloides can complete its life cycle within the host leading to autoinfection. In immunocompromised patients especially those on steroids this can progress to hyperinfection syndrome with widespread dissemination and high mortality.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "Strongyloides",
+      "Autoinfection",
+      "Hyperinfection",
+      "Immunocompromised",
+      "Parasite",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 187,
+    "stem": "Which of the following organisms requires routine prophylaxis in solid organ transplant recipients regardless of donor or recipient serostatus?",
+    "options": [
+      "Cytomegalovirus",
+      "Strongyloides stercoralis",
+      "Epstein Barr virus",
+      "Cryptococcus neoformans",
+      "Pneumocystis jirovecii"
+    ],
+    "correct_index": 4,
+    "explanation": "Pneumocystis jirovecii prophylaxis with agents such as trimethoprim sulfamethoxazole is routinely given to all solid organ transplant recipients regardless of serostatus due to high risk of severe infection.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "PJP",
+      "Prophylaxis",
+      "Transplant",
+      "Opportunistic infection",
+      "Immunosuppression",
+      "2019 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 188,
+    "stem": "A grandmother with rheumatoid arthritis is immunosuppressed on rituximab, methotrexate, and low-dose prednisone. She cares for her 14-month-old grandson, who is due to receive the live varicella zoster vaccine. What is the most appropriate advice?",
+    "options": [
+      "No precautions",
+      "Avoid grandson if he develops a rash",
+      "Avoid grandson for 4 weeks",
+      "Prophylactic antivirals for 4 weeks"
+    ],
+    "correct_index": 1,
+    "explanation": "The live attenuated varicella vaccine has very low transmission risk. However, if the vaccinated child develops a vesicular rash, viral shedding can occur and pose a risk to immunosuppressed contacts. Therefore, routine avoidance is not required, but contact should be avoided if a rash develops. This is a key exam principle: live vaccines in contacts are generally safe, with precautions only if symptomatic transmission risk arises.",
+    "specialty": "Immunology",
+    "tags": [
+      "Varicella vaccine",
+      "Live vaccine",
+      "Immunosuppression",
+      "Transmission",
+      "Risk counselling",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 189,
+    "stem": "A 46-year-old female has recurrent pancreatitis, 5 kg weight loss, lymphadenopathy, and lacrimal gland enlargement. CT shows lymphadenopathy and pancreatitis. Biopsy shows lymphoplasmacytic infiltrate with storiform fibrosis. What is the diagnosis?",
+    "options": [
+      "B cell lymphoma",
+      "IgG4-related disease",
+      "Sjögrens disease",
+      "SLE"
+    ],
+    "correct_index": 1,
+    "explanation": "IgG4-related disease is a fibroinflammatory condition characterised by lymphoplasmacytic infiltration, storiform fibrosis, and multi-organ involvement including pancreas, salivary and lacrimal glands, and lymph nodes. It often mimics malignancy or autoimmune disease. The combination of pancreatitis, gland enlargement, and classic histology is highly suggestive.",
+    "specialty": "Rheumatology",
+    "tags": [
+      "IgG4 disease",
+      "Storiform fibrosis",
+      "Pancreatitis",
+      "Lacrimal gland",
+      "Autoimmune",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 190,
+    "stem": "A 30-year-old man presents with 6 weeks of small joint arthritis and one day of epididymo-orchitis. No recent sexual activity or travel. He has a purpuric rash. Investigations: CRP 120 ANCA negative RF negative Gonorrhoea/chlamydia PCR negative What is the most likely diagnosis?",
+    "options": [
+      "Adult-onset Stills disease",
+      "Lupus",
+      "Vasculitis",
+      "Disseminated gonococcal infection"
+    ],
+    "correct_index": 3,
+    "explanation": "Disseminated gonococcal infection classically presents with arthritis, tenosynovitis, and skin lesions (often purpuric or pustular). PCR may be negative because mucosal infection may have resolved by the time of dissemination. Exam pearl: diagnosis is clinical and should not be excluded by negative swabs when the syndrome fits.",
+    "specialty": "Infectious Diseases",
+    "tags": [
+      "DGI",
+      "Gonococcal infection",
+      "Arthritis",
+      "Rash",
+      "PCR negative",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 191,
+    "stem": "A patient received a cadaveric kidney transplant 3 months ago and is on prednisone, tacrolimus, and mycophenolate. He develops worsening BK viraemia. What is the most appropriate management?",
+    "options": [
+      "Cidofovir",
+      "Decrease tacrolimus and mycophenolate",
+      "Cease prednisone",
+      "Levofloxacin"
+    ],
+    "correct_index": 1,
+    "explanation": "BK virus reactivation is driven by excessive immunosuppression. The cornerstone of management is reduction of immunosuppressive therapy, typically by lowering or stopping agents such as tacrolimus and mycophenolate. Antiviral therapies have limited efficacy. Key transplant principle: infection implies over-immunosuppression, whereas rejection implies under-immunosuppression.",
+    "specialty": "Transplant",
+    "tags": [
+      "BK virus",
+      "Transplant",
+      "Immunosuppression",
+      "Viraemia",
+      "Management",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 192,
+    "stem": "Which conventional DMARD is most associated with an increased risk of squamous cell carcinoma of the skin?",
+    "options": [
+      "Azathioprine",
+      "Leflunomide",
+      "Methotrexate",
+      "Mycophenolate"
+    ],
+    "correct_index": 0,
+    "explanation": "Azathioprine is associated with an increased risk of cutaneous squamous cell carcinoma due to impaired immune surveillance and photosensitisation leading to UV-induced DNA damage. This risk is particularly important in transplant and autoimmune patients and necessitates regular skin surveillance.",
+    "specialty": "Pharmacology",
+    "tags": [
+      "Azathioprine",
+      "SCC",
+      "Skin cancer",
+      "Photosensitivity",
+      "DMARD",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 193,
+    "stem": "The allergic reaction involved in serum sickness is primarily mediated by which of the following?",
+    "options": [
+      "IgE",
+      "Antigen-antibody complexes",
+      "T lymphocytes",
+      "Complement activation"
+    ],
+    "correct_index": 1,
+    "explanation": "Serum sickness is a classic type III hypersensitivity reaction mediated by circulating antigen–antibody immune complexes. These complexes deposit in tissues (e.g. vessels, joints, kidneys), activating complement and causing inflammation. While complement activation contributes to pathology, the primary mechanism is immune complex deposition. IgE is type I hypersensitivity; T cells mediate type IV reactions.",
+    "specialty": "Immunology",
+    "tags": [
+      "Type III hypersensitivity",
+      "Serum sickness",
+      "Immune complexes",
+      "Complement",
+      "Immunology",
+      "2021 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 194,
+    "stem": "What is the role of C5a in the complement system?",
+    "options": [
+      "Anaphylactoid toxin",
+      "MAC formation",
+      "Inhibit complement activation",
+      "C3 inactivation"
+    ],
+    "correct_index": 0,
+    "explanation": "C5a is a potent anaphylatoxin and the most powerful chemotactic factor for neutrophils. It promotes mast cell degranulation, increases vascular permeability, and recruits inflammatory cells to sites of infection. MAC formation is mediated by C5b-9, not C5a. Neither inhibition of complement nor C3 inactivation are functions of C5a. Exam pearl: C3a and C5a = anaphylatoxins; C5a = strongest neutrophil chemoattractant.",
+    "specialty": "Immunology",
+    "tags": [
+      "Complement",
+      "C5a",
+      "Anaphylatoxin",
+      "Neutrophil chemotaxis",
+      "Immunology",
+      "2021 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 195,
+    "stem": "What is the mechanism of action of omalizumab?",
+    "options": [
+      "Blocks IgE from binding to mast cells and eosinophils",
+      "Blocks IgE production",
+      "CD 20 antibody",
+      "IL-5R antibody"
+    ],
+    "correct_index": 0,
+    "explanation": "Omalizumab is a monoclonal antibody that binds circulating (free) IgE, preventing it from attaching to FcεRI receptors on mast cells and basophils. This reduces sensitisation and downstream allergic responses. It does not block IgE production (B cells still produce IgE), and is distinct from anti-CD20 (rituximab) and anti-IL5R agents (e.g. mepolizumab). High-yield: anti-IgE → prevents mast cell activation in allergic asthma.",
+    "specialty": "Immunology",
+    "tags": [
+      "Omalizumab",
+      "IgE",
+      "Monoclonal antibody",
+      "Allergy",
+      "Asthma",
+      "Immunology",
+      "2021 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 196,
+    "stem": "Which of the following histological findings is most consistent with bullous pemphigoid?",
+    "options": [
+      "Granular IgG in the cell space and basement membrane",
+      "Granular IgG in the basement membrane",
+      "Linear IgA along the basement membrane",
+      "Linear IgG along the basement membrane"
+    ],
+    "correct_index": 3,
+    "explanation": "Bullous pemphigoid is caused by autoantibodies against hemidesmosomes at the dermal-epidermal junction, producing linear deposition of IgG and C3 along the basement membrane on immunofluorescence. In contrast, pemphigus vulgaris shows intercellular (\"fishnet\") IgG deposition within the epidermis. Linear IgA suggests linear IgA dermatosis. Key exam distinction: pemphigoid = tense bullae + linear IgG; pemphigus = flaccid bullae + intercellular IgG.",
+    "specialty": "Immunology",
+    "tags": [
+      "Bullous pemphigoid",
+      "IgG",
+      "Autoimmune blistering disease",
+      "Immunofluorescence",
+      "Immunology",
+      "2021 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 197,
+    "stem": "A 45-year-old female who previously developed a rash after taking amoxicillin at age 5 now has Streptococcal pneumonia. She has tolerated cephalosporins and roxithromycin without reaction. Which of the following is the best indication to de-label her as having true penicillin allergy?",
+    "options": [
+      "Age at which the reaction occurred",
+      "Tolerance to cephalosporins",
+      "Tolerance to roxithromycin",
+      "No family history of penicillin allergy"
+    ],
+    "correct_index": 1,
+    "explanation": "Tolerance of cephalosporins strongly suggests a low likelihood of true IgE-mediated penicillin allergy because there is partial cross-reactivity between beta-lactams. A remote, non-severe childhood rash further reduces the likelihood of true allergy. Family history is not relevant, and tolerance to unrelated antibiotics (e.g. roxithromycin) does not inform penicillin allergy. High-yield: most reported penicillin allergies are incorrect; beta-lactam tolerance supports safe de-labelling.",
+    "specialty": "Immunology",
+    "tags": [
+      "Penicillin allergy",
+      "De-labelling",
+      "Beta-lactam",
+      "Drug allergy",
+      "Antibiotics",
+      "Immunology",
+      "2021 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 198,
+    "stem": "A man presents with nephritic syndrome and bilateral shin petechial rash. Renal biopsy shows a pauci-immune glomerulonephritis. What is the most likely diagnosis?",
+    "options": [
+      "Anti-basement membrane disease",
+      "Cryoglobulinaemia",
+      "ANCA vasculitis",
+      "Infection-related glomerulonephritis"
+    ],
+    "correct_index": 2,
+    "explanation": "Pauci-immune glomerulonephritis refers to minimal or absent immune complex deposition on immunofluorescence and is characteristic of ANCA-associated vasculitis (e.g. GPA, MPA). Anti-GBM disease shows linear IgG deposition, cryoglobulinaemia shows immune complex deposition, and infection-related GN shows granular immune complexes. High-yield: pauci-immune = ANCA vasculitis.",
+    "specialty": "Renal",
+    "tags": [
+      "Pauci-immune GN",
+      "ANCA vasculitis",
+      "Nephritic syndrome",
+      "Vasculitis",
+      "Renal",
+      "2021 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 199,
+    "stem": "A patient is commenced on monthly intravenous immunoglobulin (IVIg) therapy for an antibody deficiency. How long does it typically take for serum immunoglobulin levels to reach a steady state?",
+    "options": [
+      "1 week",
+      "1 month",
+      "2 months",
+      "4 months",
+      "12 months"
+    ],
+    "correct_index": 3,
+    "explanation": "Steady state is generally reached after about 4 to 5 half-lives. IVIg has a half-life of roughly 3 to 4 weeks in most patients, so steady-state IgG levels are usually achieved after about 4 months of regular replacement therapy. One month is too early, while 12 months is far longer than required. Exam pearl: when interpreting IVIg troughs, remember that early levels may not reflect the eventual steady-state concentration.",
+    "specialty": "Immunology",
+    "tags": [
+      "IVIg",
+      "Immunoglobulin replacement",
+      "Steady state",
+      "Half life",
+      "Antibody deficiency",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 200,
+    "stem": "The allergic reaction involved in serum sickness is primarily mediated by which of the following mechanisms?",
+    "options": [
+      "IgE-mediated mast cell activation",
+      "T-cell mediated cytotoxicity",
+      "Immune complex deposition",
+      "Complement deficiency",
+      "Direct antibody-mediated cytotoxicity"
+    ],
+    "correct_index": 2,
+    "explanation": "Serum sickness is a classic type III hypersensitivity reaction mediated by circulating immune complex deposition in tissues, leading to complement activation and inflammation. IgE-mediated mast cell activation is type I hypersensitivity, T-cell cytotoxicity is type IV, and direct antibody-mediated cytotoxicity is type II. Complement activation contributes to the pathology, but the primary mechanism is immune complex deposition.",
+    "specialty": "Immunology",
+    "tags": [
+      "Serum sickness",
+      "Type III hypersensitivity",
+      "Immune complexes",
+      "Complement",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 201,
+    "stem": "Which cell type predominates in the acute phase of granuloma formation in sarcoidosis?",
+    "options": [
+      "Neutrophils",
+      "Eosinophils",
+      "Lymphocytes",
+      "Plasma cells",
+      "Mast cells"
+    ],
+    "correct_index": 2,
+    "explanation": "Sarcoidosis is characterised by non-caseating granulomatous inflammation driven by a Th1-predominant immune response. In the acute phase, lymphocytes, particularly CD4 positive T cells, accumulate and activate macrophages that later differentiate into epithelioid histiocytes within granulomas. Neutrophils and eosinophils are not the dominant cells in typical sarcoid granuloma formation. High-yield point: sarcoidosis is a T-cell/macrophage granulomatous disease.",
+    "specialty": "Immunology",
+    "tags": [
+      "Sarcoidosis",
+      "Granuloma",
+      "Lymphocytes",
+      "Th1",
+      "CD4 T cells",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 202,
+    "stem": "What is the primary immunological mechanism underlying carditis in acute rheumatic fever?",
+    "options": [
+      "Direct bacterial invasion",
+      "Immune complex deposition",
+      "Molecular mimicry",
+      "Complement deficiency",
+      "Superantigen activation"
+    ],
+    "correct_index": 2,
+    "explanation": "Acute rheumatic fever is caused by molecular mimicry between Streptococcus pyogenes antigens and host tissues, especially cardiac myosin and valvular endothelium. The immune response generated against streptococcal antigens cross-reacts with the heart, producing carditis. This is not due to direct bacterial invasion of the myocardium. Exam pearl: rheumatic fever is a post-streptococcal autoimmune phenomenon, not an active infection.",
+    "specialty": "Immunology",
+    "tags": [
+      "Acute rheumatic fever",
+      "Carditis",
+      "Molecular mimicry",
+      "Post-streptococcal disease",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 203,
+    "stem": "What is the mechanism of action of omalizumab?",
+    "options": [
+      "Inhibits IL-5 receptor signalling",
+      "Blocks IgE binding to mast cells and basophils",
+      "Depletes B cells via CD20",
+      "Inhibits TNF-alpha",
+      "Blocks IL-4 receptor"
+    ],
+    "correct_index": 1,
+    "explanation": "Omalizumab is an anti-IgE monoclonal antibody that binds free circulating IgE and prevents it from attaching to FcεRI receptors on mast cells and basophils. This reduces sensitisation and subsequent allergic activation. It does not deplete B cells, inhibit TNF-alpha, or block IL-4 signalling. High-yield association: omalizumab is used in allergic asthma and chronic spontaneous urticaria.",
+    "specialty": "Immunology",
+    "tags": [
+      "Omalizumab",
+      "IgE",
+      "Monoclonal antibody",
+      "Allergy",
+      "Asthma",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 204,
+    "stem": "Which cytokine plays a central role in the pathogenesis of familial Mediterranean fever?",
+    "options": [
+      "Interleukin-2",
+      "Interleukin-4",
+      "Interleukin-6",
+      "Interleukin-10",
+      "Interleukin-1"
+    ],
+    "correct_index": 4,
+    "explanation": "Familial Mediterranean fever is an autoinflammatory disorder driven by dysregulated inflammasome activation, leading to excess interleukin-1 production. This is why IL-1 blockade with agents such as anakinra can be effective in resistant disease. IL-2 and IL-4 are more relevant to adaptive lymphocyte responses, while IL-10 is anti-inflammatory. Exam pearl: periodic fever syndromes are highly associated with IL-1 biology.",
+    "specialty": "Immunology",
+    "tags": [
+      "Familial Mediterranean fever",
+      "IL-1",
+      "Autoinflammatory disease",
+      "Inflammasome",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 205,
+    "stem": "Which of the following immunoglobulin components undergoes VJ recombination rather than VDJ recombination?",
+    "options": [
+      "Heavy chain variable region",
+      "Kappa/Lambda light chain",
+      "T-Cell Receptor",
+      "Constant region",
+      "J chain"
+    ],
+    "correct_index": 1,
+    "explanation": "Immunoglobulin light chains undergo VJ recombination because they contain variable and joining segments but no diversity segment. Heavy chains undergo VDJ recombination. Both kappa and lambda light chains use VJ recombination. Constant regions do not undergo recombination of this type, and the J chain is a separate polypeptide involved in polymeric IgA and IgM. High-yield: heavy chain = VDJ, light chain = VJ.",
+    "specialty": "Immunology",
+    "tags": [
+      "VJ recombination",
+      "VDJ recombination",
+      "B cell development",
+      "Immunoglobulin",
+      "Kappa light chain",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 206,
+    "stem": "Dupilumab targets the IL-4 receptor alpha subunit. In addition to IL-4 signalling, which other cytokine pathway is inhibited?",
+    "options": [
+      "IL-2",
+      "IL-5",
+      "IL-6",
+      "IL-13",
+      "IL-17"
+    ],
+    "correct_index": 3,
+    "explanation": "Dupilumab blocks the IL-4 receptor alpha subunit, which is shared by both the IL-4 and IL-13 signalling pathways. This reduces type 2 inflammation and explains its efficacy in atopic dermatitis, asthma, and chronic rhinosinusitis with nasal polyposis. It does not directly block IL-5, IL-6, or IL-17. Exam pearl: IL-4 receptor alpha blockade inhibits both IL-4 and IL-13.",
+    "specialty": "Immunology",
+    "tags": [
+      "Dupilumab",
+      "IL-4 receptor alpha",
+      "IL-13",
+      "Type 2 inflammation",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 207,
+    "stem": "Which immunoglobulin isotype is most commonly involved in autoimmune diseases?",
+    "options": [
+      "IgA",
+      "IgD",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "correct_index": 3,
+    "explanation": "IgG is the immunoglobulin isotype most commonly involved in autoimmune disease. It is the principal isotype in many pathogenic autoantibodies, including those seen in systemic lupus erythematosus, myasthenia gravis, autoimmune haemolytic anaemia, and pemphigus vulgaris. IgM can also be pathogenic in some settings, but IgG is the dominant class in established systemic and organ-specific autoimmunity. High-yield: class-switched, high-affinity IgG autoantibodies are central to many autoimmune disorders.",
+    "specialty": "Immunology",
+    "tags": [
+      "Autoimmunity",
+      "IgG",
+      "Autoantibodies",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 208,
+    "stem": "Which of the following malignancies is most commonly associated with primary immunodeficiency disorders?",
+    "options": [
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Lymphoma",
+      "Melanoma",
+      "Sarcoma"
+    ],
+    "correct_index": 2,
+    "explanation": "Lymphoma is the malignancy most strongly associated with primary immunodeficiency disorders, particularly those involving impaired immune surveillance, chronic antigenic stimulation, or defective lymphocyte regulation. Both B-cell and, less commonly, T-cell lymphomas may occur. This association is especially important in disorders such as CVID, Wiskott-Aldrich syndrome, and X-linked lymphoproliferative disease. Exam pearl: immunodeficiency and lymphoma are a classic association.",
+    "specialty": "Immunology",
+    "tags": [
+      "Primary immunodeficiency",
+      "Lymphoma",
+      "Malignancy",
+      "CVID",
+      "Immune surveillance",
+      "Immunology",
+      "2022 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  }
+]
