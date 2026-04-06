@@ -5055,5 +5055,256 @@
     "image_path": null,
     "explanation_image": null,
     "explanation_video": null
+  },
+  {
+    "id": 209,
+    "stem": "Dupilumab is an IL-4 receptor alpha subunit antagonist. What other cytokine pathway is also inhibited?",
+    "options": [
+      "IL-5",
+      "IL-17",
+      "IL-22",
+      "IL-13"
+    ],
+    "correct_index": 3,
+    "explanation": "Dupilumab blocks the IL-4 receptor alpha subunit, which is shared by both IL-4 and IL-13 signalling pathways. This inhibits type 2 inflammation and is key to its role in atopic dermatitis and asthma. It does not directly affect IL-5 (eosinophils), IL-17 (Th17), or IL-22. High-yield: IL-4 receptor alpha blockade inhibits both IL-4 and IL-13.",
+    "specialty": "Immunology",
+    "tags": [
+      "Dupilumab",
+      "IL-4 receptor alpha",
+      "IL-13",
+      "Type 2 inflammation",
+      "Immunology",
+      "2023 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 210,
+    "stem": "A 23-year-old woman with a childhood history of atopic dermatitis presents with a 2-month history of redness and itchiness over her earlobes and abdomen where it contacts a jean stud. A diagnosis of nickel allergy is suspected. How is this type of hypersensitivity mediated?",
+    "options": [
+      "Cytotoxic",
+      "Cell mediated",
+      "IgE mediated",
+      "Immune complex mediated"
+    ],
+    "correct_index": 1,
+    "explanation": "Nickel allergy causes contact dermatitis, which is a type IV hypersensitivity reaction mediated by T cells. Sensitised T lymphocytes recognise antigen and release cytokines, leading to local inflammation. This is delayed (48–72 hours). Cytotoxic (type II) and immune complex (type III) are antibody-mediated, while IgE-mediated is type I hypersensitivity. High-yield: contact dermatitis = type IV = T-cell mediated.",
+    "specialty": "Immunology",
+    "tags": [
+      "Type IV hypersensitivity",
+      "Contact dermatitis",
+      "Nickel allergy",
+      "T cells",
+      "Immunology",
+      "2023 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 211,
+    "stem": "When interpreting an antinuclear antibody (ANA) test, what is the significance of a positive dense fine speckled pattern with positive DFS70 on confirmatory testing?",
+    "options": [
+      "False negative dsDNA result is likely",
+      "Further testing with myositis-specific autoantibodies is indicated",
+      "The ANA result is likely a false positive due to antimitochondrial antibodies",
+      "Underlying autoimmune connective tissue disease is unlikely"
+    ],
+    "correct_index": 3,
+    "explanation": "A dense fine speckled ANA pattern with anti-DFS70 antibodies is commonly seen in healthy individuals and is generally not associated with systemic autoimmune rheumatic disease. In isolation, it suggests that an underlying connective tissue disease is unlikely. It does not indicate dsDNA issues or antimitochondrial antibodies. High-yield: isolated DFS70 positivity is reassuring and often represents a false-positive ANA in clinical practice.",
+    "specialty": "Immunology",
+    "tags": [
+      "ANA",
+      "DFS70",
+      "Autoimmune disease screening",
+      "False positive",
+      "Immunology",
+      "2023 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 212,
+    "stem": "Which of the following cells is primarily responsible for antigen presentation to naive T cells?",
+    "options": [
+      "Macrophages",
+      "B lymphocytes",
+      "Dendritic cells",
+      "Neutrophils",
+      "Natural killer cells"
+    ],
+    "correct_index": 2,
+    "explanation": "Dendritic cells are the most effective antigen-presenting cells for activating naive T cells. They capture antigens in peripheral tissues and migrate to lymph nodes, where they present peptides via MHC molecules with co-stimulatory signals. Macrophages and B cells can present antigen but are more involved in activating memory T cells. Neutrophils and NK cells do not function as primary antigen-presenting cells. High-yield: dendritic cells = key initiators of adaptive immunity.",
+    "specialty": "Immunology",
+    "tags": [
+      "Dendritic cells",
+      "Antigen presentation",
+      "Naive T cells",
+      "MHC",
+      "Immunology",
+      "2023 MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 213,
+    "stem": "A patient is exposed to nickel by wearing a ring, leaving a rash over the affected area. What is the type of hypersensitivity?",
+    "options": [
+      "Cell mediated",
+      "Immune complex",
+      "Antibody mediated",
+      "Histamine mediated"
+    ],
+    "correct_index": 0,
+    "explanation": "Nickel contact dermatitis is a type IV hypersensitivity reaction mediated by T lymphocytes. It is a delayed reaction occurring 48–72 hours after exposure. Immune complex reactions are type III, antibody-mediated cytotoxicity is type II, and histamine-mediated reactions are type I hypersensitivity. High-yield: contact dermatitis = delayed, T-cell mediated (type IV).",
+    "specialty": "Immunology",
+    "tags": [
+      "Type IV hypersensitivity",
+      "Contact dermatitis",
+      "Nickel",
+      "T cell mediated",
+      "Immunology",
+      "2023 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 214,
+    "stem": "A 25-year-old female develops vaccine-induced immune thrombotic thrombocytopenia following COVID-19 vaccination. What autoantibody is most likely to be present?",
+    "options": [
+      "Glycoprotein IIb/IIIa",
+      "Glycoprotein Ib/IX",
+      "Platelet factor 4",
+      "Lupus anticoagulant"
+    ],
+    "correct_index": 2,
+    "explanation": "Vaccine-induced immune thrombotic thrombocytopenia (VITT) is caused by antibodies against platelet factor 4 (PF4), similar to heparin-induced thrombocytopenia. These antibodies activate platelets, leading to thrombosis and thrombocytopenia. Glycoprotein antibodies are seen in ITP, and lupus anticoagulant is associated with antiphospholipid syndrome. High-yield: VITT = anti-PF4 antibodies without heparin exposure.",
+    "specialty": "Haematology",
+    "tags": [
+      "VITT",
+      "PF4",
+      "Thrombocytopenia",
+      "COVID vaccine",
+      "HIT",
+      "Haematology",
+      "2023 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 215,
+    "stem": "In human leukocyte adhesion deficiency, infections are due to deficiency of tissue levels of which immune cell?",
+    "options": [
+      "B cells",
+      "Eosinophils",
+      "Neutrophils",
+      "Natural killer cells"
+    ],
+    "correct_index": 2,
+    "explanation": "Leukocyte adhesion deficiency is caused by defective integrins (e.g. CD18), preventing neutrophils from adhering to endothelium and migrating into tissues. As a result, circulating neutrophils are high, but tissue neutrophils are deficient, leading to recurrent bacterial infections without pus formation. High-yield: LAD = impaired neutrophil migration → recurrent infections with high blood neutrophils but low tissue presence.",
+    "specialty": "Immunology",
+    "tags": [
+      "Leukocyte adhesion deficiency",
+      "Neutrophils",
+      "Integrins",
+      "CD18",
+      "Immunology",
+      "2023 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 216,
+    "stem": "A 28-year-old female develops anaphylaxis after exposure to peanuts. What medication is used to prevent a biphasic reaction?",
+    "options": [
+      "Cetirizine",
+      "Adrenaline",
+      "Montelukast",
+      "Prednisolone"
+    ],
+    "correct_index": 3,
+    "explanation": "Corticosteroids such as prednisolone are used to reduce the risk of biphasic anaphylactic reactions, although evidence is limited. Adrenaline is first-line for acute management but does not prevent biphasic reactions. Antihistamines (cetirizine) help symptoms but do not prevent recurrence, and montelukast is not used acutely. High-yield: adrenaline = immediate treatment; steroids = prevention of biphasic reaction.",
+    "specialty": "Immunology",
+    "tags": [
+      "Anaphylaxis",
+      "Biphasic reaction",
+      "Prednisolone",
+      "Adrenaline",
+      "Allergy",
+      "Immunology",
+      "2023 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 217,
+    "stem": "Which of the following primary immunodeficiencies is most strongly associated with recurrent infections by catalase-positive organisms?",
+    "options": [
+      "Common variable immunodeficiency",
+      "Chronic granulomatous disease",
+      "C5 deficiency",
+      "Hyper IgE syndrome",
+      "IFN-gamma receptor deficiency",
+      "Idiopathic CD4 lymphopenia",
+      "Wiskott-Aldrich syndrome",
+      "X-linked lymphoproliferative disorder"
+    ],
+    "correct_index": 1,
+    "explanation": "Chronic granulomatous disease is caused by a defect in NADPH oxidase, impairing the respiratory burst in phagocytes. This leads to inability to kill catalase-positive organisms, which degrade hydrogen peroxide and evade killing. Common organisms include Staphylococcus aureus and Aspergillus. High-yield: CGD = catalase-positive infections due to defective oxidative burst.",
+    "specialty": "Immunology",
+    "tags": [
+      "Chronic granulomatous disease",
+      "Catalase positive",
+      "NADPH oxidase",
+      "Phagocyte defect",
+      "Immunology",
+      "2023 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 218,
+    "stem": "Which of the following primary immunodeficiencies is most strongly associated with recurrent infections by Neisseria meningitidis?",
+    "options": [
+      "Common variable immunodeficiency",
+      "Chronic granulomatous disease",
+      "C5 deficiency",
+      "Hyper IgE syndrome",
+      "IFN-gamma receptor deficiency",
+      "Idiopathic CD4 lymphopenia",
+      "Wiskott-Aldrich syndrome",
+      "X-linked lymphoproliferative disorder"
+    ],
+    "correct_index": 2,
+    "explanation": "Terminal complement deficiencies (C5–C9) impair formation of the membrane attack complex, which is essential for killing Neisseria species. As a result, patients have recurrent Neisseria meningitidis infections. Other immunodeficiencies predispose to different pathogens. High-yield: recurrent Neisseria = think terminal complement deficiency.",
+    "specialty": "Immunology",
+    "tags": [
+      "Complement deficiency",
+      "C5",
+      "Neisseria meningitidis",
+      "MAC",
+      "Immunology",
+      "2023 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   }
 ]
