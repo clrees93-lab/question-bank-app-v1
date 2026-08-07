@@ -15,7 +15,7 @@
       "T1DM",
       "HbA1c",
       "Paediatrics",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -39,7 +39,7 @@
       "BRCA1",
       "Ovarian cancer",
       "Oncology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -62,7 +62,7 @@
       "Frameshift mutation",
       "Exon deletion",
       "Pathogenic mutation",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": "images/q0003.png",
     "explanation_image": null,
@@ -85,7 +85,7 @@
       "Spirometry",
       "Airways disease",
       "Respiratory",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -108,7 +108,7 @@
       "C282Y",
       "HFE",
       "Genetics",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -131,7 +131,7 @@
       "Epidemiology",
       "Statistics",
       "Risk",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -154,7 +154,7 @@
       "Enteropathic arthritis",
       "Sulfasalazine",
       "Rheumatology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -176,7 +176,7 @@
       "Beta-2 microglobulin",
       "MHC I",
       "Immunology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -193,13 +193,13 @@
     ],
     "correct_index": 1,
     "explanation": "Bacillus cereus classically causes rapid-onset food poisoning from reheated rice due to preformed toxin; onset is typically within a few hours.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "Bacillus cereus",
       "Food poisoning",
       "Microwaved rice",
       "Infectious diseases",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -222,7 +222,7 @@
       "DHF reductase inhibitor",
       "DMARD",
       "Rheumatology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -245,7 +245,7 @@
       "Germinal centre",
       "Somatic hypermutation",
       "Immunology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -268,7 +268,7 @@
       "Idiopathic pulmonary fibrosis",
       "Interstitial lung disease",
       "Respiratory",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -290,7 +290,7 @@
       "Clozapine myocarditis",
       "Eosinophilic myocarditis",
       "Cardiology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -307,13 +307,13 @@
     ],
     "correct_index": 0,
     "explanation": "Carbapenemases are beta-lactamases that hydrolyse the beta-lactam ring of carbapenems, inactivating the antibiotic.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "Carbapenemase",
       "Beta-lactamase",
       "Antibiotic resistance",
       "Infectious diseases",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -330,13 +330,13 @@
     ],
     "correct_index": 0,
     "explanation": "Penicillins are time-dependent killers; their efficacy correlates best with the proportion of the dosing interval that free drug levels remain above the MIC.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "Penicillin",
       "Time above MIC",
       "Pharmacodynamics",
       "Infectious diseases",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -359,7 +359,7 @@
       "Haptoglobin",
       "Intravascular haemolysis",
       "Haematology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -384,7 +384,7 @@
       "CN IX",
       "CN X",
       "Neurology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -406,7 +406,7 @@
       "Type B nerve fibres",
       "Preganglionic autonomic",
       "Neurology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -429,7 +429,7 @@
       "Alpha-1 agonist",
       "Vasopressor",
       "ICU",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -453,7 +453,7 @@
       "AA amyloid",
       "AL amyloid",
       "Renal",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -476,7 +476,7 @@
       "Hypermobile",
       "EDS",
       "Rheumatology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -498,7 +498,7 @@
       "Bioequivalence",
       "AUC",
       "Pharmacology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -521,7 +521,7 @@
       "Lactotroph",
       "Prolactinoma",
       "Endocrine",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -544,7 +544,7 @@
       "Telomere",
       "Reverse transcriptase",
       "Genetics",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -566,7 +566,7 @@
       "BRCA1",
       "Triple negative breast cancer",
       "Oncology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -588,7 +588,7 @@
       "QT prolongation",
       "Ciprofloxacin",
       "Cardiology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -610,7 +610,7 @@
       "Haemolytic anaemia",
       "Folate",
       "Haematology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -634,7 +634,7 @@
       "ER positive",
       "HER2 negative",
       "Oncology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -657,7 +657,7 @@
       "mTOR inhibitor",
       "Tuberous sclerosis",
       "Genetics",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -680,7 +680,7 @@
       "T4",
       "Half life",
       "Endocrine",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -703,7 +703,7 @@
       "Microdeletion",
       "Copy number variation",
       "Genetics",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -725,7 +725,7 @@
       "Subacute thyroiditis",
       "Thyroid scintigraphy",
       "Endocrine",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -748,7 +748,7 @@
       "RANK ligand",
       "Osteoclast",
       "Endocrine",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -771,7 +771,7 @@
       "Plasminogen",
       "Antifibrinolytic",
       "Haematology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -794,7 +794,7 @@
       "Heart failure",
       "Obesity",
       "Cardiology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -817,7 +817,7 @@
       "FRC",
       "Oxygenation",
       "Respiratory",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -839,7 +839,7 @@
       "Paracetamol overdose",
       "Delayed absorption",
       "Pharmacology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -862,7 +862,7 @@
       "IL-1",
       "Autoinflammatory",
       "Immunology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -886,7 +886,7 @@
       "Bradykinin",
       "Angioedema",
       "Cardiology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -909,7 +909,7 @@
       "NAPQI",
       "Glutathione",
       "Pharmacology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -931,7 +931,7 @@
       "Creatinine",
       "Low muscle mass",
       "Renal",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -948,12 +948,12 @@
     ],
     "correct_index": 0,
     "explanation": "Trimethoprim sulfamethoxazole (Bactrim) is first line for Pneumocystis jirovecii prophylaxis in immunocompromised patients.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "Pneumocystis",
       "Bactrim",
       "ID",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -970,13 +970,13 @@
     ],
     "correct_index": 0,
     "explanation": "Tenofovir alafenamide (TAF) achieves high intracellular levels with lower plasma concentrations, reducing renal and bone toxicity compared to TDF.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "TAF",
       "TDF",
       "HIV",
       "ID",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -993,12 +993,12 @@
     ],
     "correct_index": 0,
     "explanation": "Beta lactamases hydrolyse the beta lactam ring of penicillins and related antibiotics, rendering them inactive.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "Beta lactamase",
       "Antibiotic resistance",
       "ID",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1020,7 +1020,7 @@
       "Bioavailability",
       "AUC",
       "Pharmacology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1042,7 +1042,7 @@
       "Metformin",
       "B12 deficiency",
       "Endocrine",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1064,7 +1064,7 @@
       "Hyperkalaemia",
       "Calcium chloride",
       "Cardiology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1087,7 +1087,7 @@
       "B cells",
       "T cells",
       "Immunology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1109,7 +1109,7 @@
       "Myelofibrosis",
       "JAK inhibitor",
       "Haem",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1133,7 +1133,7 @@
       "Protein accumulation",
       "Liver",
       "Hepatology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1156,7 +1156,7 @@
       "Hypokalaemia",
       "NKCC2",
       "Renal",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1178,7 +1178,7 @@
       "Amyloid",
       "AL",
       "Cardiology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1195,12 +1195,12 @@
     ],
     "correct_index": 0,
     "explanation": "Most early HIV 1 strains are CCR5 tropic and use the CCR5 coreceptor to enter host cells. CCR5 is expressed on macrophages which are more involved in early infection.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "HIV",
       "CCR5",
       "ID",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1222,7 +1222,7 @@
       "Puberty",
       "GnRH",
       "Endocrine",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1245,7 +1245,7 @@
       "Transplant",
       "Immunosuppression",
       "Renal",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1267,7 +1267,7 @@
       "Orthodeoxia",
       "HPS",
       "Respiratory",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1289,7 +1289,7 @@
       "WGS",
       "Incidental findings",
       "Genetics",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1311,7 +1311,7 @@
       "Gene fusion",
       "Oncogenesis",
       "Genetics",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1333,7 +1333,7 @@
       "HLA B27",
       "Ankylosing spondylitis",
       "Rheum",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1356,7 +1356,7 @@
       "Graft versus host disease",
       "Irradiated blood",
       "Haem",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1379,7 +1379,7 @@
       "PR prolongation",
       "Jones criteria",
       "Cardio",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1401,7 +1401,7 @@
       "Plasma transfusion",
       "AB universal donor",
       "Haem",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1423,7 +1423,7 @@
       "Apraxia",
       "Neurocognition",
       "Neurology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1446,7 +1446,7 @@
       "Terminal components",
       "MAC",
       "Immunology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1469,7 +1469,7 @@
       "Checkpoint inhibitor",
       "Immune evasion",
       "Oncology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1496,7 +1496,7 @@
       "Tidal volume",
       "Respiratory physiology",
       "Resp",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1523,7 +1523,7 @@
       "Vital capacity",
       "Respiratory physiology",
       "Resp",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1550,7 +1550,7 @@
       "Months backwards",
       "Cognitive testing",
       "Neurology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1577,7 +1577,7 @@
       "Executive function",
       "Attention",
       "Neurology",
-      "2020 MS"
+      "2020 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1603,7 +1603,7 @@
       "ABG interpretation",
       "Respiratory failure",
       "Respiratory",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1629,7 +1629,7 @@
       "C-peptide",
       "Metabolic syndrome",
       "Endocrine",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1655,7 +1655,7 @@
       "RPGN",
       "Renal pathology",
       "Renal",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1673,7 +1673,7 @@
     ],
     "correct_index": 0,
     "explanation": "The highest risk of hepatitis C transmission is with intravenous drug use and needle sharing; sexual, perinatal and breastfeeding transmission are much less efficient.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "Hepatitis C",
       "IV drug use",
@@ -1681,7 +1681,7 @@
       "Viral hepatitis",
       "Transmission risk",
       "Infectious diseases",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1707,7 +1707,7 @@
       "Neurogenetics",
       "Genetic testing",
       "Genetics",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1732,7 +1732,7 @@
       "Blood products",
       "Transfusion medicine",
       "Haematology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1758,7 +1758,7 @@
       "Complement",
       "Anti-dsDNA",
       "Rheumatology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1783,7 +1783,7 @@
       "Post-MI survival",
       "LV dysfunction",
       "Cardiology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1801,14 +1801,14 @@
     ],
     "correct_index": 3,
     "explanation": "High level penicillin resistant pneumococci may have reduced susceptibility to many beta lactams, but they remain reliably susceptible to vancomycin.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "Streptococcus pneumoniae",
       "Penicillin resistance",
       "Antibiotic choice",
       "Vancomycin",
       "Infectious diseases",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1834,7 +1834,7 @@
       "Mycophenolate",
       "T-cell activation",
       "Immunology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1860,7 +1860,7 @@
       "Drug absorption",
       "Oral versus IV",
       "Pharmacology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1886,7 +1886,7 @@
       "Vasculitis",
       "ANCA-associated disease",
       "Immunology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1912,7 +1912,7 @@
       "Mismatch repair",
       "Hereditary cancer",
       "Oncology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1937,7 +1937,7 @@
       "Metabolic risk",
       "Coronary heart disease",
       "Endocrine",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1963,7 +1963,7 @@
       "Eosinophils",
       "Immune regulation",
       "Immunology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -1981,7 +1981,7 @@
     ],
     "correct_index": 0,
     "explanation": "Hepatitis E is an enterically transmitted acute hepatitis that is usually self limiting but carries high mortality in pregnant women.",
-    "specialty": "Infectious diseases",
+    "specialty": "Infectious Diseases",
     "tags": [
       "Hepatitis E",
       "Enteric transmission",
@@ -1989,7 +1989,7 @@
       "Pregnancy mortality",
       "Viral hepatitis",
       "Infectious diseases",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2014,7 +2014,7 @@
       "Calcineurin inhibitors",
       "Steroid-induced hyperglycaemia",
       "Renal",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2039,7 +2039,7 @@
       "FEV1",
       "Exercise capacity",
       "Respiratory",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2065,7 +2065,7 @@
       "Lung cancer",
       "Environmental risk",
       "Oncology",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2091,7 +2091,7 @@
       "GI administration",
       "Osteoporosis",
       "Endocrine",
-      "1999 MS"
+      "1999 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2121,7 +2121,7 @@
       "Atopy",
       "Dermatology",
       "Adult eczema",
-      "2010 MS"
+      "2010 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2146,7 +2146,7 @@
       "Pattern recognition receptors",
       "PAMPs",
       "Immune activation",
-      "2010 MS"
+      "2010 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2171,7 +2171,7 @@
       "Live vaccines",
       "VZV",
       "Contraindication",
-      "2010 MS"
+      "2010 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2196,7 +2196,7 @@
       "Anaphylaxis",
       "Anti IgA antibodies",
       "Transplant",
-      "2010 CA"
+      "2010 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2220,7 +2220,7 @@
       "Sinopulmonary infections",
       "Humoral immunity",
       "Encapsulated organisms",
-      "2010 CA"
+      "2010 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2245,7 +2245,7 @@
       "Drug allergy",
       "Intradermal test",
       "RAST",
-      "2010 CA"
+      "2010 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2270,7 +2270,7 @@
       "Hypersensitivity",
       "HIV",
       "Pharmacogenomics",
-      "2010 CA"
+      "2010 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2295,7 +2295,7 @@
       "Perforin",
       "Granzyme",
       "Innate immunity",
-      "2011 MS"
+      "2011 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2320,7 +2320,7 @@
       "CH50",
       "MAC",
       "Recurrent infection",
-      "2011 MS"
+      "2011 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2345,7 +2345,7 @@
       "Mast cells",
       "Hypersensitivity",
       "Type I reaction",
-      "2011 MS"
+      "2011 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2370,7 +2370,7 @@
       "Immunodeficiency",
       "Plasma cells",
       "Antibody deficiency",
-      "2011 MS"
+      "2011 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2395,7 +2395,7 @@
       "EBV",
       "Brain lesion",
       "Seizures",
-      "2011 CA"
+      "2011 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2421,7 +2421,7 @@
       "IgA",
       "Recurrent infections",
       "B cell dysfunction",
-      "2011 CA"
+      "2011 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2446,7 +2446,7 @@
       "PEP",
       "Antiretrovirals",
       "Resistance",
-      "2011 CA"
+      "2011 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2472,7 +2472,7 @@
       "Recurrent miscarriage",
       "Thrombosis",
       "Autoimmune",
-      "2011 CA"
+      "2011 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2497,7 +2497,7 @@
       "B cell deficiency",
       "Agammaglobulinaemia",
       "Primary immunodeficiency",
-      "2012 MS"
+      "2012 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2522,7 +2522,7 @@
       "Antigen presentation",
       "T cells",
       "Adaptive immunity",
-      "2012 MS"
+      "2012 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2547,7 +2547,7 @@
       "Opportunistic infection",
       "Cell mediated immunity",
       "Fungal infection",
-      "2012 MS"
+      "2012 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2572,7 +2572,7 @@
       "Lamotrigine",
       "Drug reaction",
       "Hypersensitivity",
-      "2012 CA"
+      "2012 Feb CA"
     ],
     "image_path": "images/q0004.png",
     "explanation_image": null,
@@ -2597,7 +2597,7 @@
       "Protease inhibitor",
       "Drug interaction",
       "Opioid withdrawal",
-      "2012 CA"
+      "2012 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2622,7 +2622,7 @@
       "Leukocytoclastic vasculitis",
       "IgA",
       "Immune complexes",
-      "2012 CA"
+      "2012 Feb CA"
     ],
     "image_path": "images/q0005.png",
     "explanation_image": null,
@@ -2647,7 +2647,7 @@
       "Cytotoxicity",
       "Immune response",
       "C5b-9",
-      "2013 MS"
+      "2013 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2672,7 +2672,7 @@
       "CVID",
       "Screening",
       "Humoral immunity",
-      "2013 MS"
+      "2013 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2696,7 +2696,7 @@
       "Transplant",
       "Allogenic",
       "Immune response",
-      "2013 MS"
+      "2013 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2721,7 +2721,7 @@
       "Opportunistic infection",
       "Fungal",
       "Cell mediated immunity",
-      "2013 MS"
+      "2013 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2746,7 +2746,7 @@
       "Waldenstrom",
       "Hyperviscosity",
       "Lymphoproliferative",
-      "2013 CA"
+      "2013 Feb CA"
     ],
     "image_path": "images/q0006.png",
     "explanation_image": null,
@@ -2771,7 +2771,7 @@
       "Myositis",
       "ILD",
       "Prognosis",
-      "2013 CA"
+      "2013 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2796,7 +2796,7 @@
       "Drug rash",
       "Carbamazepine",
       "Delayed reaction",
-      "2013 CA"
+      "2013 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2821,7 +2821,7 @@
       "Thrombosis",
       "Autoimmune",
       "Hypercoagulable",
-      "2013 CA"
+      "2013 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2849,7 +2849,7 @@
       "Diagnosis",
       "Autoimmune",
       "Small joints",
-      "2013 CA"
+      "2013 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2874,7 +2874,7 @@
       "Gold standard",
       "IgE",
       "Allergy testing",
-      "2013 CA"
+      "2013 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2899,7 +2899,7 @@
       "IgA",
       "Leukocytoclastic vasculitis",
       "Immune complexes",
-      "2013 CA"
+      "2013 Feb CA"
     ],
     "image_path": "images/q0005.png",
     "explanation_image": null,
@@ -2924,7 +2924,7 @@
       "C1 esterase inhibitor",
       "Angioedema",
       "Complement",
-      "2014 MS"
+      "2014 Feb MS"
     ],
     "image_path": "images/q0007.png",
     "explanation_image": null,
@@ -2949,7 +2949,7 @@
       "Emergency",
       "Management",
       "Hypersensitivity",
-      "2014 MS"
+      "2014 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2974,7 +2974,7 @@
       "B cells",
       "Agammaglobulinaemia",
       "Primary immunodeficiency",
-      "2014 MS"
+      "2014 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -2999,7 +2999,7 @@
       "Sinopulmonary infections",
       "Humoral immunity",
       "CVID",
-      "2014 MS"
+      "2014 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3024,7 +3024,7 @@
       "D positive R negative",
       "Immunosuppression",
       "Infection risk",
-      "2014 MS"
+      "2014 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3049,7 +3049,7 @@
       "Malignancy",
       "Immunodeficiency",
       "B cell proliferation",
-      "2014 CA"
+      "2014 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3074,7 +3074,7 @@
       "TEN",
       "Drug reaction",
       "Hypersensitivity",
-      "2014 CA"
+      "2014 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3099,7 +3099,7 @@
       "Recurrent infections",
       "B cells",
       "Humoral deficiency",
-      "2014 CA"
+      "2014 Feb CA"
     ],
     "image_path": "images/q0008.png",
     "explanation_image": null,
@@ -3124,7 +3124,7 @@
       "Autoinflammatory",
       "IL1",
       "Innate immunity",
-      "2014 CA"
+      "2014 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3149,7 +3149,7 @@
       "Histamine",
       "Wheal",
       "Type IV hypersensitivity",
-      "2015 MS"
+      "2015 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3174,7 +3174,7 @@
       "Bacterial infection",
       "Bronchopneumonia",
       "Secondary immunodeficiency",
-      "2015 MS"
+      "2015 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3199,7 +3199,7 @@
       "Allergy",
       "Desensitisation",
       "Immune tolerance",
-      "2015 MS"
+      "2015 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3224,7 +3224,7 @@
       "Recurrent infections",
       "Humoral deficiency",
       "Paediatric",
-      "2015 CA"
+      "2015 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3249,7 +3249,7 @@
       "Complement",
       "Classical pathway",
       "Bradykinin",
-      "2015 CA"
+      "2015 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3274,7 +3274,7 @@
       "Adrenaline",
       "Autoinjector",
       "Allergy",
-      "2015 CA"
+      "2015 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3299,7 +3299,7 @@
       "Palmar rash",
       "HIV",
       "Infection",
-      "2015 CA"
+      "2015 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3323,7 +3323,7 @@
       "Inflammation",
       "Non specific",
       "Immune system",
-      "2016 MS"
+      "2016 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3348,7 +3348,7 @@
       "Thymus",
       "Autoimmunity",
       "Central tolerance",
-      "2016 MS"
+      "2016 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3373,7 +3373,7 @@
       "T cell dependent",
       "Memory B cells",
       "Immunology",
-      "2016 MS"
+      "2016 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3398,7 +3398,7 @@
       "Type IV hypersensitivity",
       "Amoxicillin",
       "Allergy",
-      "2016 CA"
+      "2016 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3423,7 +3423,7 @@
       "Venom immunotherapy",
       "Desensitisation",
       "Tryptase",
-      "2016 CA"
+      "2016 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3448,7 +3448,7 @@
       "Immunoglobulin",
       "Exposure",
       "Primary immunodeficiency",
-      "2016 CA"
+      "2016 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3473,7 +3473,7 @@
       "MAC",
       "C5 C9",
       "Recurrent infection",
-      "2016 CA"
+      "2016 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3498,7 +3498,7 @@
       "Thiopurine toxicity",
       "Bone marrow suppression",
       "Myelosuppression",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3523,7 +3523,7 @@
       "Autoantibody",
       "Immune complexes",
       "Rheumatoid arthritis",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3548,7 +3548,7 @@
       "Macrophage",
       "Epithelioid histiocyte",
       "Non-caseating granuloma",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3573,7 +3573,7 @@
       "Immunotherapy",
       "Allergic rhinitis",
       "IgE mediated allergy",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3598,7 +3598,7 @@
       "Proximal tubule",
       "Hypouricaemia",
       "HIV",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": "images/q0010.png",
@@ -3623,7 +3623,7 @@
       "Classical pathway",
       "C1q",
       "Immunoglobulins",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3647,7 +3647,7 @@
       "Cell mediated immunity",
       "CD8",
       "Th1",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3672,7 +3672,7 @@
       "Cytokines",
       "Transcription",
       "Immunosuppression",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3697,7 +3697,7 @@
       "Purine synthesis",
       "Lymphocyte proliferation",
       "Immunosuppression",
-      "2017 MS"
+      "2017 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3722,7 +3722,7 @@
       "Proteinuria",
       "Nephrotic syndrome",
       "Amyloid",
-      "2017 CA"
+      "2017 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3747,7 +3747,7 @@
       "Vaccination",
       "Allergy",
       "Immunisation",
-      "2017 CA"
+      "2017 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3771,7 +3771,7 @@
       "Uveitis",
       "Mediterranean",
       "Vasculitis",
-      "2017 CA"
+      "2017 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3796,7 +3796,7 @@
       "ANCA negative",
       "Medium vessel vasculitis",
       "Microaneurysms",
-      "2017 CA"
+      "2017 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3821,7 +3821,7 @@
       "Drug allergy",
       "IgE",
       "Amoxicillin",
-      "2017 CA"
+      "2017 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3846,7 +3846,7 @@
       "B cells",
       "Germinal centre",
       "Antibody affinity",
-      "2018 MS"
+      "2018 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3871,7 +3871,7 @@
       "Reverse transcriptase",
       "HIV lifecycle",
       "Antiretroviral",
-      "2018 MS"
+      "2018 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3896,7 +3896,7 @@
       "Th1",
       "Mycobacteria",
       "Intracellular pathogens",
-      "2018 MS"
+      "2018 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3921,7 +3921,7 @@
       "Complement",
       "Opsonisation",
       "Innate immunity",
-      "2018 MS"
+      "2018 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3946,7 +3946,7 @@
       "B cell absence",
       "Hypogammaglobulinaemia",
       "Recurrent infections",
-      "2018 CA"
+      "2018 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3971,7 +3971,7 @@
       "IM",
       "Emergency",
       "Resuscitation",
-      "2018 CA"
+      "2018 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -3996,7 +3996,7 @@
       "ART",
       "Immune recovery",
       "Lymphadenopathy",
-      "2018 CA"
+      "2018 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4021,7 +4021,7 @@
       "Streptococcus pneumoniae",
       "CD4",
       "Community acquired infection",
-      "2018 CA"
+      "2018 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4046,7 +4046,7 @@
       "COX1",
       "Paracetamol",
       "Cross intolerance",
-      "2018 CA"
+      "2018 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4071,7 +4071,7 @@
       "Drug reaction",
       "Eosinophilia",
       "Systemic involvement",
-      "2018 CA"
+      "2018 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4096,7 +4096,7 @@
       "Venom allergy",
       "Food allergy",
       "Tolerance",
-      "2018 CA"
+      "2018 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4120,7 +4120,7 @@
       "Missing self",
       "Innate immunity",
       "Cytotoxicity",
-      "2019 MS"
+      "2019 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4144,7 +4144,7 @@
       "Th2",
       "Allergy",
       "Helminths",
-      "2019 MS"
+      "2019 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4168,7 +4168,7 @@
       "Th1",
       "Granuloma",
       "Inflammation",
-      "2019 MS"
+      "2019 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4192,7 +4192,7 @@
       "D816V",
       "Tyrosine kinase",
       "Mast cells",
-      "2019 MS"
+      "2019 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4216,7 +4216,7 @@
       "T cell activation",
       "Ipilimumab",
       "Co-stimulation",
-      "2019 MS"
+      "2019 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4240,7 +4240,7 @@
       "Acute rejection",
       "T cells",
       "Direct pathway",
-      "2019 MS"
+      "2019 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4264,7 +4264,7 @@
       "Skin barrier",
       "Eczema",
       "Atopy",
-      "2019 MS"
+      "2019 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4288,7 +4288,7 @@
       "Aneurysm",
       "Storiform fibrosis",
       "Autoimmune",
-      "2019 MS"
+      "2019 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4312,7 +4312,7 @@
       "Acute urticaria",
       "Allergy",
       "Dermatology",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4336,7 +4336,7 @@
       "Plasma cells",
       "IgG",
       "B cells",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4360,7 +4360,7 @@
       "Chronic rejection",
       "BOS",
       "Infection",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4384,7 +4384,7 @@
       "Emergency",
       "Penicillin",
       "Allergy",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4408,7 +4408,7 @@
       "Skin cancer",
       "Immunosuppression",
       "Photosensitivity",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4432,7 +4432,7 @@
       "Vaccination",
       "Safety",
       "Allergy",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4456,7 +4456,7 @@
       "Immunosuppression",
       "Non renal lupus",
       "Treatment",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4480,7 +4480,7 @@
       "AKI",
       "Low sodium",
       "Renal failure",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4505,7 +4505,7 @@
       "Hyperinfection",
       "Immunocompromised",
       "Parasite",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4530,7 +4530,7 @@
       "Transplant",
       "Opportunistic infection",
       "Immunosuppression",
-      "2019 CA"
+      "2019 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4554,7 +4554,7 @@
       "Immunosuppression",
       "Transmission",
       "Risk counselling",
-      "2020 CA"
+      "2020 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4578,7 +4578,7 @@
       "Pancreatitis",
       "Lacrimal gland",
       "Autoimmune",
-      "2020 CA"
+      "2020 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4602,7 +4602,7 @@
       "Arthritis",
       "Rash",
       "PCR negative",
-      "2020 CA"
+      "2020 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4626,7 +4626,7 @@
       "Immunosuppression",
       "Viraemia",
       "Management",
-      "2020 CA"
+      "2020 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4650,7 +4650,7 @@
       "Skin cancer",
       "Photosensitivity",
       "DMARD",
-      "2020 CA"
+      "2020 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4674,7 +4674,7 @@
       "Immune complexes",
       "Complement",
       "Immunology",
-      "2021 MS"
+      "2021 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4698,7 +4698,7 @@
       "Anaphylatoxin",
       "Neutrophil chemotaxis",
       "Immunology",
-      "2021 MS"
+      "2021 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4723,7 +4723,7 @@
       "Allergy",
       "Asthma",
       "Immunology",
-      "2021 MS"
+      "2021 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4747,7 +4747,7 @@
       "Autoimmune blistering disease",
       "Immunofluorescence",
       "Immunology",
-      "2021 CA"
+      "2021 Oct CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4772,7 +4772,7 @@
       "Drug allergy",
       "Antibiotics",
       "Immunology",
-      "2021 CA"
+      "2021 Oct CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4796,7 +4796,7 @@
       "Nephritic syndrome",
       "Vasculitis",
       "Renal",
-      "2021 CA"
+      "2021 Oct CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4822,7 +4822,7 @@
       "Half life",
       "Antibody deficiency",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4847,7 +4847,7 @@
       "Immune complexes",
       "Complement",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4873,7 +4873,7 @@
       "Th1",
       "CD4 T cells",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4898,7 +4898,7 @@
       "Molecular mimicry",
       "Post-streptococcal disease",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4924,7 +4924,7 @@
       "Allergy",
       "Asthma",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4949,7 +4949,7 @@
       "Autoinflammatory disease",
       "Inflammasome",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -4975,7 +4975,7 @@
       "Immunoglobulin",
       "Kappa light chain",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5000,7 +5000,7 @@
       "IL-13",
       "Type 2 inflammation",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5024,7 +5024,7 @@
       "IgG",
       "Autoantibodies",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5050,7 +5050,7 @@
       "CVID",
       "Immune surveillance",
       "Immunology",
-      "2022 MS"
+      "2022 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5074,7 +5074,7 @@
       "IL-13",
       "Type 2 inflammation",
       "Immunology",
-      "2023 MS"
+      "2023 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5098,7 +5098,7 @@
       "Nickel allergy",
       "T cells",
       "Immunology",
-      "2023 MS"
+      "2023 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5122,7 +5122,7 @@
       "Autoimmune disease screening",
       "False positive",
       "Immunology",
-      "2023 MS"
+      "2023 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5147,7 +5147,7 @@
       "Naive T cells",
       "MHC",
       "Immunology",
-      "2023 MS"
+      "2023 Feb MS"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5171,7 +5171,7 @@
       "Nickel",
       "T cell mediated",
       "Immunology",
-      "2023 CA"
+      "2023 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5196,7 +5196,7 @@
       "COVID vaccine",
       "HIT",
       "Haematology",
-      "2023 CA"
+      "2023 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5220,7 +5220,7 @@
       "Integrins",
       "CD18",
       "Immunology",
-      "2023 CA"
+      "2023 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5245,7 +5245,7 @@
       "Adrenaline",
       "Allergy",
       "Immunology",
-      "2023 CA"
+      "2023 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5273,7 +5273,7 @@
       "NADPH oxidase",
       "Phagocyte defect",
       "Immunology",
-      "2023 CA"
+      "2023 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
@@ -5301,7 +5301,7 @@
       "Neisseria meningitidis",
       "MAC",
       "Immunology",
-      "2023 CA"
+      "2023 Feb CA"
     ],
     "image_path": null,
     "explanation_image": null,
