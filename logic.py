@@ -34,9 +34,12 @@ class QuestionResult:
 # =====================================================
 
 # Matches:
-#   "2024 MS", "2024 CA"
-#   "2024MS", "2024-CA", "2024_CA"  (tolerant)
-EXAM_TAG_PATTERN = re.compile(r"(\d{4})\s*[-_ ]?\s*(MS|CA)\b", re.IGNORECASE)
+#   "2024 Feb MS", "2024 Oct CA"
+#   Also supports old tags such as "2024 MS" and "2024 CA"
+EXAM_TAG_PATTERN = re.compile(
+    r"(\d{4})\s*(?:(Feb|Oct)\s*)?(MS|CA)\b",
+    re.IGNORECASE,
+)
 
 # Matches legacy:
 #   "2024 Paper 1", "2024 paper2", "2024  Paper   2"
@@ -65,8 +68,15 @@ def list_paper_tags(questions: Iterable[Question]) -> List[str]:
             m = EXAM_TAG_PATTERN.search(t)
             if m:
                 year = m.group(1)
-                typ = m.group(2).upper()
-                tags_set.add(f"{year} {typ}")
+                sitting = m.group(2)
+                typ = m.group(3).upper()
+
+                if sitting:
+                    sitting = sitting.capitalize()
+                    tags_set.add(f"{year} {sitting} {typ}")
+                else:
+                    tags_set.add(f"{year} {typ}")
+                
                 continue
 
             # Legacy format fallback
