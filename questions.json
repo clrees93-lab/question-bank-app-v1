@@ -5306,5 +5306,1193 @@
     "image_path": null,
     "explanation_image": null,
     "explanation_video": null
+  },
+  {
+    "id": 219,
+    "stem": "Clozapine therapy may be complicated by myocarditis. What is the predominant cellular infiltrate seen in clozapine-associated myocarditis?",
+    "options": [
+      "Eosinophils",
+      "Giant cells",
+      "Lymphocytes",
+      "Neutrophils"
+    ],
+    "correct_index": 0,
+    "explanation": "Clozapine-associated myocarditis is classically a hypersensitivity-type myocarditis with a prominent eosinophilic infiltrate, making eosinophils the best answer. It usually occurs early after starting clozapine, often within the first 2-4 weeks. The clinical picture may initially be non-specific, with fever, persistent tachycardia, fatigue or chest discomfort, followed by a rise in inflammatory and myocardial injury markers such as CRP and troponin. Eosinophilia may occur but is not sufficiently sensitive to exclude myocarditis if absent. The key RACP association is therefore: new systemic symptoms or unexplained tachycardia soon after clozapine initiation + raised troponin/CRP = consider clozapine myocarditis and stop the drug while urgently assessing cardiac involvement.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Clozapine",
+      "Myocarditis",
+      "Eosinophils",
+      "Cardiology",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 220,
+    "stem": "A patient with urosepsis has a prolonged QTc around 550 ms due to methadone/opioid replacement. Blood cultures grow E. coli sensitive to amoxicillin, cephalexin, ciprofloxacin and nitrofurantoin. Which antibiotic will further prolong QTc / is most associated with QT prolongation?",
+    "options": [
+      "Amoxicillin",
+      "Cephalexin",
+      "Ciprofloxacin",
+      "Nitrofurantoin"
+    ],
+    "correct_index": 2,
+    "explanation": "Ciprofloxacin is the relevant QT-prolonging antibiotic. Fluoroquinolones can inhibit cardiac repolarising potassium currents, particularly the rapid delayed rectifier current (IKr), delaying phase 3 repolarisation and prolonging the QT interval. The clinical concern is progression to early after-depolarisations and torsades de pointes, especially when several risk factors coexist. In this stem the QTc is already markedly prolonged at about 550 ms and methadone is another important QT-prolonging drug, so adding ciprofloxacin increases risk further. Amoxicillin, cephalexin and nitrofurantoin are not major QT-prolonging agents. High-yield prescribing pearl: macrolides and fluoroquinolones are common antimicrobial causes of QT prolongation, and risk is amplified by hypokalaemia, hypomagnesaemia, bradycardia, structural heart disease and concomitant QT-prolonging medications.",
+    "specialty": "Cardiology",
+    "tags": [
+      "QT prolongation",
+      "Ciprofloxacin",
+      "Fluoroquinolones",
+      "Torsades",
+      "Cardiology",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 221,
+    "stem": "B-type natriuretic peptide is commonly measured in heart failure. In which patient group/condition is BNP less sensitive for diagnosing heart failure?",
+    "options": [
+      "Advanced age",
+      "Chronic kidney disease",
+      "Obesity",
+      "Sepsis"
+    ],
+    "correct_index": 2,
+    "explanation": "Obesity is associated with disproportionately low BNP and NT-proBNP concentrations for the degree of cardiac dysfunction, so natriuretic peptides are less sensitive for heart failure in obese patients. BNP is released predominantly from ventricular myocardium in response to wall stress and volume/pressure loading; low values are normally useful for excluding heart failure, but an unexpectedly low result in obesity should be interpreted cautiously. By contrast, advanced age and chronic kidney disease tend to increase natriuretic peptide concentrations, reducing specificity rather than sensitivity. Sepsis and other acute illnesses can also elevate BNP independently of primary heart failure. RACP pearl: obesity can give a falsely reassuring BNP, whereas renal failure and age commonly give a falsely high BNP.",
+    "specialty": "Cardiology",
+    "tags": [
+      "BNP",
+      "Obesity",
+      "Heart failure",
+      "Natriuretic peptides",
+      "Cardiology",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 222,
+    "stem": "Which amyloid cardiomyopathy has the worst prognosis if untreated?",
+    "options": [
+      "AL amyloid",
+      "AA amyloid",
+      "Transthyretin amyloid",
+      "A-beta / other amyloid"
+    ],
+    "correct_index": 0,
+    "explanation": "AL (light-chain) amyloidosis has the worst untreated cardiac prognosis. In AL amyloidosis, monoclonal immunoglobulin light chains produced by a plasma-cell clone deposit in the myocardium, but the circulating light chains also appear to have direct cardiotoxic effects. Consequently, cardiac involvement may progress rapidly to restrictive physiology, low-output heart failure and arrhythmia. ATTR cardiomyopathy can also cause severe restrictive cardiomyopathy but is generally more indolent. A crucial clinical distinction is that suspected cardiac amyloid must be screened for AL disease with serum free light chains plus serum and urine immunofixation; if no monoclonal protein is present, bone scintigraphy can support ATTR cardiomyopathy without biopsy in the appropriate setting. High-yield clue: increased ventricular wall thickness with low ECG voltages, biatrial enlargement and apical sparing on strain should raise suspicion for cardiac amyloidosis.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Cardiac amyloidosis",
+      "AL amyloid",
+      "ATTR",
+      "Heart failure",
+      "Cardiology",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 223,
+    "stem": "Acute rheumatic fever is a non-suppurative complication of group A streptococcal infection. Which ECG change can be used to support the diagnosis?",
+    "options": [
+      "Prolonged QRS duration",
+      "Prolonged PR interval",
+      "Shortened PR interval",
+      "Anterolateral T-wave inversion / ST depression / QT prolongation"
+    ],
+    "correct_index": 1,
+    "explanation": "A prolonged PR interval is a minor Jones criterion for acute rheumatic fever, provided it is not better explained by another cause. It reflects involvement of the cardiac conduction system during rheumatic carditis. Acute rheumatic fever is an immune-mediated complication of group A streptococcal infection caused by molecular mimicry rather than direct bacterial invasion of the heart. The diagnosis requires evidence of preceding streptococcal infection together with the Jones major/minor criteria. High-yield distinction: carditis is a major criterion, whereas PR prolongation itself is only a minor criterion and should not be double-counted if carditis is already being used to satisfy the criteria.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Acute rheumatic fever",
+      "PR prolongation",
+      "Jones criteria",
+      "Carditis",
+      "Cardiology",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 224,
+    "stem": "A patient has chest pain/inferior MI and hypotension with raised JVP and echo evidence of right ventricular dysfunction or right/inferior wall hypokinesis. What is the best immediate management step to improve blood pressure?",
+    "options": [
+      "IV fluids",
+      "Dobutamine",
+      "PCI",
+      "GTN / intra-aortic balloon pump"
+    ],
+    "correct_index": 0,
+    "explanation": "This is a right ventricular infarction, classically associated with an inferior MI due to proximal RCA occlusion. The right ventricle is failing, so forward flow through the pulmonary circulation falls and LV filling becomes critically preload dependent. This produces the characteristic combination of hypotension, raised JVP and often relatively clear lungs. A cautious IV fluid bolus is therefore the best immediate measure to increase RV preload and improve cardiac output. Nitrates, aggressive diuresis and other preload-reducing drugs can precipitate profound hypotension and should be avoided. Dobutamine may be required if shock persists despite adequate filling, but restoring preload comes first. Definitive STEMI treatment remains urgent reperfusion, usually PCI. Exam pearl: inferior MI + hypotension + raised JVP + clear lungs = think RV infarction and give cautious fluids.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Right ventricular infarction",
+      "Inferior MI",
+      "Preload",
+      "IV fluids",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 225,
+    "stem": "Carcinoid syndrome can cause heart failure. What is the mechanism/pathogenesis of the heart failure?",
+    "options": [
+      "Cardiomyopathy",
+      "Pericardial effusion",
+      "Valvular heart disease",
+      "Ischaemic/coronary atherosclerotic disease"
+    ],
+    "correct_index": 2,
+    "explanation": "Carcinoid heart disease causes heart failure through valvular heart disease. Serotonin and other vasoactive mediators released by a neuroendocrine tumour produce plaque-like fibrous deposits on the endocardial surfaces of the valves. Because these mediators are normally metabolised in the lungs, the right side of the heart is predominantly affected: the classic lesions are tricuspid regurgitation and pulmonary valve stenosis/regurgitation, eventually causing right-sided heart failure. Left-sided valve disease is unusual and should suggest very high mediator levels, a bronchial carcinoid or a right-to-left shunt that allows mediators to bypass pulmonary metabolism. The key RACP association is therefore carcinoid syndrome -> fibrotic right-sided valvular disease rather than a primary cardiomyopathy.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Carcinoid heart disease",
+      "Valvular disease",
+      "Tricuspid regurgitation",
+      "Pulmonary stenosis",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 226,
+    "stem": "Ebstein anomaly/Ebstein abnormality affects which cardiac valve?",
+    "options": [
+      "Tricuspid",
+      "Pulmonary",
+      "Mitral",
+      "Aortic"
+    ],
+    "correct_index": 0,
+    "explanation": "Ebstein anomaly is a congenital abnormality of the tricuspid valve. There is apical displacement of the septal and posterior tricuspid leaflets, causing part of the anatomical right ventricle to become functionally incorporated into the right atrium (\"\"atrialisation\"\" of the RV). The result is often significant tricuspid regurgitation, right atrial enlargement and variable right ventricular dysfunction. Ebstein anomaly is also strongly associated with accessory pathways and supraventricular tachyarrhythmias, particularly Wolff-Parkinson-White syndrome. Exam pearl: Ebstein = tricuspid valve + atrialised RV + WPW association.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Ebstein anomaly",
+      "Tricuspid valve",
+      "Congenital heart disease",
+      "WPW",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 227,
+    "stem": "Increased lipoprotein(a) levels are associated with increased cardiovascular events. What is the major determinant of lipoprotein(a) levels?",
+    "options": [
+      "Apo(a) receptor function",
+      "Dietary intake",
+      "Hepatic synthesis / LPA-related production",
+      "Plasma LDL/LDH levels"
+    ],
+    "correct_index": 2,
+    "explanation": "Lipoprotein(a) concentration is predominantly genetically determined by the LPA gene, which determines apo(a) structure and hepatic production. This is why Lp(a) levels are relatively stable throughout adult life and are only modestly influenced by diet, exercise or conventional lifestyle modification. Lp(a) resembles an LDL particle with apolipoprotein(a) attached to apoB-100 and is independently associated with atherosclerotic cardiovascular disease and calcific aortic valve disease. The practical RACP pearl is that Lp(a) is best thought of as an inherited risk enhancer: measuring it once can be useful in premature or otherwise unexplained ASCVD, strong family history, or when refining cardiovascular risk.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Lipoprotein(a)",
+      "LPA",
+      "Atherosclerosis",
+      "Cardiovascular risk",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 228,
+    "stem": "A patient with hypertrophic cardiomyopathy is in cardiogenic shock: sinus rhythm around 105/min, BP about 85/55-60, hypoxaemia, normal LV systolic function, severe LV outflow tract obstruction and systolic anterior motion of the mitral valve. Apart from cautious IV fluids, which pharmacological therapy is most appropriate?",
+    "options": [
+      "Dobutamine",
+      "Adrenaline",
+      "Beta blocker",
+      "GTN infusion"
+    ],
+    "correct_index": 2,
+    "explanation": "This patient has obstructive hypertrophic cardiomyopathy with systolic anterior motion (SAM) of the mitral valve causing dynamic LV outflow tract obstruction. The obstruction becomes worse when the ventricle is smaller or contracts more vigorously. Management therefore follows a useful physiological rule: increase preload, maintain/increase afterload, slow the heart rate, reduce contractility and preserve sinus rhythm. A beta blocker is appropriate because it slows heart rate, prolongs diastolic filling and reduces contractility, thereby reducing the LVOT gradient. Dobutamine and adrenaline increase contractility and can worsen obstruction; GTN reduces preload/afterload and can also cause deterioration. If vasopressor support is required, a predominantly alpha-agonist such as phenylephrine is attractive because it raises afterload without beta-1 stimulation. Exam pearl: shock + HCM/LVOTO is almost the opposite of routine systolic cardiogenic shock management-avoid inotropes and vasodilators where possible.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Hypertrophic cardiomyopathy",
+      "LVOT obstruction",
+      "SAM",
+      "Beta blocker",
+      "Cardiogenic shock",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 229,
+    "stem": "A patient presents with chest pain/palpitations. On examination there is variable intensity of the first heart sound, and the ECG variant shows an inferior STEMI/complete heart block pattern. What explains the variable intensity of S1?",
+    "options": [
+      "Right ventricular inferior wall hypokinesis",
+      "AV dissociation",
+      "Right conduction block",
+      "Pericardial effusion"
+    ],
+    "correct_index": 1,
+    "explanation": "Variable intensity of the first heart sound is explained by AV dissociation. In complete heart block, the atria and ventricles depolarise independently, so the timing between atrial contraction and ventricular systole varies from beat to beat. The mitral and tricuspid valves are therefore at different positions when ventricular systole begins, producing a variable S1 intensity. This is a classic bedside clue to complete heart block, alongside cannon A waves when the atria contract against closed AV valves. Inferior MI is particularly relevant because RCA infarction can compromise AV nodal blood supply and produce complete heart block.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Complete heart block",
+      "AV dissociation",
+      "S1",
+      "Inferior MI",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": "images/q0011.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 230,
+    "stem": "A patient with a prosthetic aortic valve and no penicillin allergy is undergoing dental extraction. What prophylaxis is appropriate?",
+    "options": [
+      "Amoxicillin and clavulanate",
+      "Amoxicillin and metronidazole",
+      "Amoxicillin monotherapy",
+      "No prophylaxis"
+    ],
+    "correct_index": 2,
+    "explanation": "A prosthetic cardiac valve places the patient in a high-risk group for adverse outcomes from infective endocarditis. For an invasive dental procedure involving gingival manipulation or disruption of oral mucosa, antibiotic prophylaxis is therefore appropriate. In a patient without penicillin allergy, amoxicillin monotherapy is the standard choice; broader therapy with clavulanate or metronidazole is unnecessary because this is prophylaxis against oral flora rather than treatment of an established polymicrobial infection. High-yield principle: IE prophylaxis is restricted to selected high-risk cardiac conditions and selected dental procedures-it is not routinely given to everyone with native valve disease.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Infective endocarditis prophylaxis",
+      "Prosthetic valve",
+      "Dental procedure",
+      "Amoxicillin",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 231,
+    "stem": "In the general population, how is cardiovascular disease/risk/events related to blood pressure?",
+    "options": [
+      "Linear curve",
+      "J-shaped curve",
+      "Exponential curve",
+      "U-shaped curve"
+    ],
+    "correct_index": 0,
+    "explanation": "In the general population, cardiovascular risk rises continuously and approximately log-linearly as blood pressure increases. There is no sharp threshold at which hypertension suddenly becomes harmful; rather, progressively higher systolic and diastolic pressures are associated with progressively greater risks of stroke, coronary disease, heart failure and chronic kidney disease. A J-shaped relationship is sometimes discussed in treated patients with established vascular disease, where very low pressures may compromise perfusion, but that is not the fundamental population relationship being tested here. RACP pearl: treatment thresholds are pragmatic clinical cut-offs imposed on a continuous biological risk relationship.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Blood pressure",
+      "Cardiovascular risk",
+      "Hypertension",
+      "Epidemiology",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 232,
+    "stem": "A woman presents with palpitations. Her baseline ECG is sinus rhythm. During palpitations the ECG shows a regular narrow-complex tachycardia at about 150/min with flutter waves most obvious in V1. What is the rhythm?",
+    "options": [
+      "Sinus tachycardia",
+      "AVNRT",
+      "Atrial flutter",
+      "Multifocal atrial tachycardia"
+    ],
+    "correct_index": 2,
+    "explanation": "This is atrial flutter, most likely with 2:1 AV conduction. Typical atrial flutter has an atrial rate around 300/min; when every second atrial impulse conducts through the AV node, the ventricular rate is therefore close to 150/min. Flutter waves may be subtle when buried within the QRS/T complexes and are often best appreciated in V1 and the inferior leads. This is a classic exam clue: a very regular narrow-complex tachycardia sitting stubbornly around 150/min should prompt a deliberate search for flutter waves. Multifocal atrial tachycardia is irregular with at least three P-wave morphologies, while AVNRT usually has absent or retrograde P waves rather than organised flutter activity.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Atrial flutter",
+      "2:1 conduction",
+      "Narrow complex tachycardia",
+      "ECG",
+      "Cardiology",
+      "2020 Feb CA"
+    ],
+    "image_path": "images/q0012.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 233,
+    "stem": "A 54-year-old man has severe aortic regurgitation on echocardiogram. He has no cardiac symptoms. What feature in echocardiogram would be the strongest indication for AV replacement?",
+    "options": [
+      "Anterior mitral valve leaflet fluttering",
+      "Holodiastolic reversal of flow",
+      "LVEF <50%",
+      "LVEDD <65"
+    ],
+    "correct_index": 2,
+    "explanation": "In severe asymptomatic aortic regurgitation, the strongest indication among these options for aortic valve replacement is development of LV systolic dysfunction, represented in the recalled question by an LVEF <50%. Chronic AR causes progressive LV volume overload and eccentric remodelling; patients may remain asymptomatic for a long time, so declining LV function indicates that compensatory mechanisms are failing and irreversible myocardial dysfunction may develop if surgery is delayed. Holodiastolic flow reversal supports the diagnosis of severe AR but does not by itself demonstrate LV decompensation. Contemporary guidelines may use somewhat earlier LV thresholds than older recalls, but the exam principle is stable: severe AR + symptoms or objective LV decompensation/dilatation = consider surgery.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Aortic regurgitation",
+      "Aortic valve replacement",
+      "LVEF",
+      "Valvular heart disease",
+      "Cardiology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 234,
+    "stem": "A 17-year-old boy presents with group A streptococcal positive acute rheumatic fever, with arthritis, pericarditis, and a prolonged PR. What is the shortest recommended duration of antibiotics for secondary prevention of recurrence?",
+    "options": [
+      "1 year",
+      "5 years",
+      "10 years",
+      "15 years"
+    ],
+    "correct_index": 2,
+    "explanation": "The worked recall identifies 10 years as the intended minimum duration of secondary antibiotic prophylaxis in this patient with acute rheumatic fever and cardiac involvement. Secondary prophylaxis is crucial because recurrent group A streptococcal infection can trigger another episode of rheumatic fever, and repeated carditis substantially increases the risk of permanent rheumatic valvular disease. Long-acting intramuscular benzathine penicillin is commonly used. The exact duration depends on whether carditis occurred, whether residual valvular disease persists, the patient's age and local guideline recommendations; patients with established rheumatic heart disease may require substantially longer prophylaxis. The exam concept is therefore not merely treating the original streptococcal infection, but preventing recurrent immune-mediated cardiac injury.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Acute rheumatic fever",
+      "Secondary prophylaxis",
+      "Benzathine penicillin",
+      "Rheumatic heart disease",
+      "Cardiology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 235,
+    "stem": "What is the mechanism of heart failure in carcinoid syndrome?",
+    "options": [
+      "Cardiomyopathy",
+      "Coronary atherosclerosis",
+      "Pericardial effusion",
+      "Valvular heart disease"
+    ],
+    "correct_index": 3,
+    "explanation": "Carcinoid syndrome causes heart failure through valvular heart disease. Serotonin and other tumour-derived vasoactive mediators stimulate plaque-like fibrous deposition on valve leaflets and adjacent endocardium. The pulmonary circulation normally metabolises these mediators, so the right-sided valves are most exposed: tricuspid regurgitation and pulmonary stenosis/regurgitation are the characteristic lesions. Progressive valve dysfunction produces right-sided volume/pressure overload and eventually right heart failure. Cardiomyopathy, coronary atherosclerosis and pericardial effusion are therefore not the characteristic mechanisms. Exam pearl: carcinoid = serotonin-mediated right-sided valvular fibrosis.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Carcinoid heart disease",
+      "Valvular disease",
+      "Serotonin",
+      "Right heart failure",
+      "Cardiology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 236,
+    "stem": "Which of the following is not an indication for CRRT?",
+    "options": [
+      "Class II-IV symptoms of CCF despite being on optimal medical therapy",
+      "LBBB",
+      "LVEF <35%",
+      "QRS <130"
+    ],
+    "correct_index": 3,
+    "explanation": "The source labels this as \"\"CRRT\"\", but the worked explanation makes clear that the question is about cardiac resynchronisation therapy (CRT). A QRS duration <130 ms is not an indication for CRT. CRT is intended to correct electrical and mechanical dyssynchrony in selected patients with symptomatic HFrEF despite guideline-directed medical therapy, with the strongest benefit in those with LBBB morphology and a markedly prolonged QRS, particularly >=150 ms. LVEF <=35% and persistent symptoms support eligibility in the appropriate rhythm/conduction setting. High-yield point: the broader the LBBB QRS, the more likely CRT is to help; a narrow QRS does not provide the dyssynchrony substrate CRT is designed to correct.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Cardiac resynchronisation therapy",
+      "CRT",
+      "LBBB",
+      "QRS",
+      "HFrEF",
+      "Cardiology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 237,
+    "stem": "What causes a capture beat on an ECG showing VT?",
+    "options": [
+      "Sinus and ventricular activity fuse to form a hybrid complex",
+      "The distance from QRS to nadir S wave >100s",
+      "Sinus node firing causes the ventricle to produce a normal QRS",
+      "A rabbit ear RSR shape where left ear larger than right ear"
+    ],
+    "correct_index": 2,
+    "explanation": "A capture beat occurs during ventricular tachycardia when an atrial/sinus impulse manages to conduct through the AV node at a moment when the ventricles are excitable and completely activates the ventricles through the normal His-Purkinje system. This produces an isolated normal or near-normal QRS complex within the broad-complex VT. It is evidence of AV dissociation and therefore strongly supports VT over SVT with aberrancy. Do not confuse it with a fusion beat: fusion occurs when a supraventricular impulse and the ventricular tachycardia impulse activate the ventricles simultaneously, producing a hybrid QRS morphology intermediate between the normal QRS and the VT complex.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Ventricular tachycardia",
+      "Capture beat",
+      "AV dissociation",
+      "Fusion beat",
+      "ECG",
+      "Cardiology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 238,
+    "stem": "A 24-year-old male with a history of IVDU presents with fevers and is found to have multiple lung abscesses. A new tricuspid regurgitation murmur is heard, and infective endocarditis is confirmed after investigations. What is the most likely causative organism?",
+    "options": [
+      "Candida albicans",
+      "Escherichia coli",
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus"
+    ],
+    "correct_index": 3,
+    "explanation": "Staphylococcus aureus is the classic cause of infective endocarditis in people who inject drugs. Right-sided disease, particularly tricuspid valve endocarditis, is common because injected organisms reach the right heart first. Septic emboli from tricuspid vegetations travel to the pulmonary circulation, producing multiple peripheral pulmonary nodules, cavitation or lung abscesses-the key clue in this stem. S. aureus also tends to cause an aggressive, acute presentation and can infect previously normal valves. Exam pearl: IVDU + fever + tricuspid regurgitation + septic pulmonary emboli = S. aureus right-sided infective endocarditis until proven otherwise.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Infective endocarditis",
+      "IVDU",
+      "Staphylococcus aureus",
+      "Tricuspid valve",
+      "Septic pulmonary emboli",
+      "Cardiology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 239,
+    "stem": "A 76-year-old male presents with 24-hour history of chest pain. His ECG shows an evolving anterior MI. The next day he has a new diastolic murmur. An urgent TTE demonstrates a VSD. He is hemodynamically stable. What is the best option for management of his VSD?",
+    "options": [
+      "Medical management",
+      "Balloon pump",
+      "PCI",
+      "Surgical repair of VSD"
+    ],
+    "correct_index": 3,
+    "explanation": "This is post-myocardial-infarction ventricular septal rupture, a catastrophic mechanical complication caused by myocardial necrosis. It typically occurs several days after a transmural infarction and presents with sudden haemodynamic deterioration or a new harsh systolic murmur, although the patient may initially appear relatively stable. Definitive management is closure of the defect, classically urgent surgical repair. Medical therapy alone has extremely high mortality. An intra-aortic balloon pump or other mechanical circulatory support may temporarily reduce afterload and left-to-right shunting as a bridge, but does not correct the structural lesion. PCI treats the culprit coronary disease but does not repair an established VSD. High-yield post-MI mechanical complications: VSD, papillary muscle rupture causing acute MR, and free-wall rupture causing tamponade.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Post-MI VSD",
+      "Ventricular septal rupture",
+      "Mechanical complication",
+      "Surgical repair",
+      "Cardiology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 240,
+    "stem": "A 55-year-old male from China presents with cardiomyopathy and has a history of a diet rich in fast foods.",
+    "options": [
+      "Chromium",
+      "Zinc",
+      "Iodine",
+      "Selenium",
+      "Iron",
+      "Folate",
+      "Vitamin B12",
+      "Vitamin B6"
+    ],
+    "correct_index": 3,
+    "explanation": "Selenium deficiency is associated with Keshan disease, an endemic cardiomyopathy originally described in selenium-deficient regions of China. Selenium is required for antioxidant selenoproteins, including glutathione peroxidase, and deficiency increases susceptibility to oxidative myocardial injury. Clinical manifestations can include dilated cardiomyopathy, heart failure and arrhythmias/conduction abnormalities. The geographic clue is important: China + cardiomyopathy should prompt consideration of selenium deficiency in an exam stem. This is distinct from iron overload cardiomyopathy, which is due to excess rather than deficiency, and iodine deficiency, which primarily causes thyroid disease.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Selenium",
+      "Keshan disease",
+      "Cardiomyopathy",
+      "Micronutrient deficiency",
+      "Cardiology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 241,
+    "stem": "Which antibiotic most likely to prolong QT?",
+    "options": [
+      "Amoxicillin",
+      "Ciprofloxacin",
+      "Cephalexin",
+      "Nitrofurantoin"
+    ],
+    "correct_index": 1,
+    "explanation": "Ciprofloxacin is a fluoroquinolone and can prolong the QT interval through inhibition of cardiac repolarising potassium currents. Delayed repolarisation increases the risk of early after-depolarisations and torsades de pointes, particularly in patients with an already prolonged QTc or additional risk factors. Fluoroquinolones differ in their degree of QT effect-moxifloxacin is particularly recognised-but ciprofloxacin remains relevant compared with the non-QT-prolonging beta-lactams and nitrofurantoin listed here. High-yield risk factors for drug-induced torsades include QTc >500 ms, female sex, bradycardia, structural heart disease, hypokalaemia/hypomagnesaemia and combining multiple QT-prolonging medications.",
+    "specialty": "Cardiology",
+    "tags": [
+      "QT prolongation",
+      "Ciprofloxacin",
+      "Fluoroquinolones",
+      "Torsades",
+      "Cardiology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 242,
+    "stem": "What is the process by which the heart is affected in acute rheumatic fever?",
+    "options": [
+      "Direct bacterial invasion",
+      "Immune complex deposition",
+      "Molecular mimicry",
+      "Superantigen activation"
+    ],
+    "correct_index": 2,
+    "explanation": "Acute rheumatic fever affects the heart through molecular mimicry. Group A streptococcal antigens, particularly M-protein epitopes, resemble host cardiac antigens. The adaptive immune response generated against the infection therefore cross-reacts with cardiac tissue, producing inflammatory carditis and valvulitis despite the absence of viable bacteria in the heart. This is classically conceptualised as an antibody-mediated/type II hypersensitivity process with an important T-cell contribution. The key distinction is from direct bacterial invasion: acute rheumatic fever occurs after streptococcal infection and is an autoimmune post-infectious complication.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Acute rheumatic fever",
+      "Molecular mimicry",
+      "Carditis",
+      "Type II hypersensitivity",
+      "Cardiology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 243,
+    "stem": "Most common feature of cardiac sarcoidosis?",
+    "options": [
+      "Heart failure",
+      "Heart block",
+      "Pericarditis",
+      "Valvular dysfunction"
+    ],
+    "correct_index": 1,
+    "explanation": "Heart block is a characteristic and high-yield manifestation of cardiac sarcoidosis because granulomatous inflammation frequently involves the basal interventricular septum and conduction system. Patients may present with first-degree AV block, bundle branch block or high-grade/complete AV block; ventricular arrhythmias and heart failure are other major presentations and sudden cardiac death is an important risk. Cardiac MRI can demonstrate scar/inflammation with late gadolinium enhancement, while FDG-PET assesses active inflammation. Endomyocardial biopsy has limited sensitivity because disease is patchy. Exam pearl: unexplained AV block in a younger patient, especially with extracardiac sarcoid, should trigger consideration of cardiac sarcoidosis.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Cardiac sarcoidosis",
+      "Heart block",
+      "AV block",
+      "Granulomatous disease",
+      "Cardiology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 244,
+    "stem": "Where is BNP released from?",
+    "options": [
+      "Atria",
+      "Ventricles",
+      "SA node",
+      "Purkinje fibres"
+    ],
+    "correct_index": 1,
+    "explanation": "BNP is produced predominantly by ventricular cardiomyocytes in response to increased myocardial wall stretch from pressure or volume loading. The precursor proBNP is cleaved into biologically active BNP and the inactive N-terminal fragment NT-proBNP. BNP promotes natriuresis, diuresis and vasodilation and opposes the renin-angiotensin-aldosterone and sympathetic systems. Clinically, BNP/NT-proBNP are useful in the assessment of suspected heart failure, but interpretation is contextual: concentrations tend to be higher with age, renal impairment and atrial fibrillation and lower in obesity.",
+    "specialty": "Cardiology",
+    "tags": [
+      "BNP",
+      "Ventricles",
+      "Natriuretic peptides",
+      "Heart failure",
+      "Cardiology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 245,
+    "stem": "Expected ECG finding for infective endocarditis with abscess?",
+    "options": [
+      "Short PR interval",
+      "PR prolongation",
+      "QT shortening",
+      "Diffuse ST elevation"
+    ],
+    "correct_index": 1,
+    "explanation": "New PR prolongation in a patient with infective endocarditis should raise concern for peri-annular extension and abscess formation. This is particularly important with aortic valve endocarditis because the aortic root lies close to the AV node and His bundle. Extension of infection into this tissue can produce progressive conduction disease-from PR prolongation to higher-grade AV block. This is therefore a red flag for complicated infective endocarditis and should prompt urgent assessment for peri-valvular abscess, typically with transoesophageal echocardiography and sometimes cardiac CT. Exam pearl: IE + new conduction abnormality = think abscess.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Infective endocarditis",
+      "Perivalvular abscess",
+      "PR prolongation",
+      "Heart block",
+      "Cardiology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 246,
+    "stem": "Which is the predominant ion involved in phase 2 of the cardiac action potential?",
+    "options": [
+      "Calcium",
+      "Sodium",
+      "Potassium",
+      "Chloride"
+    ],
+    "correct_index": 0,
+    "explanation": "Calcium is the key ion responsible for the phase 2 plateau of the ventricular myocyte action potential. After rapid phase 0 depolarisation from fast sodium influx, transient potassium efflux contributes to phase 1. During phase 2, calcium enters through L-type calcium channels while potassium continues to leave the cell; the balance between these opposing currents creates the characteristic plateau. Incoming calcium then triggers calcium-induced calcium release from the sarcoplasmic reticulum, linking electrical activation to myocardial contraction. Phase 3 is dominated by potassium efflux and repolarisation, while phase 4 is the resting membrane potential. High-yield: phase 0 = Na+, phase 2 = Ca2+, phase 3 = K+.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Cardiac action potential",
+      "Phase 2",
+      "Calcium",
+      "L-type calcium channel",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 247,
+    "stem": "What nerve is responsible for the pain experienced in pericarditis?",
+    "options": [
+      "Cardiac plexus",
+      "Phrenic nerve",
+      "Recurrent laryngeal nerve",
+      "Vagus nerve"
+    ],
+    "correct_index": 1,
+    "explanation": "Pericarditic pain is transmitted by the phrenic nerve. The fibrous pericardium and parietal layer of the serous pericardium have somatic sensory innervation from the phrenic nerves, arising from C3-C5. Inflammation therefore produces sharp, pleuritic, positional pain and may refer pain to the shoulder or trapezius ridge because the same cervical roots supply the shoulder region. The visceral pericardium is relatively insensitive to pain. Exam pearl: pericarditis pain classically improves sitting forward and worsens lying flat or with inspiration; trapezius-ridge pain is particularly suggestive of phrenic nerve irritation.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Pericarditis",
+      "Phrenic nerve",
+      "Referred pain",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 248,
+    "stem": "Mechanism of action of levosimendan?",
+    "options": [
+      "Influx of calcium",
+      "Unclear option",
+      "Increased release of calcium from sarcoplasmic reticulum",
+      "Increased sensitivity of membrane/myofilaments to calcium"
+    ],
+    "correct_index": 3,
+    "explanation": "Levosimendan is a calcium sensitiser. It binds to cardiac troponin C in a calcium-dependent manner and increases the sensitivity of the contractile apparatus to the calcium already present, thereby increasing contractility without relying primarily on a large increase in intracellular calcium concentration. This distinguishes it mechanistically from agents that increase cAMP and calcium influx. Levosimendan also opens ATP-sensitive potassium channels in vascular smooth muscle, producing vasodilation, so it is sometimes described as an \"\"inodilator\"\". The exam distinction is therefore increased myofilament sensitivity to calcium rather than increased calcium entry or release from the sarcoplasmic reticulum.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Levosimendan",
+      "Calcium sensitiser",
+      "Inotrope",
+      "Troponin C",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 249,
+    "stem": "A 60-year-old female presents with chest pain and shortness of breath. She has diet-controlled type 2 diabetes. What type of AV block and region of infarct is shown in the ECG?",
+    "options": [
+      "Third degree - anterior",
+      "Second degree Mobitz I - anterior",
+      "Third degree - inferior",
+      "Second degree Mobitz II - inferior"
+    ],
+    "correct_index": 2,
+    "explanation": "The ECG represents complete (third-degree) AV block complicating an inferior myocardial infarction. Inferior STEMI is identified by ST elevation in leads II, III and aVF and is most commonly caused by RCA occlusion. In most people the AV node is supplied by the RCA, so inferior infarction can produce AV nodal ischaemia and high-grade heart block. Complete heart block is diagnosed by AV dissociation: P waves and QRS complexes occur independently, with no fixed PR relationship. Compared with anterior MI, heart block in inferior MI is more often AV nodal, may have a narrow escape rhythm and is frequently transient; anterior MI-related complete block implies extensive His-Purkinje damage and carries a worse prognosis.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Inferior MI",
+      "Complete heart block",
+      "AV dissociation",
+      "ECG",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": "images/q0013.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 250,
+    "stem": "SGLT2 inhibitors have been shown to improve cardiovascular outcomes. Which of the following best represents their effects on weight, blood pressure and LDL-C?",
+    "options": [
+      "Weight gain, BP increase, LDL-C reduces",
+      "Weight loss, BP decrease, LDL-C increases",
+      "Weight neutral, BP increase, LDL-C reduces",
+      "Weight loss, BP decrease, LDL-C reduces"
+    ],
+    "correct_index": 1,
+    "explanation": "SGLT2 inhibitors typically cause modest weight loss and a modest reduction in blood pressure, while LDL cholesterol may rise slightly. Blocking proximal tubular glucose and sodium reabsorption causes glycosuria, caloric loss and osmotic diuresis/natriuresis, explaining the weight and blood-pressure effects. Despite the small LDL increase, SGLT2 inhibitors have major cardiovascular and renal benefits, including reduction in heart-failure hospitalisation and benefit across the spectrum of heart failure, including in patients without diabetes. Exam pearl: do not let the slight LDL rise distract from the class's substantial cardiorenal outcome benefit.",
+    "specialty": "Cardiology",
+    "tags": [
+      "SGLT2 inhibitors",
+      "Weight",
+      "Blood pressure",
+      "LDL",
+      "Cardiovascular outcomes",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 251,
+    "stem": "What adrenergic receptors does midodrine agonise?",
+    "options": [
+      "Alpha 1",
+      "Alpha 2",
+      "Alpha 1 and 2",
+      "Beta"
+    ],
+    "correct_index": 0,
+    "explanation": "Midodrine is a peripheral alpha-1 adrenergic receptor agonist. Its active metabolite causes arteriolar and venous vasoconstriction, increasing systemic vascular resistance and venous return and thereby raising standing blood pressure. It is used for symptomatic orthostatic hypotension when non-pharmacological measures are inadequate. Important adverse effects include supine hypertension, piloerection, scalp tingling and urinary retention, so dosing near bedtime is generally avoided. The key pharmacology association is straightforward: midodrine = alpha-1 agonist = peripheral vasoconstriction.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Midodrine",
+      "Alpha-1 agonist",
+      "Orthostatic hypotension",
+      "Vasoconstriction",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 252,
+    "stem": "Vitamin D is associated with vascular calcium deposits in chronic kidney disease. What other vitamin is associated with this?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "correct_index": 3,
+    "explanation": "Vitamin K is linked to vascular calcification because it is required for gamma-carboxylation and activation of matrix Gla protein, an important inhibitor of vascular mineral deposition. When vitamin K activity is reduced, matrix Gla protein remains under-carboxylated and less able to inhibit calcification. This is particularly relevant in chronic kidney disease, where vascular calcification is already accelerated by abnormalities of phosphate, calcium and mineral-bone metabolism. Warfarin antagonises vitamin K and has therefore been associated with vascular calcification and calciphylaxis. High-yield link: vitamin K -> activates matrix Gla protein -> inhibits vascular calcification.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Vitamin K",
+      "Vascular calcification",
+      "CKD",
+      "Matrix Gla protein",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 253,
+    "stem": "Where do thiazide diuretics work?",
+    "options": [
+      "Na-Cl cotransporter at proximal convoluted tubule",
+      "Na-Cl cotransporter at distal convoluted tubule",
+      "Na-K cotransporter at proximal convoluted tubule",
+      "Na-K cotransporter at distal convoluted tubule"
+    ],
+    "correct_index": 1,
+    "explanation": "Thiazide diuretics inhibit the sodium-chloride cotransporter (NCC) in the distal convoluted tubule. This produces moderate natriuresis and is why thiazides are widely used for hypertension. Increased distal sodium delivery promotes potassium and hydrogen loss, contributing to hypokalaemia and metabolic alkalosis. Thiazides also increase calcium reabsorption, so they can cause mild hypercalcaemia and reduce urinary calcium excretion-useful in recurrent calcium nephrolithiasis. Other classic adverse effects include hyponatraemia, hyperuricaemia and glucose intolerance. Contrast with loop diuretics, which inhibit NKCC2 in the thick ascending limb and increase urinary calcium excretion.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Thiazide diuretics",
+      "Na-Cl cotransporter",
+      "Distal convoluted tubule",
+      "Diuretics",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 254,
+    "stem": "A patient with heart failure with reduced ejection fraction is commenced on sacubitril/valsartan. What is the primary mechanism by which sacubitril improves outcomes?",
+    "options": [
+      "Inhibition of angiotensin II receptors",
+      "Increased degradation of natriuretic peptides",
+      "Inhibition of neprilysin",
+      "Increased aldosterone secretion",
+      "Direct vasodilation via nitric oxide"
+    ],
+    "correct_index": 2,
+    "explanation": "Sacubitril inhibits neprilysin, the enzyme responsible for degrading several vasoactive peptides including endogenous natriuretic peptides. Neprilysin inhibition therefore increases natriuretic peptide activity, promoting natriuresis, vasodilation and favourable anti-remodelling effects. Sacubitril is combined with valsartan, an angiotensin II receptor blocker, because neprilysin inhibition alone can increase angiotensin II activity; together the combination is termed an ARNI. In HFrEF, sacubitril/valsartan improves cardiovascular outcomes compared with ACE-inhibitor therapy in appropriate patients. High-yield safety point: an ACE inhibitor requires a washout period before starting sacubitril/valsartan because combined bradykinin accumulation increases angioedema risk.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Sacubitril",
+      "Neprilysin",
+      "ARNI",
+      "HFrEF",
+      "Natriuretic peptides",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 255,
+    "stem": "Which of the following best describes the mechanism of action of loop diuretics?",
+    "options": [
+      "Inhibition of Na-Cl cotransporter in distal tubule",
+      "Inhibition of Na-K-2Cl cotransporter in thick ascending limb",
+      "Increased sodium reabsorption in proximal tubule",
+      "Inhibition of ENaC channels in collecting duct",
+      "Aldosterone receptor antagonism"
+    ],
+    "correct_index": 1,
+    "explanation": "Loop diuretics inhibit the Na-K-2Cl cotransporter (NKCC2) in the thick ascending limb of the loop of Henle. This segment normally reabsorbs a large sodium load and helps generate the medullary concentration gradient, so its blockade produces potent natriuresis and diuresis. Loss of the lumen-positive potential also increases urinary calcium and magnesium excretion. Important adverse effects include hypokalaemia, hypomagnesaemia, metabolic alkalosis, volume depletion, hyperuricaemia and ototoxicity. High-yield comparison: loops lose calcium, whereas thiazides retain calcium.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Loop diuretics",
+      "NKCC2",
+      "Thick ascending limb",
+      "Diuretics",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 256,
+    "stem": "Which pathogen is most commonly associated with infective endocarditis in intravenous drug users?",
+    "options": [
+      "Streptococcus gallolyticus",
+      "Enterococcus faecalis",
+      "Staphylococcus aureus",
+      "HACEK organisms",
+      "Streptococcus viridans"
+    ],
+    "correct_index": 2,
+    "explanation": "Staphylococcus aureus is the organism most strongly associated with infective endocarditis in people who inject drugs. Repeated injection introduces skin flora directly into the bloodstream, and the tricuspid valve is commonly affected because it is the first valve encountered in the venous circulation. Right-sided vegetations can embolise to the lungs, producing pleuritic pain, nodular infiltrates, cavitation or lung abscesses. S. aureus can infect previously normal valves and often causes an acute, destructive illness. Exam pearl: IVDU + tricuspid IE/septic pulmonary emboli = S. aureus.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Infective endocarditis",
+      "IVDU",
+      "Staphylococcus aureus",
+      "Tricuspid valve",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 257,
+    "stem": "Which anticoagulant causes hyperkalaemia by inducing hypoaldosteronism / interfering with aldosterone?",
+    "options": [
+      "Warfarin",
+      "Heparin",
+      "Rivaroxaban / Dabigatran",
+      "Dabigatran / Apixaban"
+    ],
+    "correct_index": 1,
+    "explanation": "Heparin can cause hyperkalaemia by suppressing aldosterone synthesis in the adrenal zona glomerulosa. Reduced aldosterone decreases distal nephron sodium reabsorption and potassium/hydrogen secretion, producing hyperkalaemia and sometimes a mild type 4 renal tubular acidosis pattern. The effect is more likely with prolonged therapy and in patients already predisposed to hyperkalaemia, such as those with diabetes or chronic kidney disease. This adverse effect is separate from heparin-induced thrombocytopenia. Exam pearl: heparin is an easily overlooked medication cause of hypoaldosteronism and hyperkalaemia.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Heparin",
+      "Hyperkalaemia",
+      "Hypoaldosteronism",
+      "Type 4 RTA",
+      "Cardiology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 258,
+    "stem": "A 46-year-old female presents with a new diagnosis of acute pulmonary embolism. HR 94, BP 110/64. TTE shows right heart dilatation. Which treatment has been shown to have the greatest improvement in mortality?",
+    "options": [
+      "Anticoagulation",
+      "IVC filter",
+      "Catheter-directed thrombolysis",
+      "Thrombectomy"
+    ],
+    "correct_index": 0,
+    "explanation": "This patient has acute pulmonary embolism with right ventricular dilatation but preserved blood pressure, placing her in an intermediate-risk rather than high-risk (massive) PE category. Therapeutic anticoagulation is the cornerstone treatment and is the intervention among these options with established mortality benefit in this haemodynamically stable setting. RV strain alone does not justify routine systemic or catheter-directed thrombolysis because the reduction in haemodynamic deterioration is offset by major bleeding risk, particularly intracranial haemorrhage. Thrombectomy or rescue reperfusion is considered if the patient deteriorates or has contraindications to thrombolysis in a high-risk situation. IVC filters do not treat the existing thrombus and are generally reserved for patients who cannot receive anticoagulation or have selected recurrent events despite it.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Pulmonary embolism",
+      "Anticoagulation",
+      "Right heart strain",
+      "Intermediate risk PE",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 259,
+    "stem": "An 85-year-old male wants to reduce pill burden. Background: CKD, AF, treated bladder cancer, chronic urinary retention with IDC, previous R MCA stroke and hypertension. Medications: frusemide, warfarin, atorvastatin, metoprolol, prazosin and enalapril. What is the first medication you would cease?",
+    "options": [
+      "Frusemide",
+      "Warfarin",
+      "Atorvastatin",
+      "Prazosin"
+    ],
+    "correct_index": 2,
+    "explanation": "The worked recall gives atorvastatin as the first medication to cease in this older patient who explicitly wants to reduce pill burden. The reasoning is deprescribing based on goals of care and time-to-benefit: statins provide preventive benefit over years, whereas this patient's competing comorbidity and preference may reduce the value of continuing long-term primary/secondary prevention therapy. In contrast, warfarin remains highly important because atrial fibrillation plus a previous MCA stroke implies very high recurrent thromboembolic risk. Prazosin is also worth reviewing because alpha blockade can worsen postural hypotension and falls, so in real practice deprescribing should be individualised rather than automatic. The RACP principle is to match preventive medication to life expectancy, frailty, adverse effects and patient priorities rather than simply continuing every chronic drug indefinitely.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Deprescribing",
+      "Atorvastatin",
+      "Older patient",
+      "Polypharmacy",
+      "Cardiovascular prevention",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 260,
+    "stem": "A 37-year-old woman presents with hypertension. CT renal angiography shows a beaded renal artery appearance. What is the most likely cause?",
+    "options": [
+      "Atherosclerotic renal artery stenosis",
+      "Fibromuscular dysplasia",
+      "Polyarteritis nodosa",
+      "Renal artery dissection"
+    ],
+    "correct_index": 1,
+    "explanation": "The beaded or \"\"string-of-beads\"\" appearance of the renal artery in a young woman with hypertension is classic for fibromuscular dysplasia (FMD). FMD is a non-atherosclerotic, non-inflammatory arteriopathy, most commonly affecting medium-sized renal and cervicocephalic arteries. Alternating areas of stenosis and dilatation produce the characteristic angiographic appearance and renal involvement activates the renin-angiotensin system, causing secondary hypertension. Atherosclerotic renal artery stenosis is more typical in older patients with vascular risk factors and often affects the ostium/proximal artery rather than producing beading. FMD is also associated with arterial aneurysm and dissection, so involvement of other vascular beds may need consideration.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Fibromuscular dysplasia",
+      "Renal artery stenosis",
+      "Secondary hypertension",
+      "String of beads",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": "images/q0014.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 261,
+    "stem": "A 30-year-old male with Marfan syndrome has asthma significantly exacerbated by beta-blockers. He has hypertension to 150/90 mmHg and HR 98 bpm. Which medication should be prescribed?",
+    "options": [
+      "If-channel blocker",
+      "Angiotensin receptor blocker",
+      "Calcium channel blocker",
+      "Thiazide diuretic"
+    ],
+    "correct_index": 1,
+    "explanation": "An angiotensin receptor blocker is the best option when beta-blockers are not tolerated in Marfan syndrome. The therapeutic goal is not simply to lower brachial blood pressure but to reduce haemodynamic stress on the abnormal aortic wall and slow progressive aortic-root dilatation. Beta-blockers have traditionally been used to reduce heart rate and dP/dt, while ARBs such as losartan are an accepted alternative and may have additional relevance through effects on TGF-beta signalling implicated in Marfan aortopathy. A calcium-channel blocker or thiazide could lower blood pressure but does not have the same specific evidence/role in Marfan aortic disease. Regular aortic imaging remains essential regardless of drug choice.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Marfan syndrome",
+      "ARB",
+      "Losartan",
+      "Aortic root dilatation",
+      "Hypertension",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 262,
+    "stem": "Antipsychotics are associated with increased VTE risk. Which confers the highest risk?",
+    "options": [
+      "Clozapine",
+      "Olanzapine",
+      "Quetiapine",
+      "Risperidone"
+    ],
+    "correct_index": 0,
+    "explanation": "Clozapine has the strongest association with venous thromboembolism among the listed antipsychotics. The mechanism is probably multifactorial and may include sedation and reduced mobility, weight gain/metabolic disturbance and possible effects on platelet/coagulation pathways. This association is clinically important because clozapine is also linked to other potentially serious cardiovascular complications, notably myocarditis and cardiomyopathy. The question is comparative: several antipsychotics may increase VTE risk, but clozapine is the standout answer among these options.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Clozapine",
+      "VTE",
+      "Antipsychotics",
+      "Venous thromboembolism",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 263,
+    "stem": "A 37-year-old lady presents acutely to ED with palpitations. Baseline ECG is sinus rhythm. ECG during palpitations shows narrow complex regular tachycardia with HR 150 and flutter waves most obvious in V1. Which rhythm is represented?",
+    "options": [
+      "Sinus tachycardia",
+      "AVNRT",
+      "Atrial flutter",
+      "Multifocal atrial tachycardia"
+    ],
+    "correct_index": 2,
+    "explanation": "This rhythm is atrial flutter with 2:1 AV conduction. Typical flutter has an atrial rate close to 300/min; if alternate flutter waves conduct through the AV node, the ventricular rate is therefore approximately 150/min. Flutter waves may be easiest to see in V1 or the inferior leads and can be partly concealed within QRS/T complexes. This makes a regular narrow-complex tachycardia fixed around 150/min a classic exam trap for \"\"SVT\"\". AVNRT is also regular and narrow but usually lacks organised flutter waves, while multifocal atrial tachycardia is irregular with at least three distinct P-wave morphologies.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Atrial flutter",
+      "2:1 conduction",
+      "Narrow complex tachycardia",
+      "ECG",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 264,
+    "stem": "What causes a capture beat on an ECG showing VT?",
+    "options": [
+      "Sinus and ventricular activity fuse to form a hybrid complex",
+      "Distance from QRS to nadir S wave >100 ms",
+      "Sinus node firing causes ventricle to produce a normal QRS",
+      "Rabbit ear RSR shape where left ear larger than right ear"
+    ],
+    "correct_index": 2,
+    "explanation": "A capture beat during ventricular tachycardia occurs when a sinus impulse successfully traverses the AV node and His-Purkinje system at a moment when the ventricles are not refractory, completely depolarising them through the normal conduction system. It therefore appears as an isolated normal or near-normal QRS complex amid the broad VT complexes. Capture beats demonstrate AV dissociation and strongly favour VT over SVT with aberrancy. A fusion beat is different: simultaneous activation by the supraventricular impulse and ventricular focus produces a hybrid QRS morphology. Both capture and fusion beats are high-yield ECG signs of VT.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Ventricular tachycardia",
+      "Capture beat",
+      "Fusion beat",
+      "AV dissociation",
+      "ECG",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": "images/q0015.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 265,
+    "stem": "A 45-year-old otherwise healthy female executive has prior pre-eclampsia, SBP 150, cholesterol 5.8 and LDL 4. She is asymptomatic and worried about long-term statins. What test is best to predict long-term atherosclerotic cardiovascular disease?",
+    "options": [
+      "Myocardial perfusion scan",
+      "CT coronary arteries",
+      "Coronary calcium score",
+      "Exercise stress echocardiogram"
+    ],
+    "correct_index": 2,
+    "explanation": "A coronary artery calcium (CAC) score is the best test among these options for refining long-term atherosclerotic cardiovascular risk in an asymptomatic person when the decision about preventive statin therapy is uncertain. Non-contrast CT quantifies calcified coronary plaque burden; a higher CAC score indicates greater subclinical atherosclerosis and higher future event risk. Conversely, a CAC score of zero can sometimes support deferring statin therapy in selected intermediate-risk patients, although it does not override major high-risk indications. Myocardial perfusion imaging and stress echocardiography assess inducible ischaemia and are primarily diagnostic tests for suspected symptomatic coronary disease, while CT coronary angiography is more anatomically detailed but is not the standard simple risk-refinement tool being asked for here.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Coronary calcium score",
+      "ASCVD risk",
+      "Primary prevention",
+      "Statins",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 266,
+    "stem": "A 72-year-old man has a tilt test after a fall. A graph is shown alongside another graph with emotional arousal where BP and HR are stable/elevated. What does the tilt test show?",
+    "options": [
+      "Afferent baroreceptor failure",
+      "Efferent baroreceptor failure",
+      "POTS",
+      "Vasovagal syncope"
+    ],
+    "correct_index": 3,
+    "explanation": "The worked recall interprets the tilt-table trace as vasovagal syncope. Vasovagal syncope is a reflex response in which prolonged upright posture or another trigger leads to inappropriate withdrawal of sympathetic tone with vasodilation, often accompanied by increased vagal activity and bradycardia. On tilt testing this produces a fall in blood pressure, with or without a significant fall in heart rate, reproducing the patient's symptoms. POTS differs because the dominant abnormality is an excessive sustained rise in heart rate on standing without the characteristic major hypotensive response. Baroreflex failure produces marked blood-pressure lability and abnormal responses to stress rather than the typical vasovagal pattern. Because this question originally relied on a graph, the exact trace remains important to interpretation.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Vasovagal syncope",
+      "Tilt table test",
+      "POTS",
+      "Baroreflex",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 267,
+    "stem": "An 80-year-old male with symptomatic postural hypotension has a 20 mmHg systolic drop despite salt supplementation and compression stockings. PMH includes AF and non-ischaemic rate-driven cardiomyopathy. Which is preferred medication?",
+    "options": [
+      "Midodrine",
+      "Fludrocortisone"
+    ],
+    "correct_index": 0,
+    "explanation": "Midodrine is preferred over fludrocortisone in this patient with symptomatic orthostatic hypotension and underlying cardiomyopathy. Midodrine is an alpha-1 agonist that increases peripheral vascular tone, thereby improving standing blood pressure without relying primarily on plasma-volume expansion. Fludrocortisone is a mineralocorticoid that increases renal sodium and water retention; this can worsen oedema or heart failure and can cause hypokalaemia, making it less attractive in a patient with cardiomyopathy. Non-pharmacological measures remain first line-adequate fluid/salt intake where appropriate, compression garments and medication review. High-yield adverse effect of midodrine: supine hypertension, so doses near bedtime are generally avoided.",
+    "specialty": "Cardiology",
+    "tags": [
+      "Orthostatic hypotension",
+      "Midodrine",
+      "Fludrocortisone",
+      "Cardiomyopathy",
+      "Cardiology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   }
 ]
