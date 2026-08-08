@@ -8532,5 +8532,2104 @@
     "image_path": null,
     "explanation_image": "images/q0033.png",
     "explanation_video": null
+  },
+  {
+    "id": 351,
+    "stem": "In patients with type 1 diabetes mellitus, in which age group would the average HbA1c be expected to be lowest?",
+    "options": [
+      "Age 9 years and below",
+      "Age 10-19 years",
+      "Age 20-29 years",
+      "Age over 60 years"
+    ],
+    "correct_index": 0,
+    "explanation": "Children aged 9 years and below are the intended answer in this recall. Glycaemic control typically becomes more difficult during adolescence because puberty is associated with increased growth hormone and sex-steroid secretion, which increases insulin resistance, while psychosocial factors, variable meals and reduced adherence can further worsen control. Younger children historically had tighter parental supervision of insulin administration and meals, although contemporary targets are individualised and modern CGM/pump therapy has changed age-related patterns. The exam learning point is the deterioration in insulin sensitivity and glycaemic control that commonly accompanies puberty rather than a rigid modern HbA1c target by age.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Type 1 diabetes",
+      "HbA1c",
+      "Puberty",
+      "Insulin resistance",
+      "Endocrine",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 352,
+    "stem": "What is the most common cell type of a functioning pituitary adenoma?",
+    "options": [
+      "Gonadotroph",
+      "Somatotroph",
+      "Lactotroph",
+      "Pituicyte"
+    ],
+    "correct_index": 2,
+    "explanation": "Lactotroph adenomas (prolactinomas) are the most common functioning pituitary adenomas. Prolactin secretion is normally under tonic inhibition by hypothalamic dopamine acting at D2 receptors. A prolactinoma therefore causes hyperprolactinaemia with hypogonadotropic hypogonadism, producing amenorrhoea/galactorrhoea in women and reduced libido, erectile dysfunction or infertility in men. Very large tumours can cause headache and bitemporal visual-field loss through optic-chiasm compression. The key management pearl is that prolactinomas are unusual among pituitary macroadenomas because first-line treatment is generally medical with a dopamine agonist, usually cabergoline, which both lowers prolactin and shrinks tumour volume. By contrast, gonadotroph adenomas are the commonest clinically non-functioning pituitary adenomas.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Pituitary adenoma",
+      "Prolactinoma",
+      "Lactotroph",
+      "Dopamine",
+      "Endocrine",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 353,
+    "stem": "What is the approximate elimination half-life of thyroxine (T4) in a euthyroid adult?",
+    "options": [
+      "1 day",
+      "7 days",
+      "21 days",
+      "42 days"
+    ],
+    "correct_index": 1,
+    "explanation": "Thyroxine has a half-life of approximately 6-7 days in a euthyroid adult. Its long half-life reflects extensive protein binding and explains why levothyroxine is dosed once daily, why occasional missed doses have relatively little immediate effect, and why dose changes take several weeks to reach a new steady state. A practical endocrine pearl is that TSH should generally not be rechecked only a few days after changing levothyroxine; assessment is usually made after roughly 6 weeks because several half-lives are required for equilibration. T3 has a much shorter half-life, around one day, and therefore produces more rapid fluctuations.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Thyroxine",
+      "T4",
+      "Half-life",
+      "Levothyroxine",
+      "Endocrine",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 354,
+    "stem": "A patient presents with painful subacute (de Quervain) thyroiditis and biochemical thyrotoxicosis. What pattern would be expected on thyroid scintigraphy?",
+    "options": [
+      "Diffuse increased uptake",
+      "Focal increased uptake",
+      "Normal uptake",
+      "Suppressed or absent uptake"
+    ],
+    "correct_index": 3,
+    "explanation": "Subacute thyroiditis produces suppressed or absent radionuclide uptake. The thyrotoxic phase is caused by destructive release of preformed T4 and T3 from damaged follicles rather than increased hormone synthesis, so the inflamed gland does not avidly trap radioisotope. This distinguishes thyroiditis from Graves disease, which usually shows diffuse increased uptake, and a toxic autonomous nodule, which shows focal uptake with suppression of the surrounding gland. de Quervain thyroiditis is typically painful and follows a viral-like illness, with raised ESR/CRP; treatment is anti-inflammatory (NSAID or glucocorticoid for severe pain), with beta blockade for adrenergic symptoms. Antithyroid drugs are ineffective because new hormone synthesis is not the problem.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Subacute thyroiditis",
+      "de Quervain thyroiditis",
+      "Thyroid scintigraphy",
+      "Thyrotoxicosis",
+      "Endocrine",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 355,
+    "stem": "Denosumab is a monoclonal antibody against RANK ligand. What is its principal effect on bone remodelling?",
+    "options": [
+      "Inhibits osteoclast differentiation and maturation",
+      "Inhibits osteoblast apoptosis",
+      "Causes osteoblast apoptosis",
+      "Promotes osteoclast maturation"
+    ],
+    "correct_index": 0,
+    "explanation": "Denosumab binds RANK ligand (RANKL), preventing it from activating RANK on osteoclast precursors and mature osteoclasts. This inhibits osteoclast differentiation, activity and survival, producing potent suppression of bone resorption and an increase in bone mineral density. Important practical points are hypocalcaemia risk, particularly in advanced CKD, and rare osteonecrosis of the jaw and atypical femoral fracture with prolonged antiresorptive therapy. Denosumab should not simply be stopped without an exit strategy: its effect reverses rapidly and rebound osteoclast activation can cause rapid bone loss and multiple vertebral fractures. A bisphosphonate is therefore usually required when denosumab is ceased.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Denosumab",
+      "RANKL",
+      "Osteoclast",
+      "Osteoporosis",
+      "Endocrine",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 356,
+    "stem": "An older man with type 2 diabetes is treated long-term with metformin. Which vitamin deficiency is he at increased risk of developing?",
+    "options": [
+      "Vitamin B12",
+      "Vitamin B6",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 0,
+    "explanation": "Long-term metformin therapy is associated with vitamin B12 deficiency. Metformin appears to impair calcium-dependent absorption of the intrinsic-factor-B12 complex in the terminal ileum, and risk increases with higher dose and longer duration. Deficiency may present with macrocytic anaemia, glossitis, peripheral neuropathy or cognitive symptoms; importantly, neuropathy can be incorrectly attributed to diabetes. Periodic B12 assessment is particularly appropriate when anaemia, neuropathy or other risk factors are present. Treatment is B12 replacement rather than automatically stopping metformin when the drug remains otherwise appropriate.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Metformin",
+      "Vitamin B12",
+      "Diabetes",
+      "Neuropathy",
+      "Endocrine",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 357,
+    "stem": "Major changes in the pulsatile secretion of which hormone are responsible for initiating central puberty?",
+    "options": [
+      "Gonadotropin-releasing hormone (GnRH)",
+      "Inhibin",
+      "Oxytocin",
+      "DHEA"
+    ],
+    "correct_index": 0,
+    "explanation": "Puberty is initiated by reactivation of pulsatile hypothalamic GnRH secretion. Early in puberty this pulsatility is particularly evident overnight; increasing GnRH pulses stimulate pituitary LH and FSH, which in turn drive gonadal sex-steroid production and gametogenesis. In girls the first visible sign of central puberty is usually breast development, while in boys it is testicular enlargement. DHEA rises during adrenarche and contributes to pubic/axillary hair and body odour, but adrenarche is biologically distinct from activation of the hypothalamic-pituitary-gonadal axis. RACP pearl: GnRH pulsatility drives gonadarche; adrenal androgens drive adrenarche.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Puberty",
+      "GnRH",
+      "HPG axis",
+      "Gonadarche",
+      "Endocrine",
+      "2020 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 358,
+    "stem": "Other than increasing age, what is the most prevalent underlying cause of erectile dysfunction?",
+    "options": [
+      "Medications",
+      "Neurological disease",
+      "Vascular disease",
+      "Obstructive sleep apnoea"
+    ],
+    "correct_index": 2,
+    "explanation": "Vascular disease is the most common organic cause of erectile dysfunction. Penile erection requires intact endothelial nitric-oxide signalling and adequate arterial inflow, so atherosclerosis, diabetes, hypertension, dyslipidaemia and smoking are major contributors. ED can precede clinically overt coronary disease because the smaller penile arteries may become symptomatic earlier than larger coronary vessels, making ED an important cardiovascular risk marker. Assessment should include cardiovascular risk factors, medication review, morning testosterone when hypogonadism is suspected and screening for relevant neurological or psychological contributors. PDE5 inhibitors are first-line pharmacological therapy for many patients but are contraindicated with nitrates because of the risk of profound hypotension.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Erectile dysfunction",
+      "Vascular disease",
+      "Atherosclerosis",
+      "PDE5 inhibitor",
+      "Endocrine",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 359,
+    "stem": "A man with Klinefelter syndrome has primary testicular failure. What pattern of gonadotropins is expected?",
+    "options": [
+      "Low LH and low FSH",
+      "High LH and low FSH",
+      "High LH and high FSH",
+      "Low LH and high FSH"
+    ],
+    "correct_index": 2,
+    "explanation": "Klinefelter syndrome (usually 47,XXY) causes primary testicular failure, so testosterone production and spermatogenesis are impaired and negative feedback to the hypothalamus/pituitary falls. LH and FSH therefore rise, producing hypergonadotropic hypogonadism; FSH is often particularly elevated because of seminiferous-tubule dysfunction and reduced inhibin B. Clinical clues include tall stature, small firm testes, infertility, gynaecomastia and reduced secondary sexual characteristics. Management may include testosterone replacement for symptomatic androgen deficiency, fertility counselling and attention to associated metabolic, bone and breast-cancer risks.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Klinefelter syndrome",
+      "Primary hypogonadism",
+      "LH",
+      "FSH",
+      "Endocrine",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 360,
+    "stem": "At approximately what age would a patient's DEXA T-score and Z-score be expected to be most similar?",
+    "options": [
+      "Teenage years",
+      "Around age 30",
+      "Around age 50",
+      "Around age 70"
+    ],
+    "correct_index": 1,
+    "explanation": "T-scores compare bone mineral density with the mean BMD of a healthy young-adult reference population, whereas Z-scores compare with an age- and sex-matched population. The two therefore converge around peak adult bone mass, roughly the late 20s to early 30s. In older adults, age-matched Z-scores become less negative than T-scores because the reference population has also lost bone with age. In adolescents, peak bone mass has not yet been achieved, so a young-adult T-score is not the appropriate diagnostic construct. RACP pearl: osteoporosis diagnostic thresholds based on T-score are used mainly in postmenopausal women and older men; Z-scores are more useful in younger patients when asking whether BMD is unexpectedly low for age.",
+    "specialty": "Endocrine",
+    "tags": [
+      "DEXA",
+      "T-score",
+      "Z-score",
+      "Bone mineral density",
+      "Endocrine",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 361,
+    "stem": "A woman in the first trimester of pregnancy has palpitations and heat intolerance. TSH is suppressed below 0.01 mIU/L, but free T4 and free T3 remain within the pregnancy-adjusted reference range. She is haemodynamically stable. What is the most appropriate immediate management?",
+    "options": [
+      "Observation with repeat thyroid assessment",
+      "Propylthiouracil",
+      "Carbimazole",
+      "Prednisolone"
+    ],
+    "correct_index": 0,
+    "explanation": "Observation is appropriate because there is no biochemical overt hyperthyroidism requiring antithyroid therapy. In early pregnancy, beta-hCG can weakly stimulate the TSH receptor, causing physiological or gestational transient TSH suppression, especially around 10-12 weeks. Antithyroid drugs are reserved for overt maternal hyperthyroidism because overtreatment can cause fetal hypothyroidism and goitre. If Graves disease is clinically suspected, TRAb measurement is useful because maternal TRAb crosses the placenta and predicts fetal/neonatal risk. When antithyroid treatment is genuinely required in the first trimester, PTU is generally preferred because methimazole/carbimazole embryopathy is a concern; after the first trimester many guidelines favour switching to methimazole/carbimazole because of PTU hepatotoxicity.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Pregnancy",
+      "Gestational transient thyrotoxicosis",
+      "Graves disease",
+      "PTU",
+      "Endocrine",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 362,
+    "stem": "A transgender man commences masculinising testosterone therapy. Which early adverse effect is most likely?",
+    "options": [
+      "Acne",
+      "Osteoporosis",
+      "Increased cervical cancer",
+      "Increased breast cancer"
+    ],
+    "correct_index": 0,
+    "explanation": "Acne is a common early effect of testosterone therapy because androgen stimulation increases sebaceous-gland activity. Other expected masculinising effects include cessation of menses, increased facial/body hair, increased muscle mass, redistribution of body fat and deepening of the voice. Testosterone can also raise haematocrit, so erythrocytosis is an important monitored adverse effect. Bone loss is not an expected consequence when adequate sex-steroid exposure is maintained; osteoporosis becomes a concern if prolonged hypogonadism occurs. Cancer screening should be based on retained organs: for example, cervical screening remains relevant if a cervix is present.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Gender-affirming hormone therapy",
+      "Testosterone",
+      "Acne",
+      "Transgender health",
+      "Endocrine",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 363,
+    "stem": "When denosumab is stopped without subsequent antiresorptive therapy, rebound fractures most characteristically occur at which site?",
+    "options": [
+      "Distal radius",
+      "Vertebrae",
+      "Intertrochanteric hip",
+      "Subtrochanteric femur"
+    ],
+    "correct_index": 1,
+    "explanation": "Rebound-associated vertebral fractures are the characteristic complication after denosumab discontinuation. Denosumab does not remain incorporated into bone; once its effect wears off, osteoclast activity can rebound above baseline, causing rapid loss of BMD and sometimes multiple vertebral fractures within months. For this reason denosumab should be viewed as a treatment that requires a planned transition rather than a drug holiday. A bisphosphonate, often an IV or oral potent agent chosen according to the clinical situation, is generally used after the last denosumab dose to blunt rebound bone turnover. RACP pearl: unlike bisphosphonates, denosumab has no residual skeletal reservoir, so unplanned cessation is dangerous.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Denosumab",
+      "Rebound osteoporosis",
+      "Vertebral fracture",
+      "Bisphosphonate",
+      "Endocrine",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 364,
+    "stem": "A 30-year-old man has had type 1 diabetes for 5 years and has an HbA1c of 10% without established retinopathy. According to the risk estimate used in this recall, what is his approximate chance of developing macular oedema or proliferative retinopathy over the next 3 years?",
+    "options": [
+      "1%",
+      "5%",
+      "20%",
+      "50%"
+    ],
+    "correct_index": 2,
+    "explanation": "The recalled estimate is approximately 20%. The durable learning point is not the exact percentage but the strong relationship between chronic hyperglycaemia and microvascular retinal disease. Higher HbA1c and longer diabetes duration markedly increase the risk of progression to diabetic retinopathy, macular oedema and proliferative disease. Intensive glycaemic control reduces the development and progression of microvascular complications, although rapid improvement from very poor control can transiently worsen retinopathy in some patients. Patients with type 1 diabetes require regular retinal screening beginning after the early years of disease and then at intervals determined by findings and risk. Treat the exact 20% figure as recall-specific rather than a universal bedside prediction.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Type 1 diabetes",
+      "Diabetic retinopathy",
+      "HbA1c",
+      "Microvascular complications",
+      "Endocrine",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 365,
+    "stem": "Terlipressin is used in portal-hypertensive variceal bleeding. What is its principal haemodynamic mechanism?",
+    "options": [
+      "Splanchnic vasoconstriction",
+      "Splanchnic vasodilatation",
+      "Selective peripheral vasoconstriction without splanchnic effect",
+      "Peripheral vasodilatation"
+    ],
+    "correct_index": 0,
+    "explanation": "Terlipressin is a vasopressin analogue with predominantly V1-mediated vasoconstrictor effects. Splanchnic arteriolar vasoconstriction reduces portal venous inflow and therefore lowers portal pressure and variceal blood flow, which is why it is useful in acute variceal haemorrhage alongside endoscopic therapy and antibiotics. It is also used in selected patients with hepatorenal syndrome because increasing effective arterial volume and renal perfusion can improve kidney function. Important adverse effects arise from systemic vasoconstriction and include myocardial, mesenteric and peripheral ischaemia; hyponatraemia can also occur. RACP pearl: vasopressin V1 effect = vasoconstriction; V2 effect in the collecting duct = water retention via aquaporin-2.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Terlipressin",
+      "Portal hypertension",
+      "V1 receptor",
+      "Splanchnic vasoconstriction",
+      "Endocrine",
+      "2020 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 366,
+    "stem": "A 25-year-old woman is found to have a 45,X karyotype consistent with Turner syndrome during investigation of infertility. Which associated condition requires lifelong cardiovascular screening?",
+    "options": [
+      "Aortic aneurysm/dilatation",
+      "Breast cancer",
+      "Macular degeneration",
+      "Myelodysplasia"
+    ],
+    "correct_index": 0,
+    "explanation": "Turner syndrome carries a major lifelong risk of aortic dilatation and dissection. Congenital cardiovascular associations include bicuspid aortic valve, coarctation of the aorta and elongation of the transverse arch, while hypertension is common and further increases aortic risk. Baseline echocardiography and/or cardiac MRI is therefore required, followed by surveillance according to aortic dimensions and risk factors; pregnancy can markedly increase dissection risk and requires specialist preconception assessment. Other high-yield associations include short stature, primary ovarian insufficiency with high FSH/LH, horseshoe kidney, hearing loss and autoimmune thyroid disease.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Turner syndrome",
+      "Aortic dissection",
+      "Coarctation",
+      "Bicuspid aortic valve",
+      "Endocrine",
+      "2021 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 367,
+    "stem": "A few hours after completing a marathon, a 24-year-old woman develops increasing confusion. Na is 122 mmol/L, plasma osmolality 256 mOsm/kg and urine osmolality 432 mOsm/kg. What is the most appropriate immediate treatment?",
+    "options": [
+      "Fluid restriction alone",
+      "IV 3% hypertonic saline",
+      "IV 0.9% saline",
+      "Oral demeclocycline"
+    ],
+    "correct_index": 1,
+    "explanation": "This is symptomatic hypotonic exercise-associated hyponatraemia, and the neurological symptoms make hypertonic saline the priority. Exercise-associated hyponatraemia usually reflects excessive hypotonic fluid intake combined with non-osmotic ADH secretion from exertion, nausea, pain and stress, so the kidney continues to produce inappropriately concentrated urine. Hypertonic saline is given in controlled boluses with frequent sodium and neurological reassessment, aiming for a small initial rise sufficient to reverse cerebral oedema rather than immediate normalisation. Overcorrection must be avoided because osmotic demyelination is a risk, particularly in chronic or high-risk hyponatraemia. Normal saline can worsen SIADH-like states when urine remains highly concentrated.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Hyponatraemia",
+      "Exercise-associated hyponatraemia",
+      "Hypertonic saline",
+      "ADH",
+      "Endocrine",
+      "2021 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 368,
+    "stem": "A diabetes screening test has sensitivity 40% and specificity 80%. The prevalence of undiagnosed diabetes in the screened population is 20%. What is the ratio of true-positive to false-positive results?",
+    "options": [
+      "1:01",
+      "1:02",
+      "1:04",
+      "2:01"
+    ],
+    "correct_index": 1,
+    "explanation": "Use a hypothetical cohort of 100 people. Twenty have diabetes; with 40% sensitivity, 8 test positive and are true positives. Eighty do not have diabetes; with 80% specificity, 64 correctly test negative, leaving 16 false positives. The ratio of true positives to false positives is therefore 8:16, or 1:2. RACP exam pearl: sensitivity is applied to people who truly have disease, specificity to those who truly do not. Prevalence matters because it determines how many diseased and non-diseased people are present before the test is applied, and therefore strongly influences positive and negative predictive values.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Screening",
+      "Sensitivity",
+      "Specificity",
+      "Predictive value",
+      "Endocrine",
+      "2021 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 369,
+    "stem": "Which hormone is secreted by intestinal L cells and delays gastric emptying, increases glucose-dependent post-prandial insulin secretion and promotes satiety?",
+    "options": [
+      "Cholecystokinin",
+      "Gastrin",
+      "Ghrelin",
+      "Glucagon",
+      "Glucagon-like peptide-1",
+      "Histamine",
+      "Peptide YY",
+      "Secretin"
+    ],
+    "correct_index": 4,
+    "explanation": "Glucagon-like peptide-1 (GLP-1) is released predominantly from intestinal L cells after nutrient exposure. It increases glucose-dependent insulin secretion, suppresses glucagon when glucose is elevated, slows gastric emptying and promotes satiety through central and gastrointestinal pathways. These actions explain the efficacy of GLP-1 receptor agonists in type 2 diabetes and obesity and their relatively low intrinsic hypoglycaemia risk when not combined with insulin or insulin secretagogues. Important adverse effects are gastrointestinal, particularly nausea and vomiting, and gallbladder disease risk may increase with rapid weight loss. Several GLP-1 receptor agonists also reduce major adverse cardiovascular events in high-risk type 2 diabetes.",
+    "specialty": "Endocrine",
+    "tags": [
+      "GLP-1",
+      "Incretin",
+      "L cells",
+      "Diabetes",
+      "Endocrine",
+      "2021 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 370,
+    "stem": "Which hormone acts through a cell-surface G-protein-coupled receptor in hepatocytes to increase glycogenolysis?",
+    "options": [
+      "Cholecystokinin",
+      "Gastrin",
+      "Ghrelin",
+      "Glucagon",
+      "Glucagon-like peptide-1",
+      "Histamine",
+      "Peptide YY",
+      "Secretin"
+    ],
+    "correct_index": 3,
+    "explanation": "Glucagon binds a Gs-coupled receptor, activating adenylate cyclase, increasing cAMP and activating protein kinase A. In the liver this promotes glycogenolysis and gluconeogenesis while inhibiting glycogen synthesis, thereby increasing circulating glucose during fasting. Glucagon is secreted by pancreatic alpha cells in response to falling glucose, amino acids and sympathetic stimulation. It has little direct glycogenolytic effect in skeletal muscle because skeletal muscle lacks meaningful glucagon-receptor signalling. RACP pearl: insulin is the fed-state storage hormone; glucagon is the fasting-state hepatic glucose-mobilising hormone.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Glucagon",
+      "Glycogenolysis",
+      "Gs receptor",
+      "cAMP",
+      "Endocrine",
+      "2021 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 371,
+    "stem": "A woman at 11-12 weeks' gestation has hyperemesis, TSH 0.01 mIU/L, free T4 at the upper limit of normal and only minimally elevated T3. She is otherwise clinically stable. What is the best next step?",
+    "options": [
+      "Propylthiouracil",
+      "No antithyroid treatment currently",
+      "Propranolol plus propylthiouracil",
+      "Propranolol alone"
+    ],
+    "correct_index": 1,
+    "explanation": "No antithyroid treatment is required at present. Around 10-12 weeks, beta-hCG peaks and can weakly stimulate the TSH receptor, causing gestational transient thyrotoxicosis, especially in women with hyperemesis. A suppressed TSH alone is not an indication for treatment; therapy is reserved for overt maternal hyperthyroidism with clearly elevated thyroid hormones and a compatible diagnosis such as Graves disease. Unnecessary antithyroid therapy risks fetal hypothyroidism and goitre. If Graves disease is suspected, maternal TRAb should be measured because it crosses the placenta. If treatment is required in the first trimester, PTU is usually preferred, with later switch to methimazole/carbimazole considered because PTU carries hepatotoxicity risk.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Pregnancy",
+      "Gestational transient thyrotoxicosis",
+      "hCG",
+      "PTU",
+      "Endocrine",
+      "2021 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 372,
+    "stem": "Which maternal thyroid antibody can cross the placenta and cause fetal or neonatal hyperthyroidism?",
+    "options": [
+      "T3",
+      "T4",
+      "TSH-receptor antibody (TRAb)",
+      "TSH"
+    ],
+    "correct_index": 2,
+    "explanation": "TSH-receptor antibodies (TRAb) are IgG and therefore cross the placenta. Stimulating TRAb can activate the fetal thyroid and cause fetal/neonatal Graves disease; blocking antibodies can produce fetal hypothyroidism. This matters even after maternal thyroidectomy or radioiodine therapy because antibody titres can remain elevated despite the mother no longer being hyperthyroid. In women with current or previous Graves disease, TRAb measurement during pregnancy helps identify pregnancies requiring closer fetal surveillance. Maternal TSH crosses the placenta poorly. Some maternal thyroid hormone does cross and is important for early fetal neurodevelopment, but thyroid hormone is not the autoimmune driver of fetal Graves disease.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Graves disease",
+      "TRAb",
+      "Pregnancy",
+      "Fetal hyperthyroidism",
+      "Endocrine",
+      "2021 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 373,
+    "stem": "A nurse has recurrent stereotyped fasting hypoglycaemia relieved by carbohydrate. During an episode, glucose is 2.4 mmol/L, insulin is inappropriately detectable, C-peptide is suppressed and cortisol rises appropriately. What is the most likely cause?",
+    "options": [
+      "Insulinoma",
+      "Exogenous insulin administration",
+      "Sulfonylurea ingestion",
+      "Adrenal insufficiency"
+    ],
+    "correct_index": 1,
+    "explanation": "The pattern indicates exogenous insulin administration. During true hypoglycaemia endogenous insulin secretion should be almost completely suppressed; an inappropriately detectable insulin level therefore indicates insulin-mediated hypoglycaemia. C-peptide is the key discriminator: endogenous insulin is produced as proinsulin and released with equimolar C-peptide, whereas injected insulin contains no C-peptide, so exogenous insulin causes high/detectable insulin with suppressed C-peptide. Insulinoma and sulfonylurea use both stimulate endogenous insulin and therefore produce elevated C-peptide; a sulfonylurea screen distinguishes those two. The robust cortisol response argues against adrenal insufficiency. RACP pearl: insulin high + C-peptide low = exogenous insulin; insulin high + C-peptide high = endogenous secretion.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Hypoglycaemia",
+      "Exogenous insulin",
+      "C-peptide",
+      "Whipple triad",
+      "Endocrine",
+      "2021 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 374,
+    "stem": "Which pancreatic beta-cell target mediates the insulin-secretagogue effect of sulfonylureas?",
+    "options": [
+      "Voltage-gated calcium channel",
+      "ATP-sensitive potassium channel",
+      "Insulin secretory vesicle membrane",
+      "Glucokinase"
+    ],
+    "correct_index": 1,
+    "explanation": "Sulfonylureas bind the SUR1 regulatory subunit of the pancreatic beta-cell ATP-sensitive potassium (KATP) channel and close it. Reduced potassium efflux depolarises the beta-cell membrane, which opens voltage-gated calcium channels; calcium influx then triggers exocytosis of insulin-containing granules. Because the mechanism requires functioning beta cells, sulfonylureas are useful in type 2 but not type 1 diabetes. Their main clinically important adverse effects are hypoglycaemia and weight gain. The sequence is worth knowing: KATP closure -> depolarisation -> calcium influx -> insulin release. Meglitinides use a related KATP-channel mechanism but have shorter action.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Sulfonylurea",
+      "KATP channel",
+      "SUR1",
+      "Insulin secretion",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 375,
+    "stem": "Amiloride can improve lithium-induced nephrogenic diabetes insipidus by blocking entry of lithium through which collecting-duct ion channel?",
+    "options": [
+      "ROMK potassium channel",
+      "TRPV5 calcium channel",
+      "Na-K-2Cl cotransporter",
+      "Epithelial sodium channel (ENaC)"
+    ],
+    "correct_index": 3,
+    "explanation": "Lithium enters collecting-duct principal cells through the epithelial sodium channel (ENaC). Intracellular lithium interferes with vasopressin signalling and reduces aquaporin-2 expression, impairing the collecting duct's ability to concentrate urine and producing nephrogenic diabetes insipidus. Amiloride blocks ENaC, reducing lithium entry into principal cells and therefore directly targeting the mechanism of lithium-induced NDI. Thiazides can also reduce polyuria through mild volume contraction and enhanced proximal reabsorption, but they may raise serum lithium concentrations and require careful monitoring. RACP pearl: lithium NDI -> amiloride is mechanistically attractive because it blocks ENaC.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Lithium",
+      "Nephrogenic diabetes insipidus",
+      "Amiloride",
+      "ENaC",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 376,
+    "stem": "A patient with sepsis remains hypotensive despite adequate fluid resuscitation and requires noradrenaline in ICU. They take prednisolone 3 mg daily chronically. Which additional therapy is appropriate if vasopressor-dependent septic shock persists?",
+    "options": [
+      "Further large-volume crystalloid irrespective of volume status",
+      "IV stress-dose hydrocortisone",
+      "Routine addition of a second inotrope before steroids",
+      "Fludrocortisone monotherapy"
+    ],
+    "correct_index": 1,
+    "explanation": "IV hydrocortisone is appropriate in persistent vasopressor-dependent septic shock. Contemporary sepsis practice uses corticosteroids to accelerate shock reversal when an adequate MAP cannot be maintained without ongoing vasopressors; a common regimen is hydrocortisone around 200 mg/day in divided doses or continuous infusion. The chronic prednisolone dose of 3 mg/day is relatively low and by itself does not necessarily imply major HPA-axis suppression, so the important clue is refractory septic shock rather than simply 'steroid user'. Additional fluid should be guided by volume responsiveness, because indiscriminate fluid loading after adequate resuscitation can cause harm. Fludrocortisone alone does not provide the required glucocorticoid effect.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Septic shock",
+      "Hydrocortisone",
+      "Stress-dose steroid",
+      "HPA axis",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 377,
+    "stem": "What is the most common lineage of a clinically non-functioning pituitary macroadenoma?",
+    "options": [
+      "Gonadotroph",
+      "Lactotroph",
+      "Corticotroph",
+      "Somatotroph"
+    ],
+    "correct_index": 0,
+    "explanation": "Most clinically non-functioning pituitary adenomas are gonadotroph-lineage tumours, often expressing FSH/LH subunits on immunohistochemistry without producing a clinically recognisable hormone-excess syndrome. They usually present because of mass effect or incidental imaging: headache, visual-field loss, hypopituitarism or hyperprolactinaemia from stalk compression. This contrasts with functioning adenomas, among which prolactinomas are the most common. A pituitary macroadenoma is >=1 cm; formal assessment includes visual fields when the lesion approaches the optic chiasm and biochemical evaluation for both hormone excess and pituitary deficiencies.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Pituitary macroadenoma",
+      "Non-functioning pituitary adenoma",
+      "Gonadotroph",
+      "Hypopituitarism",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 378,
+    "stem": "Romosozumab is an anabolic/antiresorptive osteoporosis therapy. Which protein does it directly inhibit?",
+    "options": [
+      "RANK",
+      "Sclerostin",
+      "Osteocalcin",
+      "Cathepsin K"
+    ],
+    "correct_index": 1,
+    "explanation": "Romosozumab is a monoclonal antibody against sclerostin, a protein produced mainly by osteocytes that normally inhibits canonical Wnt signalling and suppresses osteoblast activity. Blocking sclerostin therefore produces a marked early increase in bone formation and also a reduction in bone resorption, making romosozumab different from purely antiresorptive therapies. It is used for selected patients at very high fracture risk, generally for a limited treatment course followed by an antiresorptive drug to preserve gained BMD. Correct hypocalcaemia before treatment. A major practical caution is cardiovascular risk: romosozumab is generally avoided in patients with a recent myocardial infarction or stroke.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Romosozumab",
+      "Sclerostin",
+      "Wnt signalling",
+      "Osteoporosis",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 379,
+    "stem": "Why is HbA1c physiologically lower during pregnancy than in the non-pregnant state?",
+    "options": [
+      "Iron deficiency",
+      "Increased red-cell turnover",
+      "Reduced insulin resistance throughout pregnancy",
+      "Increased fetal haemoglobin in maternal blood"
+    ],
+    "correct_index": 1,
+    "explanation": "Pregnancy increases erythropoiesis and shortens the average age of circulating maternal red cells. Because haemoglobin glycation accumulates over the red-cell lifespan, a younger RBC population has had less time for glycation and HbA1c is therefore modestly lower. This is why pregnancy-specific HbA1c interpretation is needed and why HbA1c is not the preferred test for diagnosing gestational diabetes. Iron deficiency can actually artefactually raise HbA1c in some settings. Glycaemic targets in pregnancy are usually based more directly on fasting and post-prandial glucose measurements or CGM because maternal hyperglycaemia affects fetal growth even over relatively short timeframes.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Pregnancy",
+      "HbA1c",
+      "Red cell turnover",
+      "Diabetes",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 380,
+    "stem": "Which two biologically active metabolites of testosterone are produced by 5-alpha-reductase and aromatase respectively?",
+    "options": [
+      "Progesterone and androstenedione",
+      "Pregnenolone and androsterone",
+      "DHEA and progesterone",
+      "Dihydrotestosterone and oestradiol"
+    ],
+    "correct_index": 3,
+    "explanation": "Testosterone is converted to dihydrotestosterone (DHT) by 5-alpha-reductase and to oestradiol by aromatase. DHT binds the androgen receptor more potently than testosterone and is particularly important for development of external male genitalia, prostate growth, facial/body hair and androgenic alopecia. Oestradiol is also physiologically important in men: it contributes to bone mineralisation and epiphyseal closure, libido and hypothalamic-pituitary feedback. This explains the clinical actions of finasteride/dutasteride, which inhibit DHT production, and aromatase inhibitors, which reduce oestrogen formation.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Testosterone",
+      "DHT",
+      "Aromatase",
+      "5-alpha reductase",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 381,
+    "stem": "Which testicular cell is the principal source of testosterone in adult men?",
+    "options": [
+      "Granulosa cell",
+      "Sertoli cell",
+      "Leydig cell",
+      "Peritubular myoid cell"
+    ],
+    "correct_index": 2,
+    "explanation": "Leydig cells in the testicular interstitium produce testosterone in response to LH. Sertoli cells, by contrast, are stimulated predominantly by FSH and support spermatogenesis, produce inhibin B and form the blood-testis barrier. Testosterone produced by Leydig cells acts locally at high concentration within the testis as well as systemically. This gives the classic axis: GnRH -> LH -> Leydig -> testosterone; GnRH -> FSH -> Sertoli -> spermatogenesis/inhibin B. Primary testicular failure causes low testosterone with high LH/FSH, whereas pituitary/hypothalamic failure gives low testosterone with inappropriately low or normal gonadotropins.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Leydig cell",
+      "Testosterone",
+      "LH",
+      "Sertoli cell",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 382,
+    "stem": "What is the principal environmental zeitgeber that entrains the human suprachiasmatic nucleus?",
+    "options": [
+      "Meal timing",
+      "Light-dark cycle",
+      "Melatonin concentration itself",
+      "Television viewing"
+    ],
+    "correct_index": 1,
+    "explanation": "The light-dark cycle is the dominant zeitgeber for the suprachiasmatic nucleus (SCN), the master circadian pacemaker in the anterior hypothalamus. Melanopsin-containing intrinsically photosensitive retinal ganglion cells detect ambient light and project via the retinohypothalamic tract to the SCN. The SCN then synchronises sleep-wake timing, body temperature, cortisol rhythms and peripheral clocks. Darkness permits pineal melatonin secretion, whereas light, particularly appropriately timed bright light, suppresses melatonin and shifts circadian phase. Melatonin is therefore an output and therapeutic synchronising signal, but environmental light is the principal entraining cue.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Circadian rhythm",
+      "Suprachiasmatic nucleus",
+      "Light",
+      "Melatonin",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 383,
+    "stem": "Which pair of drugs can acutely inhibit release of preformed thyroid hormone from the thyroid gland?",
+    "options": [
+      "Carbimazole and propylthiouracil",
+      "Iodine and lithium",
+      "Prednisolone and dexamethasone",
+      "Cholestyramine and propranolol"
+    ],
+    "correct_index": 1,
+    "explanation": "High-dose iodine and lithium can inhibit release of preformed thyroid hormone. Iodide acutely inhibits organification and hormone release - the Wolff-Chaikoff effect - but the gland can escape after several days, which limits prolonged use. Lithium can also inhibit thyroid-hormone release and is occasionally used when thionamides are unsuitable. Carbimazole/methimazole and PTU inhibit thyroid peroxidase and therefore new hormone synthesis; PTU also reduces peripheral T4-to-T3 conversion. Glucocorticoids reduce T4-to-T3 conversion, while cholestyramine increases faecal thyroid-hormone loss and propranolol mainly controls adrenergic symptoms with some conversion inhibition at high doses. In thyroid storm, iodine is given after a thionamide so new hormone synthesis has first been blocked.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Thyroid storm",
+      "Iodine",
+      "Lithium",
+      "Thyroid hormone release",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 384,
+    "stem": "Which electrolyte pattern is most characteristic of refeeding syndrome?",
+    "options": [
+      "Low phosphate, low potassium, low magnesium",
+      "Low phosphate, high potassium, low magnesium",
+      "Low phosphate, high potassium, high magnesium",
+      "High phosphate, low potassium, low magnesium"
+    ],
+    "correct_index": 0,
+    "explanation": "Refeeding causes an insulin surge after carbohydrate is reintroduced to a severely malnourished patient. Insulin drives phosphate, potassium and magnesium into cells and stimulates ATP-dependent anabolic processes, so serum phosphate can fall profoundly; hypokalaemia and hypomagnesaemia commonly accompany it. Thiamine demand also rises and deficiency can precipitate lactic acidosis, Wernicke encephalopathy or cardiac failure. Prevention requires identifying high-risk patients, giving thiamine, correcting electrolytes and reintroducing calories cautiously with close monitoring. Hypophosphataemia is the signature biochemical abnormality because phosphate is consumed rapidly for ATP and phosphorylated intermediates.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Refeeding syndrome",
+      "Hypophosphataemia",
+      "Hypokalaemia",
+      "Hypomagnesaemia",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 385,
+    "stem": "An older woman has low bone mineral density. Which of the following long-term medications is most likely to contribute substantially to osteoporosis?",
+    "options": [
+      "Omeprazole",
+      "Hydrochlorothiazide",
+      "Phenytoin",
+      "Simvastatin"
+    ],
+    "correct_index": 2,
+    "explanation": "Phenytoin is an enzyme-inducing antiseizure medication that accelerates hepatic metabolism of vitamin D, reducing calcium absorption and contributing to secondary hyperparathyroidism, impaired mineralisation and reduced BMD. Long-term exposure to phenytoin, carbamazepine and phenobarbital is associated with increased fracture risk. Hydrochlorothiazide generally reduces urinary calcium excretion and may be bone-protective rather than harmful. Long-term PPI therapy has been associated observationally with fracture risk, but the relationship is weaker and less direct than the established effect of enzyme-inducing anticonvulsants. RACP pearl: chronic enzyme-inducing ASMs -> check bone health and vitamin D/calcium status.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Phenytoin",
+      "Osteoporosis",
+      "Vitamin D",
+      "Antiseizure medication",
+      "Endocrine",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 386,
+    "stem": "A 19-year-old woman with type 1 diabetes and coeliac disease presents with abdominal pain, fatigue and dizziness. BP falls from 125/87 sitting to 98/60 standing. Na is 124 mmol/L, K 5.4 mmol/L, glucose 14 mmol/L, pH 7.43 and bicarbonate 23 mmol/L. What is the most likely diagnosis?",
+    "options": [
+      "Primary adrenocortical insufficiency",
+      "Hypothyroidism",
+      "Pseudohyponatraemia",
+      "Pernicious anaemia"
+    ],
+    "correct_index": 0,
+    "explanation": "Primary adrenal insufficiency (Addison disease) is strongly suggested by the autoimmune background, orthostatic hypotension, abdominal symptoms, hyponatraemia and hyperkalaemia. Type 1 diabetes, coeliac disease and autoimmune adrenalitis cluster in autoimmune polyglandular syndromes. Aldosterone deficiency causes renal sodium loss, volume depletion and hyperkalaemia; cortisol deficiency contributes to fatigue, GI symptoms, hypotension and hyponatraemia through increased ADH. Hyperpigmentation may occur because ACTH/POMC production rises in primary disease. Confirm with an early-morning cortisol/ACTH and, when needed, ACTH stimulation testing, but if adrenal crisis is suspected do not delay stress-dose hydrocortisone and IV isotonic fluid for testing.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Addison disease",
+      "Primary adrenal insufficiency",
+      "Autoimmune polyglandular syndrome",
+      "Hyperkalaemia",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 387,
+    "stem": "An 85-year-old man with metastatic prostate cancer has corrected calcium 2.79 mmol/L and PTH 7.5 pmol/L (above the laboratory upper limit). What mechanism best explains the hypercalcaemia?",
+    "options": [
+      "Osteolysis from bone metastases",
+      "Primary hyperparathyroidism",
+      "Excess calcitriol production",
+      "PTH-related peptide secretion"
+    ],
+    "correct_index": 1,
+    "explanation": "Primary hyperparathyroidism is the best answer because the PTH is inappropriately high in the presence of hypercalcaemia. Physiologically, elevated calcium should strongly suppress PTH. Therefore the first branch point in a hypercalcaemia work-up is whether PTH is suppressed: a non-suppressed PTH indicates PTH-dependent hypercalcaemia, most commonly primary hyperparathyroidism. Malignancy-related hypercalcaemia from PTHrP, osteolysis or calcitriol should suppress endogenous PTH. The cancer history is deliberately distracting. Further evaluation includes renal function, phosphate, vitamin D and urinary calcium excretion; familial hypocalciuric hypercalcaemia is an important differential when urinary calcium is unusually low, particularly in a lifelong/mild presentation.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Hypercalcaemia",
+      "Primary hyperparathyroidism",
+      "PTH",
+      "PTHrP",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 388,
+    "stem": "A 23-year-old man presents with tender bilateral gynaecomastia, tachycardia and low BMI. Total testosterone is high, free testosterone is high-normal, SHBG is markedly elevated, LH/FSH are low-normal, prolactin is normal and TSH is <0.01 mIU/L. Which diagnosis best explains the overall pattern?",
+    "options": [
+      "Exogenous testosterone use",
+      "Graves thyrotoxicosis",
+      "Pituitary gonadotroph adenoma",
+      "hCG-secreting germ-cell tumour"
+    ],
+    "correct_index": 1,
+    "explanation": "Thyrotoxicosis is the intended unifying diagnosis. Thyroid hormone increases hepatic SHBG synthesis, which can markedly raise total testosterone while leaving free testosterone much less elevated. It also increases aromatisation and alters the free androgen-to-oestrogen balance, so gynaecomastia can occur. Tachycardia, low BMI and a fully suppressed TSH support thyrotoxicosis; Graves disease is the common cause in a young adult. Exogenous testosterone would usually suppress LH/FSH but does not explain the suppressed TSH and thyrotoxic phenotype. An hCG-secreting germ-cell tumour can cause gynaecomastia and suppress LH, so testicular examination and beta-hCG are appropriate if the clinical picture is not clearly thyrotoxic. RACP pearl: hyperthyroidism can cause gynaecomastia through increased SHBG and oestrogenic balance.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Graves disease",
+      "Thyrotoxicosis",
+      "Gynaecomastia",
+      "SHBG",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 389,
+    "stem": "An 87-year-old woman becomes mildly confused after a recent increase in sertraline. She is clinically euvolaemic. Na is 124 mmol/L, serum osmolality 260 mOsm/kg and urine osmolality 500 mOsm/kg. What is the most appropriate immediate treatment?",
+    "options": [
+      "IV hypertonic saline",
+      "IV 0.9% saline",
+      "Oral salt tablets alone",
+      "Fluid restriction alone"
+    ],
+    "correct_index": 0,
+    "explanation": "The biochemical pattern is hypotonic euvolaemic hyponatraemia with inappropriately concentrated urine, strongly suggesting SIADH, and the recent SSRI dose increase is a classic precipitant. Because she is neurologically symptomatic with confusion, controlled hypertonic saline is the safest immediate treatment rather than simple fluid restriction. The goal is a modest early rise in sodium sufficient to improve cerebral oedema, with frequent sodium checks and strict avoidance of excessive correction. In asymptomatic or minimally symptomatic chronic SIADH, fluid restriction is usually first-line. Isotonic saline can fail or worsen sodium in SIADH when urinary electrolyte concentration is high because the kidney excretes the sodium while retaining water.",
+    "specialty": "Endocrine",
+    "tags": [
+      "SIADH",
+      "SSRI",
+      "Hyponatraemia",
+      "Hypertonic saline",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 390,
+    "stem": "An adolescent boy with congenital adrenal hyperplasia develops bilateral testicular adrenal rest tumours. What is the most appropriate initial treatment?",
+    "options": [
+      "Bilateral orchiectomy",
+      "Cisplatin-based chemotherapy",
+      "GnRH antagonist",
+      "Optimisation/intensification of glucocorticoid therapy"
+    ],
+    "correct_index": 3,
+    "explanation": "Testicular adrenal rest tumours (TARTs) are benign ACTH-responsive adrenal-like tissue within the testes, particularly associated with poorly controlled 21-hydroxylase-deficient CAH. Chronic ACTH excess drives their hypertrophy. Optimising glucocorticoid replacement suppresses ACTH and can reduce tumour size, especially in earlier disease. TARTs can compress the seminiferous tubules and cause infertility, so fertility assessment and ultrasound surveillance are important. They are not germ-cell cancers and do not require chemotherapy or routine orchiectomy. RACP pearl: CAH + bilateral testicular masses = think TARTs and suppress ACTH before considering invasive treatment.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Congenital adrenal hyperplasia",
+      "TART",
+      "ACTH",
+      "Glucocorticoid",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 391,
+    "stem": "A 33-year-old man with type 1 diabetes has pre-breakfast glucose 12.8 mmol/L, target 6 mmol/L, an insulin sensitivity factor of 3 mmol/L per unit, and an insulin-to-carbohydrate ratio of 1 unit per 10 g. He will eat 60 g carbohydrate. How much rapid-acting insulin is required?",
+    "options": [
+      "3 units",
+      "6 units",
+      "8 units",
+      "12 units"
+    ],
+    "correct_index": 2,
+    "explanation": "Meal coverage requires 60/10 = 6 units. His glucose is 6.8 mmol/L above target; with an insulin sensitivity factor of 3 mmol/L per unit, the correction is approximately 6.8/3 = 2.3 units, rounded according to the patient's dosing plan, giving about 8 units total in this recall. The long-acting glargine dose is background basal insulin and is not added to the mealtime calculation. The general formula is meal bolus = carbohydrate grams/insulin-carbohydrate ratio + (current glucose - target glucose)/insulin sensitivity factor. In practice, active insulin from recent correction doses and planned exercise also influence dosing.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Type 1 diabetes",
+      "Carbohydrate counting",
+      "Insulin sensitivity factor",
+      "Bolus insulin",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 392,
+    "stem": "A 52-year-old perimenopausal woman with an intact uterus wants systemic menopausal hormone therapy. Which regimen is generally associated with the most favourable adverse-effect profile among these options?",
+    "options": [
+      "Micronised progesterone with transdermal oestrogen",
+      "Medroxyprogesterone with oral oestrogen",
+      "Micronised progesterone with oral oestrogen",
+      "Medroxyprogesterone with transdermal oestrogen"
+    ],
+    "correct_index": 0,
+    "explanation": "Transdermal oestradiol plus micronised progesterone is the preferred option among those listed. Transdermal oestrogen avoids hepatic first-pass metabolism and has less effect on clotting proteins and triglycerides than oral oestrogen, so observational evidence suggests lower VTE risk. Micronised progesterone is generally metabolically neutral and may have a more favourable breast/VTE profile than some synthetic progestogens. A progestogen is required when the uterus is present to prevent oestrogen-induced endometrial hyperplasia and cancer. MHT should still be individualised according to vasomotor symptoms, age/time since menopause, VTE/cardiovascular risk, breast-cancer history and patient preferences.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Menopausal hormone therapy",
+      "Transdermal oestrogen",
+      "Micronised progesterone",
+      "VTE",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 393,
+    "stem": "A 34-year-old man has reduced libido, prolactin 30,000 mIU/L and a 2-cm pituitary macroadenoma extending toward but not compressing the optic chiasm. Visual fields are normal. What is first-line treatment?",
+    "options": [
+      "Transsphenoidal surgery",
+      "Dopamine agonist",
+      "GnRH agonist",
+      "Somatostatin analogue"
+    ],
+    "correct_index": 1,
+    "explanation": "A dopamine agonist, preferably cabergoline, is first-line treatment for most macroprolactinomas even when the tumour is large. Dopamine acting at D2 receptors suppresses prolactin secretion, and prolactinomas usually undergo substantial tumour shrinkage as well as biochemical normalisation. This can restore gonadal function and relieve mass effect. Surgery is generally reserved for dopamine-agonist resistance/intolerance, selected cystic or invasive tumours, CSF leak, or urgent compressive scenarios that cannot be managed medically; pituitary apoplexy with visual compromise is a separate emergency. Cabergoline is usually better tolerated and more effective than bromocriptine. Counsel about nausea, postural symptoms and impulse-control disorders; echocardiographic monitoring may be appropriate with higher cumulative doses.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Prolactinoma",
+      "Cabergoline",
+      "Dopamine agonist",
+      "Pituitary macroadenoma",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 394,
+    "stem": "What is the central pathophysiological mechanism of Graves orbitopathy?",
+    "options": [
+      "Immune-mediated activation of orbital fibroblasts",
+      "Anti-acetylcholine-receptor antibodies directly damaging extraocular muscle",
+      "Excess sympathetic tone alone",
+      "Iodine depletion within orbital tissues"
+    ],
+    "correct_index": 0,
+    "explanation": "Graves orbitopathy is an autoimmune fibroinflammatory disease. Orbital fibroblasts express TSH receptors and also interact with IGF-1-receptor pathways; autoantibody-driven immune activation stimulates fibroblasts to produce hydrophilic glycosaminoglycans, differentiate into adipocytes or myofibroblasts, and recruit inflammatory cells. The resulting orbital oedema, expansion of fat and extraocular muscles causes proptosis, diplopia, exposure keratopathy and, in severe disease, compressive optic neuropathy. Smoking markedly increases risk and worsens response to therapy. Thyroid status should be normalised, but orbitopathy activity and severity require separate assessment. Moderate-to-severe active disease may require immunomodulatory therapy, while sight-threatening optic neuropathy needs urgent high-dose glucocorticoids and sometimes orbital decompression.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Graves orbitopathy",
+      "Orbital fibroblast",
+      "TSH receptor",
+      "IGF-1 receptor",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 395,
+    "stem": "An 85-year-old woman treated for hypertension presents with syncope and new hyponatraemia. Which medication class is the most likely cause?",
+    "options": [
+      "Chronic liver disease",
+      "Adrenal insufficiency",
+      "Hypothyroidism",
+      "Cerebral salt wasting",
+      "Psychogenic polydipsia",
+      "Loop diuretic",
+      "Thiazide diuretic"
+    ],
+    "correct_index": 6,
+    "explanation": "Thiazide diuretics are a common cause of clinically important hyponatraemia in older adults, particularly older women. They impair urinary dilution by blocking sodium-chloride reabsorption in the distal convoluted tubule while leaving the medullary concentrating mechanism relatively intact; volume depletion, increased ADH and high water intake can then produce marked hyponatraemia. Loop diuretics disrupt the medullary gradient and are less likely to cause profound hyponatraemia. Management is to stop the thiazide and treat according to volume status and symptom severity; severe neurological symptoms require hypertonic saline. Rechallenge is generally avoided after significant thiazide-associated hyponatraemia.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Thiazide",
+      "Hyponatraemia",
+      "Older adult",
+      "Syncope",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 396,
+    "stem": "A 42-year-old man with long-standing schizophrenia, stable on depot antipsychotic therapy for many years, is found to have hypotonic hyponatraemia. Which cause is most characteristically associated with this psychiatric history?",
+    "options": [
+      "Chronic liver disease",
+      "Adrenal insufficiency",
+      "Hypothyroidism",
+      "Cerebral salt wasting",
+      "Psychogenic polydipsia",
+      "Loop diuretic use",
+      "Thiazide use"
+    ],
+    "correct_index": 4,
+    "explanation": "Psychogenic (primary) polydipsia is strongly associated with chronic psychotic illness, particularly schizophrenia. Excessive free-water intake can exceed renal excretory capacity and produce hypotonic hyponatraemia; when ADH is appropriately suppressed, urine is usually very dilute. This distinguishes pure polydipsia from SIADH, in which urine remains inappropriately concentrated. Antipsychotics and other psychotropic medications can themselves cause SIADH, so medication review and paired serum/urine osmolality are important before attributing hyponatraemia to polydipsia. Rapid spontaneous water diuresis after fluid restriction can cause unexpectedly fast sodium correction, so severe cases require careful monitoring.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Psychogenic polydipsia",
+      "Schizophrenia",
+      "Hyponatraemia",
+      "Urine osmolality",
+      "Endocrine",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 397,
+    "stem": "Which anterior pituitary hormone is primarily regulated by tonic hypothalamic inhibition rather than by a dominant releasing hormone?",
+    "options": [
+      "Adrenocorticotropic hormone",
+      "Growth hormone",
+      "Prolactin",
+      "Thyroid-stimulating hormone"
+    ],
+    "correct_index": 2,
+    "explanation": "Prolactin is unique among the major anterior pituitary hormones because its dominant hypothalamic control is tonic inhibition by dopamine delivered through the pituitary portal circulation. Interruption of the pituitary stalk therefore raises prolactin by removing dopamine, whereas it tends to reduce secretion of other pituitary hormones. TRH can stimulate prolactin, which explains mild hyperprolactinaemia in severe primary hypothyroidism. Dopamine agonists such as cabergoline suppress prolactin and shrink prolactinomas; dopamine antagonists including many antipsychotics can cause hyperprolactinaemia. RACP pearl: stalk compression usually gives a modest prolactin rise, while very high concentrations strongly suggest a prolactinoma.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Prolactin",
+      "Dopamine",
+      "Pituitary",
+      "Tonic inhibition",
+      "Endocrine",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 398,
+    "stem": "Clomiphene can be used off-label in selected men with secondary hypogonadism who wish to preserve fertility. What does it block to increase gonadotropin secretion?",
+    "options": [
+      "Oestrogen receptors",
+      "LH receptors",
+      "GnRH receptors",
+      "Androgen receptors"
+    ],
+    "correct_index": 0,
+    "explanation": "Clomiphene is a selective oestrogen-receptor modulator (SERM). By antagonising oestrogen feedback at the hypothalamus and pituitary, it increases GnRH pulse activity and consequently raises LH and FSH. Increased LH stimulates endogenous Leydig-cell testosterone production while FSH supports spermatogenesis, so fertility is preserved better than with exogenous testosterone, which suppresses the HPG axis. Clomiphene therefore makes physiological sense in men with an intact testis and functional central axis but is ineffective in primary testicular failure where LH/FSH are already elevated.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Clomiphene",
+      "SERM",
+      "Male hypogonadism",
+      "Fertility",
+      "Endocrine",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 399,
+    "stem": "Non-classical congenital adrenal hyperplasia is most commonly caused by partial deficiency of which enzyme step?",
+    "options": [
+      "Corticosterone to oestrone conversion",
+      "17-hydroxyprogesterone to 11-deoxycortisol conversion",
+      "11-deoxycortisol to cortisol conversion",
+      "Androstenedione to oestrone conversion"
+    ],
+    "correct_index": 1,
+    "explanation": "Non-classical CAH is most commonly due to partial 21-hydroxylase deficiency. 21-hydroxylase normally converts 17-hydroxyprogesterone to 11-deoxycortisol in the cortisol pathway and progesterone to deoxycorticosterone in the mineralocorticoid pathway. Partial deficiency therefore raises 17-hydroxyprogesterone and shunts precursors toward adrenal androgen production, causing hirsutism, acne, irregular menses or infertility without the severe neonatal salt-wasting phenotype of classic CAH. Screening uses an early-morning follicular-phase 17-hydroxyprogesterone, with ACTH stimulation testing when the basal result is equivocal. RACP pearl: 21-hydroxylase deficiency = 17-OHP up and androgens up.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Congenital adrenal hyperplasia",
+      "21-hydroxylase",
+      "17-hydroxyprogesterone",
+      "Androgens",
+      "Endocrine",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0034.png",
+    "explanation_video": null
+  },
+  {
+    "id": 400,
+    "stem": "Finasteride is used in benign prostatic hyperplasia. What is its mechanism of action?",
+    "options": [
+      "5-alpha-reductase inhibition",
+      "Alpha-1 adrenergic receptor antagonism",
+      "Beta-3 adrenergic receptor agonism",
+      "Phosphodiesterase-5 inhibition"
+    ],
+    "correct_index": 0,
+    "explanation": "Finasteride inhibits 5-alpha-reductase, reducing conversion of testosterone to the more potent androgen dihydrotestosterone (DHT). Lower intraprostatic DHT gradually reduces prostate volume and lowers the risk of acute urinary retention and future surgery, but symptom improvement takes months. Alpha-1 blockers such as tamsulosin act much faster by relaxing prostatic smooth muscle but do not shrink the gland. Finasteride can cause reduced libido, erectile/ejaculatory dysfunction and gynaecomastia, and it lowers PSA by roughly 50% after sustained therapy, so PSA interpretation must account for treatment.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Finasteride",
+      "5-alpha reductase",
+      "DHT",
+      "BPH",
+      "Endocrine",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 401,
+    "stem": "Which anticoagulant can cause hyperkalaemia by suppressing aldosterone synthesis?",
+    "options": [
+      "Warfarin",
+      "Heparin",
+      "Rivaroxaban",
+      "Dabigatran"
+    ],
+    "correct_index": 1,
+    "explanation": "Heparin, including LMWH, can suppress aldosterone synthesis in the adrenal zona glomerulosa, probably through inhibition of the terminal aldosterone-synthesis pathway and reduced responsiveness to angiotensin II. The resulting hypoaldosteronism reduces distal potassium and hydrogen secretion, causing hyperkalaemia and sometimes a type 4 RTA-like normal-anion-gap metabolic acidosis. Risk is greater with diabetes, CKD, baseline hyperkalaemia and prolonged exposure. This mechanism is separate from heparin-induced thrombocytopenia. RACP pearl: unexplained hyperkalaemia several days into heparin therapy should prompt consideration of heparin-induced hypoaldosteronism.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Heparin",
+      "Hyperkalaemia",
+      "Hypoaldosteronism",
+      "Type 4 RTA",
+      "Endocrine",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 402,
+    "stem": "Among hormonally active adrenal cortical adenomas discovered incidentally, which hormone is most commonly produced autonomously?",
+    "options": [
+      "Cortisol",
+      "Catecholamines",
+      "Aldosterone",
+      "Androgens"
+    ],
+    "correct_index": 0,
+    "explanation": "Mild autonomous cortisol secretion is the most common hormonal abnormality identified in an adrenal cortical incidentaloma. The usual screening test is an overnight 1-mg dexamethasone suppression test. Phaeochromocytoma must also be excluded when imaging/clinical features warrant it, and an aldosterone-renin ratio is appropriate in patients with hypertension or unexplained hypokalaemia. Clinically overt androgen secretion from an adrenal adenoma is uncommon and should raise concern for adrenocortical carcinoma, particularly when rapid virilisation is present. RACP pearl: incidentaloma work-up asks two questions - is it hormonally active, and does imaging suggest malignancy?",
+    "specialty": "Endocrine",
+    "tags": [
+      "Adrenal incidentaloma",
+      "Autonomous cortisol secretion",
+      "Dexamethasone suppression",
+      "Endocrine",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 403,
+    "stem": "Regarding DEXA bone mineral density, at which age would T-score and Z-score be expected to be most similar?",
+    "options": [
+      "Age 18",
+      "Age 30",
+      "Age 50",
+      "Age 70"
+    ],
+    "correct_index": 1,
+    "explanation": "At around age 30, the age-matched reference population used for the Z-score is closest to the young-adult peak-bone-mass reference used for the T-score, so the two values are most similar. The T-score expresses SD difference from healthy young adults and is used for osteoporosis classification in postmenopausal women and older men. The Z-score expresses SD difference from age-matched controls and is more informative in younger adults, where a Z-score <=-2.0 is described as below the expected range for age rather than diagnosing osteoporosis solely by T-score criteria.",
+    "specialty": "Endocrine",
+    "tags": [
+      "DEXA",
+      "T-score",
+      "Z-score",
+      "Osteoporosis",
+      "Endocrine",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 404,
+    "stem": "Which thyroid condition is most likely to become euthyroid after radioiodine treatment because the autonomous tissue is ablated while normal surrounding thyroid tissue can recover?",
+    "options": [
+      "Graves disease",
+      "Autonomous toxic thyroid nodule",
+      "Non-toxic multinodular goitre",
+      "Differentiated thyroid cancer"
+    ],
+    "correct_index": 1,
+    "explanation": "An autonomous toxic nodule is the best answer. The hyperfunctioning nodule takes up radioiodine preferentially because it is TSH-independent, while the surrounding normal thyroid is suppressed and therefore receives relatively less radiation. After ablation of the autonomous tissue, TSH recovers and previously suppressed normal thyroid can resume hormone production, so euthyroidism is relatively likely. Graves disease involves diffuse uptake throughout the gland and commonly results in permanent hypothyroidism after definitive radioiodine. Radioiodine for differentiated thyroid cancer is used after thyroidectomy to ablate remnant or metastatic iodine-avid tissue rather than to restore a normal intact gland.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Radioiodine",
+      "Toxic adenoma",
+      "Autonomous nodule",
+      "Thyrotoxicosis",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 405,
+    "stem": "A 30-year-old woman has acute pancreatitis with triglycerides 35 mmol/L. Initial fasting, IV fluids and insulin therapy have produced minimal triglyceride reduction. Which intervention can produce the most rapid extracorporeal triglyceride reduction in selected severe cases?",
+    "options": [
+      "Therapeutic plasma exchange/apheresis",
+      "Haemodialysis",
+      "Oral fibrate therapy alone",
+      "Evolocumab"
+    ],
+    "correct_index": 0,
+    "explanation": "Therapeutic plasma exchange can rapidly remove triglyceride-rich chylomicrons and is the intended answer in this severe refractory hypertriglyceridaemic pancreatitis recall. However, this is a nuanced clinical area: evidence that plasmapheresis improves hard outcomes over intensive conventional management is limited, so it is not routine treatment for every hypertriglyceridaemic pancreatitis case. It may be considered in selected very severe or deteriorating cases, particularly when triglycerides remain extreme despite initial therapy. Haemodialysis membranes do not efficiently clear large chylomicron particles. Fibrates are important for long-term triglyceride control but do not provide sufficiently rapid treatment of the acute pancreatitis, and PCSK9 inhibition primarily lowers LDL rather than treating severe chylomicronaemia.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Hypertriglyceridaemia",
+      "Pancreatitis",
+      "Plasma exchange",
+      "Apheresis",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 406,
+    "stem": "A 55-year-old man has prolactin >77,000 with low testosterone and a pituitary macroadenoma extending toward the optic apparatus but no visual deficit or apoplexy. What is the most appropriate initial management?",
+    "options": [
+      "Dopamine agonist",
+      "Somatostatin analogue",
+      "Transsphenoidal surgery",
+      "Radiotherapy"
+    ],
+    "correct_index": 0,
+    "explanation": "This is a macroprolactinoma and first-line treatment is a dopamine agonist, usually cabergoline. Very high prolactin concentrations strongly support true tumour secretion rather than stalk effect. Cabergoline activates D2 receptors on lactotrophs, suppresses prolactin and commonly produces dramatic tumour shrinkage, even in large lesions near the optic chiasm. Visual fields should be formally monitored and other pituitary axes assessed. Surgery is reserved for selected patients with resistance or intolerance to dopamine agonists, acute compressive complications, CSF leak or other specific circumstances. Always consider assay artefacts: the high-dose hook effect can falsely report only modest prolactin in a very large prolactinoma, so dilution testing is required when tumour size and prolactin seem discordant.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Macroprolactinoma",
+      "Cabergoline",
+      "Dopamine agonist",
+      "Hook effect",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 407,
+    "stem": "A hormonally active adrenal cortical incidentaloma is most likely to demonstrate autonomous secretion of which hormone?",
+    "options": [
+      "Glucocorticoids",
+      "Androgens",
+      "Mineralocorticoids",
+      "Catecholamines"
+    ],
+    "correct_index": 0,
+    "explanation": "Autonomous cortisol secretion is the commonest endocrine abnormality in an adrenal cortical incidentaloma. Patients may lack the classic phenotype of overt Cushing syndrome yet have increased cardiometabolic and bone risk. The overnight 1-mg dexamethasone suppression test is the standard screening approach. Aldosterone excess should be assessed with an aldosterone-renin ratio when hypertension or hypokalaemia is present, and catecholamine excess is assessed with metanephrines when appropriate because a phaeochromocytoma is a medullary rather than cortical tumour. Marked androgen excess is uncommon in a benign adenoma and can be a red flag for adrenocortical carcinoma.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Adrenal incidentaloma",
+      "Cortisol",
+      "Dexamethasone suppression",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 408,
+    "stem": "A 64-year-old woman presents with a new L1 osteoporotic vertebral fracture. Which medication is most likely to have contributed to reduced bone strength?",
+    "options": [
+      "Bisoprolol",
+      "Aspirin",
+      "Metformin",
+      "Pioglitazone"
+    ],
+    "correct_index": 3,
+    "explanation": "Pioglitazone is a thiazolidinedione and PPAR-gamma agonist that improves insulin sensitivity but increases fracture risk, particularly in women. PPAR-gamma activation favours mesenchymal stem-cell differentiation toward adipocytes rather than osteoblasts and may also increase bone resorption, resulting in loss of bone strength. Other adverse effects include weight gain, fluid retention and worsening heart failure; it can also cause oedema and is avoided in significant symptomatic HF. The fracture signal is one reason pioglitazone is now a relatively selective rather than routine glucose-lowering choice.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Pioglitazone",
+      "Thiazolidinedione",
+      "Osteoporosis",
+      "PPAR-gamma",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0035.png",
+    "explanation_video": null
+  },
+  {
+    "id": 409,
+    "stem": "A 55-year-old woman with long-standing type 2 diabetes has symptoms suggestive of gastroparesis. Gastroscopy excludes mechanical obstruction. What is the next best diagnostic test?",
+    "options": [
+      "Barium swallow",
+      "Gastric emptying scintigraphy",
+      "Gastric biopsy",
+      "Gastroduodenal manometry"
+    ],
+    "correct_index": 1,
+    "explanation": "Gastric emptying scintigraphy is the standard test for objectively confirming delayed gastric emptying after mechanical obstruction has been excluded. A standardised radiolabelled solid meal is followed over several hours, with delayed retention supporting gastroparesis. Diabetic autonomic neuropathy is a common cause, but medications such as GLP-1 receptor agonists and opioids can also delay gastric emptying and should be considered before testing. Management includes optimising glycaemia, small low-fat/low-fibre meals, correcting nutrition and using prokinetics in selected symptomatic patients. RACP pearl: symptoms alone do not diagnose gastroparesis - demonstrate delayed emptying without obstruction.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Gastroparesis",
+      "Gastric emptying scintigraphy",
+      "Diabetic autonomic neuropathy",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 410,
+    "stem": "Which prior fragility fracture is particularly strongly associated with a high short-term risk of subsequent osteoporotic fractures?",
+    "options": [
+      "Vertebral fracture",
+      "Hip fracture",
+      "Pelvic fracture",
+      "Humeral fracture"
+    ],
+    "correct_index": 0,
+    "explanation": "A vertebral fragility fracture is a powerful marker of future fracture risk, including additional vertebral and non-vertebral fractures. Multiple vertebral fractures indicate very high risk and may justify initial anabolic therapy in selected patients. The wider principle is that any low-trauma fracture substantially increases future fracture risk and should trigger secondary-cause assessment and osteoporosis treatment rather than being viewed as an isolated event. Vertebral fractures are frequently clinically silent, so height loss, kyphosis or incidental vertebral deformity on imaging can reveal previously unrecognised osteoporosis.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Vertebral fracture",
+      "Osteoporosis",
+      "Future fracture risk",
+      "Fragility fracture",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 411,
+    "stem": "A young woman with polycystic ovary syndrome has troublesome hirsutism and acne and does not wish to conceive. What is the usual first-line pharmacological treatment for hyperandrogenic symptoms?",
+    "options": [
+      "Cyproterone acetate monotherapy",
+      "Spironolactone monotherapy",
+      "Combined oral contraceptive pill",
+      "Metformin"
+    ],
+    "correct_index": 2,
+    "explanation": "A combined oral contraceptive is the usual first-line pharmacological treatment for hirsutism/acne in PCOS when pregnancy is not desired and there is no contraindication. Oestrogen increases SHBG and the progestin suppresses LH-driven ovarian androgen production, reducing free androgen exposure while also providing reliable cycle control and endometrial protection. Clinical improvement in hair growth takes months because of the hair-growth cycle. Antiandrogens such as spironolactone can be added if response is inadequate, but effective contraception is essential because of potential fetal antiandrogen effects. Metformin is valuable for metabolic indications and can help menstrual regularity but is less effective than COC for isolated hirsutism.",
+    "specialty": "Endocrine",
+    "tags": [
+      "PCOS",
+      "Hirsutism",
+      "Combined oral contraceptive",
+      "Hyperandrogenism",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 412,
+    "stem": "A 78-year-old man with metastatic prostate cancer has hypercalcaemic symptoms. Corrected calcium is 2.79 mmol/L and PTH is elevated rather than suppressed. What is the most likely cause of the hypercalcaemia?",
+    "options": [
+      "Vitamin D deficiency",
+      "PTHrP secretion",
+      "Osteolysis from metastases",
+      "Primary hyperparathyroidism"
+    ],
+    "correct_index": 3,
+    "explanation": "Primary hyperparathyroidism is the correct physiological interpretation because PTH should be suppressed in any PTH-independent hypercalcaemia. Bone metastases and PTHrP-mediated malignancy both increase calcium but suppress native PTH. The cancer diagnosis is therefore a red herring unless the PTH is appropriately low. In primary hyperparathyroidism, phosphate is often low and urinary calcium is usually normal/high, although urinary calcium assessment is principally useful when distinguishing PHPT from familial hypocalciuric hypercalcaemia. RACP algorithm: hypercalcaemia -> measure PTH -> non-suppressed means PTH-dependent; suppressed means malignancy, vitamin D, granulomatous disease, drugs and other causes.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Hypercalcaemia",
+      "Primary hyperparathyroidism",
+      "PTH",
+      "Malignancy",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 413,
+    "stem": "Why is a long-acting GnRH agonist such as goserelin added to an aromatase inhibitor in a premenopausal woman with hormone-receptor-positive breast cancer?",
+    "options": [
+      "To reduce ovarian production of aromatase substrate",
+      "To reduce vaginal bleeding only",
+      "To prevent amenorrhoea",
+      "To increase ovarian androgen production",
+      "To suppress adrenal androgen production"
+    ],
+    "correct_index": 0,
+    "explanation": "Aromatase inhibitors block conversion of androgens to oestrogens but do not directly stop premenopausal ovarian oestrogen production. Continuous GnRH-agonist exposure initially causes a brief flare and then down-regulates pituitary GnRH receptors, markedly reducing LH and FSH and suppressing ovarian steroidogenesis. This reduces ovarian oestrogen production and the androgen substrate available for aromatisation, creating a postmenopausal-like hormonal state in which an aromatase inhibitor can work effectively. Without ovarian suppression, loss of oestrogen feedback can stimulate gonadotropins and undermine aromatase-inhibitor therapy.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Goserelin",
+      "GnRH agonist",
+      "Breast cancer",
+      "Ovarian suppression",
+      "Endocrine",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 414,
+    "stem": "A patient receiving immune-checkpoint inhibitor therapy develops persistent primary hypothyroidism with low free T4 and high TSH after an episode of thyroiditis. What is the appropriate treatment?",
+    "options": [
+      "High-dose glucocorticoids",
+      "Levothyroxine replacement",
+      "No treatment",
+      "Radioiodine"
+    ],
+    "correct_index": 1,
+    "explanation": "Levothyroxine is indicated for established primary hypothyroidism after immune-checkpoint-inhibitor thyroiditis. ICI thyroid dysfunction often begins with a transient destructive thyrotoxic phase followed by permanent hypothyroidism as thyroid tissue is damaged. Antithyroid drugs are not useful in the destructive phase unless Graves disease is separately demonstrated. An important RACP safety point is to consider adrenal insufficiency/hypophysitis in an unwell patient receiving immunotherapy: if central adrenal insufficiency is possible, assess/treat cortisol deficiency before starting thyroid hormone because levothyroxine can increase cortisol clearance and precipitate adrenal crisis.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Immune checkpoint inhibitor",
+      "Hypothyroidism",
+      "Thyroiditis",
+      "Levothyroxine",
+      "Endocrine",
+      "2023 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 415,
+    "stem": "During which phase of a normal ovulatory menstrual cycle is progesterone concentration highest?",
+    "options": [
+      "Luteal phase",
+      "Follicular phase",
+      "Immediately before ovulation",
+      "Menstrual phase"
+    ],
+    "correct_index": 0,
+    "explanation": "Progesterone peaks during the mid-luteal phase. After the LH surge triggers ovulation, the ruptured follicle becomes the corpus luteum, which secretes progesterone under LH support. Progesterone converts the proliferative endometrium into a secretory endometrium suitable for implantation and raises basal body temperature. If pregnancy does not occur, corpus-luteum regression causes progesterone and oestradiol to fall, triggering menstruation. If implantation occurs, hCG rescues the corpus luteum until placental steroid production becomes sufficient. RACP pearl: oestradiol peaks pre-ovulation; progesterone peaks after ovulation in the luteal phase.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Progesterone",
+      "Luteal phase",
+      "Menstrual cycle",
+      "Corpus luteum",
+      "Endocrine",
+      "2023 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0036.png",
+    "explanation_video": null
+  },
+  {
+    "id": 416,
+    "stem": "Romosozumab inhibits sclerostin. Which combination best describes its early effects on bone turnover?",
+    "options": [
+      "Bone formation decreases; bone resorption increases",
+      "Bone formation increases; bone resorption decreases",
+      "Bone formation and resorption both increase",
+      "Bone formation and resorption both decrease"
+    ],
+    "correct_index": 1,
+    "explanation": "Sclerostin normally inhibits Wnt/beta-catenin signalling in osteoblast-lineage cells. Romosozumab removes this brake, producing a rapid increase in osteoblast-mediated bone formation; it also reduces bone resorption, creating a large positive balance in bone mass. This dual effect is why romosozumab can produce rapid BMD gains in patients at very high fracture risk. The anabolic effect is most prominent early and wanes, so treatment is time-limited and should be followed by an antiresorptive agent to preserve gains. Do not confuse this with denosumab, which is a pure antiresorptive RANKL inhibitor.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Romosozumab",
+      "Sclerostin",
+      "Bone formation",
+      "Bone resorption",
+      "Endocrine",
+      "2023 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0037.png",
+    "explanation_video": null
+  },
+  {
+    "id": 417,
+    "stem": "An 87-year-old man with type 2 diabetes, retinopathy and neuropathy is recovering from a neck-of-femur fracture and is being discharged to rehabilitation. HbA1c is 9.0%, he has had no symptomatic hyperglycaemia or hypoglycaemia, and capillary glucose values are generally 8-15 mmol/L on metformin alone. What is the most appropriate glycaemic strategy?",
+    "options": [
+      "Start basal-bolus insulin",
+      "Add a sulfonylurea",
+      "Continue current therapy with an individualised less-stringent target",
+      "Add prandial insulin only"
+    ],
+    "correct_index": 2,
+    "explanation": "In a frail older adult with established complications, recent major fracture and no symptomatic hyperglycaemia, avoidance of hypoglycaemia and treatment burden may be more important than pursuing a tight HbA1c. Insulin or a sulfonylurea could cause hypoglycaemia, falls and further morbidity. Glycaemic targets should be individualised according to frailty, cognition, comorbidity, life expectancy and functional goals; an HbA1c around 9% may be acceptable in some very frail patients if symptoms are absent. Metformin itself should still be reviewed against renal function and nutritional status. RACP pearl: the goal in frailty is safe, symptom-free glycaemia, not automatically achieving the standard younger-adult HbA1c target.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Older adults",
+      "Type 2 diabetes",
+      "Frailty",
+      "Individualised HbA1c",
+      "Endocrine",
+      "2023 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 418,
+    "stem": "A critically ill patient with cerebral venous sinus thrombosis is receiving a heparin infusion. On day 3 she develops Na 129 mmol/L, K 5.9 mmol/L, a normal-anion-gap metabolic acidosis, normal renal function and glucose 3.5 mmol/L. Repeat CT brain is unchanged. What is the most likely cause of this biochemical pattern?",
+    "options": [
+      "Type 4 renal tubular acidosis",
+      "Bilateral adrenal haemorrhage",
+      "Pituitary apoplexy",
+      "SIADH"
+    ],
+    "correct_index": 1,
+    "explanation": "Bilateral adrenal haemorrhage causing acute primary adrenal insufficiency is the best unifying diagnosis. Loss of aldosterone causes hyperkalaemia, renal sodium wasting and a type 4 RTA-like normal-anion-gap metabolic acidosis, while cortisol deficiency contributes to hyponatraemia and hypoglycaemia. Bilateral adrenal haemorrhage is a recognised complication of severe illness and can occur with heparin-induced thrombocytopenia through adrenal venous thrombosis followed by haemorrhagic infarction. Isolated type 4 RTA can explain hyperkalaemia and acidosis but does not adequately explain the concurrent hyponatraemia and hypoglycaemia. Pituitary apoplexy causes secondary adrenal insufficiency, in which aldosterone is usually preserved because it is regulated mainly by the renin-angiotensin system, so marked hyperkalaemia is less typical. If adrenal crisis is suspected, draw cortisol/ACTH if this does not delay treatment and give immediate IV hydrocortisone plus isotonic fluid; adrenal imaging and investigation for HIT/coagulopathy follow.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Adrenal haemorrhage",
+      "Primary adrenal insufficiency",
+      "Heparin",
+      "Hyperkalaemia",
+      "Endocrine",
+      "2025 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 419,
+    "stem": "Which hormone directly increases epithelial sodium-channel (ENaC) activity in collecting-duct principal cells?",
+    "options": [
+      "Aldosterone",
+      "Angiotensin I",
+      "Angiotensin II",
+      "Renin"
+    ],
+    "correct_index": 0,
+    "explanation": "Aldosterone is the principal endocrine regulator of ENaC in collecting-duct principal cells. It diffuses into the cell and binds the intracellular mineralocorticoid receptor, increasing transcription of proteins including ENaC subunits and SGK1; SGK1 reduces ENaC degradation and increases channel activity. Aldosterone also increases basolateral Na-K-ATPase activity. The net effect is increased sodium reabsorption with enhanced potassium secretion through ROMK and, indirectly, increased hydrogen secretion by intercalated cells. This physiology explains the hypertension, hypokalaemia and metabolic alkalosis of primary hyperaldosteronism and the hyperkalaemic acidosis of hypoaldosteronism. Amiloride directly blocks ENaC.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Aldosterone",
+      "ENaC",
+      "Collecting duct",
+      "Mineralocorticoid receptor",
+      "Endocrine",
+      "2025 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 420,
+    "stem": "A patient taking metformin 1 g twice daily develops a diarrhoeal illness with dehydration and acute kidney injury (eGFR 28 mL/min/1.73 m2). They develop a high-anion-gap metabolic acidosis; CK is only mildly elevated and beta-hydroxybutyrate is not elevated. What is the most likely cause?",
+    "options": [
+      "Salicylate toxicity",
+      "Rhabdomyolysis",
+      "Metformin-associated lactic acidosis",
+      "Euglycaemic ketoacidosis"
+    ],
+    "correct_index": 2,
+    "explanation": "Metformin-associated lactic acidosis is the best fit. Metformin is renally cleared, so dehydration and AKI can cause drug accumulation. At toxic concentrations it impairs mitochondrial oxidative phosphorylation, particularly complex I, and inhibits hepatic gluconeogenesis; lactate utilisation falls while anaerobic lactate production increases, producing a high-anion-gap lactic acidosis. The key confirmatory measurement is a markedly elevated lactate in the appropriate clinical context. Mild CK elevation does not support rhabdomyolysis severe enough to explain the acidosis, and a normal beta-hydroxybutyrate argues against ketoacidosis. Salicylate toxicity usually produces a mixed respiratory alkalosis and metabolic acidosis with a compatible exposure history. Management is immediate cessation of metformin, treatment of shock/dehydration and the precipitant, with bicarbonate used selectively; severe acidaemia, very high lactate, shock or significant metformin accumulation may require haemodialysis because metformin is dialysable.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Metformin",
+      "Lactic acidosis",
+      "Acute kidney injury",
+      "HAGMA",
+      "Endocrine",
+      "2025 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 421,
+    "stem": "Which endocrine disorder can be assessed using an insulin tolerance test, in which deliberate hypoglycaemia is used to test hypothalamic-pituitary stress responses?",
+    "options": [
+      "Acromegaly",
+      "Central adrenal insufficiency",
+      "Glucagonoma",
+      "Primary hyperaldosteronism"
+    ],
+    "correct_index": 1,
+    "explanation": "The insulin tolerance test (ITT) assesses the integrity of the hypothalamic-pituitary-adrenal and growth-hormone axes by inducing controlled hypoglycaemia, which should trigger ACTH/cortisol and GH release. In this option set, central adrenal insufficiency is therefore the best answer. ITT is historically regarded as a reference test for secondary adrenal insufficiency and adult GH deficiency, but it is labour intensive and potentially dangerous; it is avoided in patients with significant cardiovascular disease, seizure disorders and some older patients. A short Synacthen test is much more commonly used for suspected primary adrenal insufficiency and often for chronic secondary disease, although very recent pituitary ACTH deficiency can produce a falsely normal Synacthen response before adrenal atrophy develops. Acromegaly is assessed with IGF-1 followed by glucose-suppression testing of GH, not an ITT.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Insulin tolerance test",
+      "Central adrenal insufficiency",
+      "ACTH",
+      "Growth hormone",
+      "Endocrine",
+      "2025 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 422,
+    "stem": "An older woman taking an SSRI presents with mild confusion. She is euvolaemic, Na is 124 mmol/L, serum osmolality is 262 mOsm/kg and urine osmolality is >400 mOsm/kg. Thyroid and renal function are normal. What is the most appropriate immediate treatment?",
+    "options": [
+      "IV 0.9% saline",
+      "Fluid restriction to 1 L/day",
+      "IV 3% hypertonic saline",
+      "Tolvaptan"
+    ],
+    "correct_index": 2,
+    "explanation": "This is hypotonic euvolaemic hyponatraemia with inappropriately concentrated urine, strongly suggesting SSRI-associated SIADH. The presence of neurological symptoms makes controlled hypertonic saline the appropriate immediate treatment in the worked recall. The goal is not to normalise sodium rapidly but to achieve a small early rise, typically around 4-6 mmol/L, sufficient to improve cerebral oedema, followed by controlled correction with frequent sodium monitoring. Fluid restriction is first-line for chronic asymptomatic or minimally symptomatic SIADH but is too slow when clinically important neurological symptoms are attributed to hyponatraemia. Isotonic saline may fail or worsen sodium in SIADH because sodium is excreted in concentrated urine while free water is retained. Tolvaptan is not first-line emergency therapy and can cause unpredictable overcorrection.",
+    "specialty": "Endocrine",
+    "tags": [
+      "SIADH",
+      "SSRI",
+      "Hyponatraemia",
+      "Hypertonic saline",
+      "Endocrine",
+      "2025 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 423,
+    "stem": "Why is low-dose prednisolone routinely co-prescribed with abiraterone acetate in prostate cancer?",
+    "options": [
+      "To directly suppress adrenal androgen synthesis independently of abiraterone",
+      "To reduce tumour-related bone pain",
+      "To prevent ACTH-driven mineralocorticoid excess",
+      "To prevent an initial testosterone flare"
+    ],
+    "correct_index": 2,
+    "explanation": "Abiraterone inhibits CYP17A1, including 17-alpha-hydroxylase/C17,20-lyase activity, thereby suppressing androgen synthesis in the testes, adrenals and tumour. The same blockade reduces cortisol synthesis. Falling cortisol removes negative feedback on ACTH, so ACTH rises and drives steroid precursors into mineralocorticoid-active pathways upstream of CYP17, particularly deoxycorticosterone and corticosterone. The result can be hypertension, hypokalaemia and fluid retention. Low-dose prednisolone provides glucocorticoid replacement and suppresses ACTH, thereby preventing or reducing this mineralocorticoid-excess syndrome. This is distinct from the transient testosterone flare seen when commencing a GnRH agonist.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Abiraterone",
+      "CYP17A1",
+      "Mineralocorticoid excess",
+      "Prednisolone",
+      "Endocrine",
+      "2025 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 424,
+    "stem": "An obese woman with idiopathic intracranial hypertension cannot tolerate acetazolamide. She has no immediate indication for CSF diversion or optic-nerve-sheath surgery. Which option best targets the key disease-modifying factor and may improve intracranial-pressure-related disease through substantial weight loss?",
+    "options": [
+      "Topiramate",
+      "GLP-1 receptor agonist",
+      "Furosemide",
+      "Serial lumbar punctures"
+    ],
+    "correct_index": 1,
+    "explanation": "A GLP-1 receptor agonist is the intended answer when the question is framed around disease-modifying weight loss. Obesity is the strongest modifiable risk factor for typical idiopathic intracranial hypertension (IIH), and sustained weight reduction can lower intracranial pressure and induce remission. GLP-1 receptor agonists can produce clinically meaningful weight loss and are increasingly relevant in obese patients with IIH; early studies also suggest possible direct effects on CSF secretion/intracranial pressure, although the evidence base is still evolving. Topiramate is also a very reasonable clinical option after acetazolamide intolerance because it has weak carbonic-anhydrase activity, treats migraine-like headache and promotes weight loss. Therefore this recall should not be interpreted as saying GLP-1 therapy is universally the single 'second-line drug'. Sight-threatening IIH requires urgent ophthalmological/neurosurgical escalation regardless of weight-loss therapy.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Idiopathic intracranial hypertension",
+      "GLP-1 receptor agonist",
+      "Weight loss",
+      "Acetazolamide",
+      "Endocrine",
+      "2025 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 425,
+    "stem": "A 21-year-old woman with regular menstrual cycles and cyclic mastalgia is incidentally found to have prolactin around 900 mIU/L. beta-hCG is negative, and she has no galactorrhoea, amenorrhoea, headache or visual symptoms. What is the most appropriate next step?",
+    "options": [
+      "CT brain",
+      "Repeat prolactin under standardised conditions with assessment for macroprolactin",
+      "Immediate pituitary MRI",
+      "Breast ultrasound"
+    ],
+    "correct_index": 1,
+    "explanation": "Repeat prolactin is the best next step for a modest, asymptomatic elevation. Prolactin is stress-sensitive, so venepuncture stress, exercise, sleep, recent breast stimulation and medications can transiently elevate it. A repeat sample obtained under calm standardised conditions should be accompanied by review of drugs, pregnancy status, thyroid and renal function; laboratories can also screen for macroprolactin, commonly using polyethylene-glycol precipitation. Macroprolactin is prolactin bound to immunoglobulin: it is detected by many assays but has reduced biological activity, so patients can have a high measured level without typical symptoms. If persistent monomeric hyperprolactinaemia is confirmed, particularly with amenorrhoea, galactorrhoea, hypogonadism, neurological symptoms or substantially higher concentrations, pituitary MRI is appropriate. Cyclic mastalgia with preserved cycles argues against clinically significant prolactin excess.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Hyperprolactinaemia",
+      "Macroprolactin",
+      "Prolactin repeat",
+      "Pituitary MRI",
+      "Endocrine",
+      "2025 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 426,
+    "stem": "An older adult is commenced on an SSRI. During which period after initiation is SSRI-associated hyponatraemia most likely to become apparent?",
+    "options": [
+      "Within the first week only",
+      "Around the second week only",
+      "Within the first 2-4 weeks, represented here by week 4",
+      "Around week 6 or later"
+    ],
+    "correct_index": 2,
+    "explanation": "SSRI-associated hyponatraemia is most strongly associated with the early weeks after treatment initiation or dose escalation, and the worked 2024 recall uses week 4 to represent this 2-4-week high-risk period. The mechanism is usually SIADH, with serotonergic effects promoting non-osmotic ADH activity. Risk is greatest in older adults, women, patients with low body weight, lower baseline sodium, concurrent thiazides and other SIADH-promoting drugs. The exact day of peak risk is not biologically fixed, so do not memorise 'week 4' as an absolute rule; the durable exam point is that clinically important hyponatraemia usually develops early after starting or increasing an SSRI. Check sodium promptly if new confusion, falls, seizures or other compatible symptoms occur.",
+    "specialty": "Endocrine",
+    "tags": [
+      "SSRI",
+      "Hyponatraemia",
+      "SIADH",
+      "Timing",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 427,
+    "stem": "A 70-year-old man with type 2 diabetes has a recent transient ischaemic attack. Which glucose-lowering class is most likely to improve glycaemia while also reducing future atherosclerotic cardiovascular events, including stroke risk?",
+    "options": [
+      "GLP-1 receptor agonist",
+      "SGLT2 inhibitor",
+      "Insulin",
+      "Sulfonylurea"
+    ],
+    "correct_index": 0,
+    "explanation": "A GLP-1 receptor agonist is the best choice among these options for a patient with established atherosclerotic cerebrovascular disease when an additional glucose-lowering drug is required. Several GLP-1 receptor agonists have demonstrated reductions in major adverse cardiovascular events, and meta-analyses show a reduction in ischaemic stroke. SGLT2 inhibitors have major cardiovascular benefits, particularly for heart failure, CKD progression and cardiovascular death in selected populations, but their effect on stroke is generally neutral. Insulin and sulfonylureas lower glucose but do not provide the same established atherosclerotic event reduction and carry greater hypoglycaemia risk. RACP pearl: ASCVD-predominant phenotype -> think GLP-1RA; HF/CKD-predominant phenotype -> SGLT2 inhibitor, while recognising overlap and combination use.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Type 2 diabetes",
+      "GLP-1 receptor agonist",
+      "Stroke",
+      "ASCVD",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 428,
+    "stem": "A patient receiving once-daily morning prednisolone develops predominantly afternoon and evening hyperglycaemia while fasting morning glucose remains acceptable. Which insulin preparation best matches this glucocorticoid-induced glucose profile?",
+    "options": [
+      "Isophane (NPH) insulin",
+      "Premixed insulin",
+      "Rapid-acting insulin alone",
+      "Insulin glargine"
+    ],
+    "correct_index": 0,
+    "explanation": "Morning isophane/NPH insulin is particularly well matched to the glycaemic profile of once-daily morning prednisolone. Prednisolone's hyperglycaemic effect typically builds through the day and wanes overnight; NPH has an intermediate action profile with a daytime peak that can cover the afternoon/evening rise while causing less overnight insulin exposure than simply increasing long-acting basal insulin. Dose and timing should be adjusted to the glucocorticoid dose and capillary glucose pattern. If glucocorticoids are given multiple times daily or are long-acting, basal-bolus strategies may be more appropriate. When steroids are tapered, insulin must also be reduced promptly to avoid hypoglycaemia.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Steroid-induced hyperglycaemia",
+      "Prednisolone",
+      "NPH insulin",
+      "Isophane",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0038.png",
+    "explanation_video": null
+  },
+  {
+    "id": 429,
+    "stem": "In a girl undergoing normal puberty, which physical sign usually appears first?",
+    "options": [
+      "Pubic hair",
+      "Axillary hair",
+      "Breast budding (thelarche)",
+      "Menarche"
+    ],
+    "correct_index": 2,
+    "explanation": "Breast budding (thelarche) is usually the first visible sign of true central puberty in girls and reflects ovarian oestrogen production after activation of the hypothalamic-pituitary-gonadal axis. Pubic and axillary hair arise mainly from adrenal androgen secretion during adrenarche and can occur independently of gonadarche. Menarche occurs later, typically around 2-3 years after thelarche and after peak height velocity. This distinction is clinically useful: isolated premature pubic hair can reflect premature adrenarche without central precocious puberty, whereas early progressive breast development suggests oestrogen exposure and HPG-axis activation.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Puberty",
+      "Thelarche",
+      "Adrenarche",
+      "Menarche",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 430,
+    "stem": "A woman with congenital adrenal hyperplasia has troublesome hirsutism and acne despite otherwise stable disease and is not seeking pregnancy. Which treatment is the most appropriate first pharmacological option for the hyperandrogenic symptoms?",
+    "options": [
+      "Spironolactone",
+      "Cyproterone acetate",
+      "Prednisone monotherapy",
+      "Combined oral contraceptive pill"
+    ],
+    "correct_index": 3,
+    "explanation": "A combined oral contraceptive is the intended first-line symptomatic treatment when pregnancy is not desired. The oestrogen component increases SHBG, lowering free testosterone, while ovarian gonadotropin suppression reduces ovarian androgen production; the progestin also provides endometrial protection and contraception. In congenital adrenal hyperplasia, however, the underlying adrenal androgen excess must also be adequately controlled with appropriate glucocorticoid replacement to suppress excess ACTH - a COC does not replace CAH-specific therapy. If hirsutism remains troublesome after several months, an antiandrogen such as spironolactone can be added, but reliable contraception is required because of teratogenic antiandrogen effects. Avoid chronic supraphysiological glucocorticoid doses solely for cosmetic symptoms because of metabolic and bone toxicity.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Congenital adrenal hyperplasia",
+      "Hirsutism",
+      "Combined oral contraceptive",
+      "Hyperandrogenism",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0034.png",
+    "explanation_video": null
+  },
+  {
+    "id": 431,
+    "stem": "After stopping denosumab, subsequent antiresorptive therapy is used primarily to prevent rebound fractures at which site?",
+    "options": [
+      "Vertebrae",
+      "Subcapital neck of femur",
+      "Distal radius",
+      "Intertrochanteric femur"
+    ],
+    "correct_index": 0,
+    "explanation": "Vertebral fractures are the characteristic rebound complication after denosumab cessation. When RANKL inhibition abruptly wears off, bone resorption can overshoot baseline, causing rapid BMD loss and sometimes clusters of multiple vertebral fractures. A bisphosphonate is therefore usually administered after the last denosumab dose to maintain suppression of osteoclast activity. Timing and agent selection depend on prior denosumab duration, renal function and bone-turnover markers, but the key exam concept is that denosumab should not be stopped without an exit strategy.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Denosumab",
+      "Vertebral fracture",
+      "Rebound bone loss",
+      "Bisphosphonate",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 432,
+    "stem": "A 52-year-old perimenopausal woman with an intact uterus requests systemic menopausal hormone therapy. Which regimen has the most favourable adverse-effect profile among these options?",
+    "options": [
+      "Micronised progesterone with transdermal oestrogen",
+      "Medroxyprogesterone with oral oestrogen",
+      "Micronised progesterone with oral oestrogen",
+      "Medroxyprogesterone with transdermal oestrogen"
+    ],
+    "correct_index": 0,
+    "explanation": "Transdermal oestradiol combined with micronised progesterone is generally the most favourable option among those listed. Transdermal oestrogen bypasses hepatic first-pass metabolism and has less effect on coagulation proteins and triglycerides than oral oestrogen, which is particularly useful when VTE or metabolic risk is a concern. Micronised progesterone appears to have a more favourable metabolic and thrombotic profile than some synthetic progestogens, although comparative evidence is largely observational. Progestogen is required if the uterus is present to protect against endometrial hyperplasia. The safest regimen still depends on the individual's breast-cancer, VTE, cardiovascular and liver-disease risk.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Menopausal hormone therapy",
+      "Transdermal oestrogen",
+      "Micronised progesterone",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 433,
+    "stem": "Among hormonally active adrenal cortical incidentalomas, which hormone is most commonly secreted autonomously?",
+    "options": [
+      "Aldosterone",
+      "Cortisol",
+      "Adrenal androgens",
+      "Catecholamines"
+    ],
+    "correct_index": 1,
+    "explanation": "Mild autonomous cortisol secretion is the most common hormonal abnormality associated with adrenal cortical incidentalomas. Screening is usually performed with a 1-mg overnight dexamethasone suppression test. Aldosterone excess is specifically assessed in patients with hypertension or unexplained hypokalaemia, while catecholamine excess suggests a phaeochromocytoma arising from the adrenal medulla rather than cortex. Rapid androgen excess should raise concern for adrenocortical carcinoma. Even mild cortisol autonomy can contribute to hypertension, diabetes, dyslipidaemia and osteoporosis, so the label 'subclinical' should not imply that it is necessarily harmless.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Adrenal incidentaloma",
+      "Autonomous cortisol secretion",
+      "Cortisol",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 434,
+    "stem": "A patient has FGF23-mediated hypophosphataemia. Which combination best explains the fall in serum phosphate?",
+    "options": [
+      "Increased proximal tubular phosphate reabsorption and increased calcitriol synthesis",
+      "Reduced proximal tubular phosphate reabsorption and reduced calcitriol synthesis",
+      "Isolated stimulation of PTH with no direct renal phosphate effect",
+      "Increased intestinal phosphate absorption with reduced urinary phosphate loss"
+    ],
+    "correct_index": 1,
+    "explanation": "FGF23 is produced predominantly by osteocytes and lowers phosphate through two complementary mechanisms. In the proximal tubule it down-regulates sodium-phosphate cotransporters, increasing urinary phosphate wasting. It also suppresses renal 1-alpha-hydroxylase and increases 24-hydroxylase activity, lowering 1,25-dihydroxyvitamin D (calcitriol); this reduces intestinal phosphate absorption. FGF23 excess occurs in disorders such as X-linked hypophosphataemia and tumour-induced osteomalacia. The biochemical pattern is hypophosphataemia with inappropriate renal phosphate wasting and calcitriol that is low or inappropriately normal for the degree of hypophosphataemia.",
+    "specialty": "Endocrine",
+    "tags": [
+      "FGF23",
+      "Hypophosphataemia",
+      "Phosphate wasting",
+      "Calcitriol",
+      "Endocrine",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 435,
+    "stem": "Which zone of the adrenal cortex is the principal site of cortisol synthesis?",
+    "options": [
+      "Zona glomerulosa",
+      "Zona fasciculata",
+      "Zona reticularis",
+      "Adrenal medulla"
+    ],
+    "correct_index": 1,
+    "explanation": "Cortisol is produced predominantly in the zona fasciculata under ACTH control. The classic adrenal-cortex mnemonic is 'GFR: salt, sugar, sex' from outer to inner: zona glomerulosa produces aldosterone ('salt'), zona fasciculata produces cortisol ('sugar'), and zona reticularis produces adrenal androgens ('sex'). The adrenal medulla produces catecholamines. The glomerulosa lacks CYP17 and is controlled mainly by angiotensin II and potassium rather than ACTH, whereas cortisol synthesis in the fasciculata is tightly integrated into the CRH-ACTH-cortisol feedback axis.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Adrenal cortex",
+      "Zona fasciculata",
+      "Cortisol",
+      "GFR mnemonic",
+      "Endocrine",
+      "2024 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 436,
+    "stem": "At the mineralocorticoid receptor itself, cortisol has approximately what binding affinity relative to aldosterone?",
+    "options": [
+      "0 (no meaningful affinity)",
+      "0.1 times the affinity",
+      "0.5 times the affinity",
+      "Approximately equal affinity"
+    ],
+    "correct_index": 3,
+    "explanation": "Cortisol and aldosterone have broadly similar intrinsic affinity for the mineralocorticoid receptor. The kidney achieves aldosterone selectivity mainly through 11-beta-hydroxysteroid dehydrogenase type 2 (11-beta-HSD2), which converts active cortisol to cortisone before cortisol can occupy the receptor. This protection is essential because circulating free cortisol concentrations greatly exceed aldosterone concentrations. In apparent mineralocorticoid excess, or after inhibition of 11-beta-HSD2 by glycyrrhetinic acid in liquorice, cortisol activates the mineralocorticoid receptor and produces hypertension, hypokalaemia, metabolic alkalosis, low renin and low aldosterone. SOURCE CORRECTION: the worked recall keyed '0.1', but that is not a safe statement of mineralocorticoid-receptor binding affinity; the physiologically correct learning point is approximately equal receptor affinity with tissue selectivity created by 11-beta-HSD2.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Mineralocorticoid receptor",
+      "Cortisol",
+      "Aldosterone",
+      "11-beta-HSD2",
+      "Source correction",
+      "Endocrine",
+      "2024 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 437,
+    "stem": "Which antibody is the most specific serological marker for Graves disease and directly reflects the pathogenic autoimmune process?",
+    "options": [
+      "Thyroid peroxidase antibody",
+      "Thyroglobulin antibody",
+      "TSH-receptor antibody (TRAb)",
+      "Anti-centromere antibody"
+    ],
+    "correct_index": 2,
+    "explanation": "TSH-receptor antibodies are the most specific routine serological marker for Graves disease and are directly pathogenic. Stimulating TRAb activates the TSH receptor, causing diffuse thyroid growth and excess thyroid-hormone synthesis. Anti-TPO antibodies are common in Graves disease but are less specific because they are also frequent in Hashimoto thyroiditis and can occur in euthyroid individuals. TRAb is especially useful when the cause of thyrotoxicosis is uncertain, in pregnancy because maternal antibody crosses the placenta, and when distinguishing Graves disease from destructive thyroiditis. Thyroid scintigraphy provides complementary information when antibody testing is equivocal and radioisotope use is appropriate.",
+    "specialty": "Endocrine",
+    "tags": [
+      "Graves disease",
+      "TRAb",
+      "TSH receptor antibody",
+      "Thyroid autoantibodies",
+      "Endocrine",
+      "2024 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   }
 ]
