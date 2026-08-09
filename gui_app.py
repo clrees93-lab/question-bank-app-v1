@@ -24,13 +24,18 @@
 #       * "Next" / "Finish"
 #       * "Return to Home"
 
+from cProfile import label
+from multiprocessing import pool
+from pydoc import text
 import tkinter as tk
 from tkinter import ttk, messagebox
 from typing import List, Optional
 import os
 import re
+from unittest import result
 
 from PIL import Image, ImageTk
+from altair import selection
 
 from data_management import (
     Question,
@@ -337,133 +342,293 @@ class MockExamGUI:
     # =====================================================
     # Tag search dialog with live suggestions
     # =====================================================
-    def ask_tag_search_gui(self) -> Optional[str]:
+    def ask_tag_search_gui(self) -> Optional[List[str]]:
         """
-        Show a modal dialog asking for a free-text tag search query,
-        with live tag suggestions as you type.
+        Search tags, click to add them to a selected list,
+        then start practice with all selected tags.
 
         Returns:
-          - None  → user cancelled
-          - str   → search query (non-empty)
+            - None      → user cancelled
+            - [tags...] → selected tags
         """
         top = tk.Toplevel(self.root)
-        top.title("Search by tags")
+        top.title("Practice by tags")
         top.transient(self.root)
-        top.grab_set()  # modal
+        top.grab_set()
 
         all_tags = self.get_all_tags()
-
+        selected_tags: List[str] = []
         label = ttk.Label(
-            top,
-            text=(
-                "Type one or more terms to search in tags.\n"
-                "Examples:\n"
-                "  T1DM\n"
-                "  insulin, ketoacidosis\n"
-                "  2020 MS\n"
-                "\n"
-                "Suggestions update as you type; double-click a tag\n"
-                "to use it immediately."
-            ),
-            justify="left",
+        top,
+        text="Search for tags, then click a tag to add it.",
+        justify="left",
         )
         label.pack(padx=10, pady=(10, 5), anchor="w")
 
+        # -------------------------
+        # Search box
+        # -------------------------
         entry = ttk.Entry(top, width=50)
         entry.pack(padx=10, pady=(5, 5), fill="x")
         entry.focus_set()
 
-        sugg_label = ttk.Label(top, text="Matching tags:")
-        sugg_label.pack(padx=10, pady=(5, 0), anchor="w")
+        ttk.Label(top, text="Matching tags:").pack(
+            padx=10,
+            pady=(5, 0),
+            anchor="w",
+        )
 
+        # -------------------------
+        # Matching tags
+        # -------------------------
         sugg_frame = ttk.Frame(top)
-        sugg_frame.pack(padx=10, pady=(0, 10), fill="both", expand=True)
+        sugg_frame.pack(
+            padx=10,
+            pady=(0, 10),
+            fill="both",
+            expand=True,
+        )
 
-        sugg_listbox = tk.Listbox(sugg_frame, height=8, exportselection=False)
-        sugg_listbox.pack(side="left", fill="both", expand=True)
+        sugg_listbox = tk.Listbox(
+            sugg_frame,
+            height=8,
+            exportselection=False,
+        )
+        sugg_listbox.pack(
+            side="left",
+            fill="both",
+            expand=True,
+        )
 
-        sugg_scroll = ttk.Scrollbar(sugg_frame, orient="vertical", command=sugg_listbox.yview)
+        sugg_scroll = ttk.Scrollbar(
+            sugg_frame,
+            orient="vertical",
+            command=sugg_listbox.yview,
+        )
         sugg_scroll.pack(side="right", fill="y")
-        sugg_listbox.config(yscrollcommand=sugg_scroll.set)
 
-        result: dict[str, Optional[str]] = {"value": None}
+        sugg_listbox.config(
+            yscrollcommand=sugg_scroll.set
+        )
 
+        # -------------------------
+        # Selected tags
+        # -------------------------
+        ttk.Label(top, text="Selected tags:").pack(
+            padx=10,
+            pady=(5, 0),
+            anchor="w",
+        )
+        selected_frame = ttk.Frame(top)
+        selected_frame.pack(
+            padx=10,
+            pady=(0, 10),
+            fill="both",
+            expand=True,
+        )
+        selected_listbox = tk.Listbox(
+            selected_frame,
+            height=6,
+            exportselection=False,
+        )
+        selected_listbox.pack(
+            side="left",
+            fill="both",
+            expand=True,
+        )
+
+        selected_scroll = ttk.Scrollbar(
+            selected_frame,
+            orient="vertical",
+            command=selected_listbox.yview,
+        )
+        selected_scroll.pack(side="right", fill="y")
+        selected_listbox.config(
+            yscrollcommand=selected_scroll.set
+        )
+
+        count_label = ttk.Label(top, text="")
+        count_label.pack(
+            padx=10,
+            pady=(0, 5),
+            anchor="w",
+        )
+
+        result: dict[str, Optional[List[str]]] = {
+            "value": None
+        }
+
+        # -------------------------
+        # Helpers
+        # -------------------------
         def update_suggestions(*args) -> None:
-            """
-            Update the suggestion list based on the current entry text.
-
-            - If entry is empty → show all tags (capped).
-            - Else → show tags containing the typed text (case-insensitive).
-            """
             text = entry.get().strip().lower()
+
             sugg_listbox.delete(0, tk.END)
 
-            if not all_tags:
+            if not text:
+                matches = all_tags
+            else:
+                matches = [
+                    tag
+                    for tag in all_tags
+                    if text in tag.lower()
+                ]
+
+            for tag in matches[:100]:
+                if tag not in selected_tags:
+                    sugg_listbox.insert(tk.END, tag)
+
+        def update_selected_display() -> None:
+            selected_listbox.delete(0, tk.END)
+
+            for tag in selected_tags:
+                selected_listbox.insert(tk.END, tag)
+
+            # Show how many questions currently match
+            selected_lower = {
+                tag.lower()
+                for tag in selected_tags
+            }
+
+            matching_questions = [
+                q
+                for q in self.questions
+                if any(
+                    tag.lower() in selected_lower
+                    for tag in q.tags
+                )
+            ]
+            count_label.config(
+                text=f"{len(matching_questions)} question(s) match"
+            )
+
+        def add_selected_tag(event=None) -> None:
+            selection = sugg_listbox.curselection()
+
+            if not selection:
                 return
 
-            if not text:
-                to_show = all_tags[:100]
-            else:
-                matches = [t for t in all_tags if text in t.lower()]
-                to_show = matches[:100]
+            tag = sugg_listbox.get(selection[0])
 
-            for t in to_show:
-                sugg_listbox.insert(tk.END, t)
+            if tag not in selected_tags:
+                selected_tags.append(tag)
+
+            entry.delete(0, tk.END)
+
+            update_selected_display()
+            update_suggestions()
+
+            entry.focus_set()
+
+        def remove_selected_tag(event=None) -> None:
+            selection = selected_listbox.curselection()
+
+            if not selection:
+                return
+
+            index = selection[0]
+            del selected_tags[index]
+        
+            update_selected_display()
+            update_suggestions()
 
         def on_start() -> None:
-            q = entry.get().strip()
-            if not q:
+            if not selected_tags:
                 messagebox.showwarning(
-                    "Empty search",
-                    "Please enter at least one search term.",
+                    "No tags selected",
+                    "Please add at least one tag.",
                     parent=top,
                 )
                 return
-            result["value"] = q
+            result["value"] = list(selected_tags)
             top.destroy()
 
         def on_cancel() -> None:
             result["value"] = None
             top.destroy()
 
-        def use_selected_and_start(event=None) -> None:
-            """
-            Use the selected suggestion as the full query
-            and immediately run the search.
-            """
-            selection = sugg_listbox.curselection()
-            if not selection:
-                return
-            tag = sugg_listbox.get(selection[0])
-            entry.delete(0, tk.END)
-            entry.insert(0, tag)
-            on_start()
+        # -------------------------
+        # Events
+        # -------------------------
+        entry.bind(
+            "<KeyRelease>",
+            lambda event: update_suggestions(),
+        )
 
-        # Wire up events
-        entry.bind("<KeyRelease>", lambda event: update_suggestions())
-        entry.bind("<Return>", lambda event: on_start())
+        # Double-click matching tag → add
+        sugg_listbox.bind(
+            "<Double-Button-1>",
+            add_selected_tag,
+        )
 
-        sugg_listbox.bind("<Double-Button-1>", use_selected_and_start)
-        sugg_listbox.bind("<Return>", use_selected_and_start)
+        sugg_listbox.bind(
+            "<Return>",
+            add_selected_tag,
+        )
 
-        # Buttons at the bottom
-        btn_frame = ttk.Frame(top, padding=(10, 10))
+        # Double-click selected tag → remove
+        selected_listbox.bind(
+            "<Double-Button-1>",
+            remove_selected_tag,
+        )
+
+        # -------------------------
+        # Buttons
+        # -------------------------
+        tag_button_frame = ttk.Frame(top)
+        tag_button_frame.pack(
+            padx=10,
+            pady=(0, 10),
+            fill="x",
+        )
+
+        add_btn = ttk.Button(
+            tag_button_frame,
+            text="Add selected tag",
+            command=add_selected_tag,
+        )
+        add_btn.pack(side="left")
+        remove_btn = ttk.Button(
+            tag_button_frame,
+            text="Remove selected tag",
+            command=remove_selected_tag,
+        )
+        remove_btn.pack(side="left", padx=5)
+        btn_frame = ttk.Frame(
+            top,
+            padding=(10, 10),
+        )
         btn_frame.pack(fill="x")
-        start_btn = ttk.Button(btn_frame, text="Search", command=on_start)
-        start_btn.pack(side="right", padx=5)
-        cancel_btn = ttk.Button(btn_frame, text="Cancel", command=on_cancel)
-        cancel_btn.pack(side="right")
 
-        # Position near main window
+        start_btn = ttk.Button(
+            btn_frame,
+            text="Start practice",
+            command=on_start,
+        )
+        start_btn.pack(side="right", padx=5)
+        
+        cancel_btn = ttk.Button(
+            btn_frame,
+            text="Cancel",
+            command=on_cancel,
+        )
+        cancel_btn.pack(side="right")
+        # -------------------------
+        # Position window
+        # -------------------------
         self.root.update_idletasks()
+
         x = self.root.winfo_rootx() + 50
         y = self.root.winfo_rooty() + 50
+
         top.geometry(f"+{x}+{y}")
 
-        # Initial suggestion list
         update_suggestions()
+        update_selected_display()
 
         self.root.wait_window(top)
+
         return result["value"]
 
     # =====================================================
@@ -646,30 +811,54 @@ class MockExamGUI:
         self.show_current_question()
 
     def start_practice_by_tags(self) -> None:
-        """Practice mode by tags, with explanations using search + suggestions."""
+        """Practice questions selected from one or more tags."""
         if not self.questions:
             messagebox.showwarning("No questions", "No questions found in questions.json.")
             return
 
-        query = self.ask_tag_search_gui()
-        if query is None:
+        selected_tags = self.ask_tag_search_gui()
+
+        if selected_tags is None:
             self.show_home()
             return
 
-        pool = self.search_questions_by_tag_query(query)
+        selected_set = {
+            tag.lower()
+            for tag in selected_tags
+        }
+
+        # ANY selected tag matches
+        pool = [
+            q
+            for q in self.questions
+            if any(
+                tag.lower() in selected_set
+                for tag in q.tags
+            )
+        ]
+
         if not pool:
             messagebox.showwarning(
                 "No questions",
-                "No questions matched your tag search. Try different terms.",
+                "No questions matched the selected tags.",
             )
             return
-
+        
         self.mode = "tags"
-        self.exam_questions = select_questions(pool, specialty=None, num_questions=None)
+
+        self.exam_questions = select_questions(
+            pool,
+            specialty=None,
+            num_questions=None,
+        )
 
         self.current_index = 0
         self.results = []
-        self.next_button.config(text="Next", state="normal")
+
+        self.next_button.config(
+            text="Next",
+            state="normal",
+        )
 
         self.show_exam_area()
         self.show_current_question()
