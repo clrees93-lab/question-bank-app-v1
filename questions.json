@@ -10631,5 +10631,2064 @@
     "image_path": null,
     "explanation_image": null,
     "explanation_video": null
+  },
+  {
+    "id": 438,
+    "stem": "Persistence of which hepatitis B viral component within infected hepatocyte nuclei is the major barrier to sterilising cure of chronic HBV infection?",
+    "options": [
+      "Covalently closed circular DNA (cccDNA)",
+      "Hepatitis B surface antigen",
+      "Precore protein",
+      "Pregenomic RNA"
+    ],
+    "correct_index": 0,
+    "explanation": "Covalently closed circular DNA (cccDNA) is the persistent nuclear template that makes sterilising cure of hepatitis B difficult. After HBV enters a hepatocyte, relaxed circular viral DNA is converted into stable episomal cccDNA in the nucleus. This cccDNA can persist for years and acts as the transcriptional template for viral RNAs, including pregenomic RNA, even when serum HBV DNA has been profoundly suppressed by nucleos(t)ide analogue therapy. Integrated HBV DNA is a separate reservoir that can continue to produce HBsAg, but it is cccDNA that is classically tested as the key barrier to virological cure. Current tenofovir or entecavir therapy inhibits reverse transcription and viral replication but does not reliably eradicate cccDNA. RACP pearl: functional cure generally means sustained HBsAg loss, whereas sterilising cure would require elimination of replication-competent viral reservoirs including cccDNA.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatitis B",
+      "cccDNA",
+      "HBV cure",
+      "Viral replication",
+      "Gastroenterology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0039.png",
+    "explanation_video": null
+  },
+  {
+    "id": 439,
+    "stem": "In which part of the gastrointestinal tract are bile salts actively reabsorbed as part of the enterohepatic circulation?",
+    "options": [
+      "Duodenum",
+      "Stomach",
+      "Terminal ileum",
+      "Jejunum"
+    ],
+    "correct_index": 2,
+    "explanation": "Bile acids are actively reabsorbed predominantly in the terminal ileum via the apical sodium-dependent bile acid transporter and returned to the liver through the portal circulation. This enterohepatic recycling is highly efficient and preserves the bile-acid pool needed for micelle formation and fat absorption. The terminal ileum is also the site of vitamin B12-intrinsic-factor absorption, making ileal disease or resection a classic cause of both B12 deficiency and bile-acid diarrhoea. By contrast, the duodenum is particularly important for iron and calcium absorption, while the jejunum absorbs much of the carbohydrate, amino acid, folate and other nutrient load. RACP pearl: terminal ileum = bile salts + B12.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Bile acids",
+      "Terminal ileum",
+      "Enterohepatic circulation",
+      "Malabsorption",
+      "Gastroenterology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 440,
+    "stem": "Which autoantibody is the most specific serological marker for autoimmune hepatitis?",
+    "options": [
+      "Anti-smooth muscle antibody",
+      "Anti-liver cytosol type 1 antibody",
+      "Anti-liver-kidney microsomal type 1 antibody",
+      "Anti-soluble liver antigen/liver-pancreas antibody"
+    ],
+    "correct_index": 3,
+    "explanation": "Anti-soluble liver antigen/liver-pancreas (anti-SLA/LP) is highly specific for autoimmune hepatitis, although it is less sensitive than ANA or anti-smooth-muscle antibody. Type 1 AIH is most commonly associated with ANA and/or SMA, while type 2 AIH is associated with anti-LKM1 and anti-LC1 and is more often seen in younger patients. Serology alone does not establish the diagnosis: AIH is a clinicopathological diagnosis incorporating hepatocellular liver-injury pattern, raised IgG, compatible autoantibodies, exclusion of competing causes and characteristic biopsy findings such as interface hepatitis with plasma-cell-rich inflammation. Around 10-20% can be seronegative. Standard induction therapy uses corticosteroid with or without azathioprine depending on severity and patient factors; TPMT/NUDT15-related toxicity considerations matter before thiopurine use. RACP pearl: ANA/SMA are common; anti-SLA/LP is the high-specificity antibody.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Autoimmune hepatitis",
+      "Anti-SLA",
+      "Autoantibodies",
+      "Interface hepatitis",
+      "Gastroenterology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 441,
+    "stem": "A patient with advanced cirrhosis who is opioid-dependent receives oral oxycodone/naloxone and develops acute opioid withdrawal. What best explains the unexpectedly high systemic naloxone exposure?",
+    "options": [
+      "Augmentation of endogenous partial opioid agonists",
+      "Increased intestinal absorption from gut oedema",
+      "Increased volume of distribution",
+      "Reduced hepatic first-pass metabolism with portosystemic shunting"
+    ],
+    "correct_index": 3,
+    "explanation": "Oral naloxone normally has very low systemic bioavailability because it undergoes extensive hepatic first-pass metabolism; this allows it to antagonise opioid receptors mainly within the gut and reduce opioid-induced constipation without reversing central analgesia. Advanced liver disease reduces hepatic extraction and portosystemic shunting allows portal blood to bypass hepatocytes, markedly increasing systemic naloxone exposure. In an opioid-dependent patient, sufficient systemic naloxone can therefore precipitate acute withdrawal. The broader pharmacology pearl is that high-extraction drugs with major first-pass metabolism can have substantially increased bioavailability in cirrhosis, so route and formulation matter as much as clearance.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Cirrhosis",
+      "Naloxone",
+      "First-pass metabolism",
+      "Portosystemic shunting",
+      "Gastroenterology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 442,
+    "stem": "A 35-year-old man with chronic hepatitis B is treated with tenofovir disoproxil fumarate. Urinalysis shows new glycosuria and low-molecular-weight proteinuria despite a normal serum glucose. Which additional biochemical abnormality most strongly supports tenofovir-induced proximal tubular Fanconi syndrome?",
+    "options": [
+      "Hypercalcaemia",
+      "Hypermagnesaemia",
+      "Hypophosphataemia",
+      "Hyperuricaemia"
+    ],
+    "correct_index": 2,
+    "explanation": "Tenofovir disoproxil fumarate can cause proximal tubular mitochondrial toxicity and Fanconi syndrome. The proximal tubule normally reabsorbs filtered phosphate, glucose, bicarbonate, urate, amino acids and low-molecular-weight proteins; injury therefore produces renal phosphate wasting with hypophosphataemia, normoglycaemic glycosuria, tubular proteinuria, bicarbonate loss and often hypouricaemia. Severe chronic phosphate wasting may cause osteomalacia and fractures. Tenofovir alafenamide produces lower circulating tenofovir exposure and is generally less nephrotoxic. RACP pearl: TDF + glycosuria despite normal glucose + phosphate wasting = proximal tubular Fanconi syndrome.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Tenofovir",
+      "Fanconi syndrome",
+      "Hypophosphataemia",
+      "Proximal tubule",
+      "Gastroenterology",
+      "2021 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 443,
+    "stem": "A 27-year-old man with Crohn disease is commenced on infliximab. Several months later he develops annular erythematous plaques over sun-exposed areas of the neck, upper back and forearms with minimal scale. Which adverse drug reaction is most likely?",
+    "options": [
+      "Dermatitis herpetiformis",
+      "Granuloma annulare",
+      "Paradoxical psoriasis",
+      "Anti-TNF-induced subacute cutaneous lupus"
+    ],
+    "correct_index": 3,
+    "explanation": "The reconstructed morphology makes anti-TNF-induced subacute cutaneous lupus the best answer. Anti-TNF drugs such as infliximab can paradoxically induce both psoriasis and lupus-like disease, so the appearance matters: subacute cutaneous lupus typically produces photosensitive annular or papulosquamous lesions on the upper trunk and extensor arms, whereas anti-TNF paradoxical psoriasis more often resembles plaque or palmoplantar pustular psoriasis. Drug-induced anti-TNF lupus frequently produces ANA and anti-dsDNA; anti-histone antibodies are less dominant than in classic drug-induced lupus. Management depends on severity: mild cutaneous disease may be treated topically while the biologic is reviewed, whereas significant systemic or persistent disease generally requires stopping the culprit agent. RACP pearl: infliximab can cause both paradoxical psoriasis and lupus - let the morphology decide.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Infliximab",
+      "Anti-TNF",
+      "Subacute cutaneous lupus",
+      "Drug-induced lupus",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": "images/q0040.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 444,
+    "stem": "A 70-year-old man with longstanding constipation presents with marked abdominal distension, colicky pain and vomiting. Abdominal X-ray shows a massively dilated loop of sigmoid colon with a classic coffee-bean appearance. What is the diagnosis?",
+    "options": [
+      "Obstructing colorectal tumour",
+      "Acute colonic pseudo-obstruction",
+      "Severe faecal loading",
+      "Sigmoid volvulus"
+    ],
+    "correct_index": 3,
+    "explanation": "Sigmoid volvulus is torsion of a redundant sigmoid colon around its mesenteric axis, producing large-bowel obstruction and the classic coffee-bean or bent-inner-tube appearance on plain radiography. Risk factors include chronic constipation, advanced age, neurological/psychiatric disease and institutionalisation. If there is no peritonitis, perforation or ischaemia, urgent flexible sigmoidoscopic detorsion with rectal tube placement is usually the initial treatment. Recurrence after endoscopic decompression is high, so definitive sigmoid resection is generally recommended during the same admission or electively soon afterwards in a suitable patient. Peritonitis, gangrene, perforation or failed endoscopic decompression requires emergency surgery. RACP pearl: volvulus + toxicity/peritonism = surgery; uncomplicated sigmoid volvulus = endoscopic decompression first.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Sigmoid volvulus",
+      "Coffee bean sign",
+      "Large bowel obstruction",
+      "Endoscopic decompression",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": "images/q0041.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 445,
+    "stem": "A renal-transplant recipient 5 months after transplantation develops fever and a new hepatocellular liver-enzyme rise while taking tacrolimus, mycophenolate and prednisolone. Which opportunistic infection is most characteristic of this 1-6 month post-transplant period and can cause hepatitis?",
+    "options": [
+      "BK virus",
+      "Escherichia coli",
+      "Nocardia species",
+      "Cytomegalovirus"
+    ],
+    "correct_index": 3,
+    "explanation": "CMV is a classic opportunistic infection in the intermediate post-transplant period, particularly around 1-6 months when immunosuppression is intense and prophylaxis may have ended or breakthrough infection can occur. CMV disease can cause a systemic viral syndrome as well as tissue-invasive disease including colitis, oesophagitis, hepatitis, pneumonitis and marrow suppression. Donor-positive/recipient-negative transplantation confers the highest CMV risk. Diagnosis is usually with quantitative CMV PCR plus tissue confirmation when organ-invasive disease is uncertain. Significant disease is treated with valganciclovir or IV ganciclovir depending on severity and absorption, with careful adjustment of immunosuppression. BK virus is classically associated with renal-allograft nephropathy; Nocardia more often causes pulmonary/CNS disease.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "CMV",
+      "Transplant infection",
+      "CMV hepatitis",
+      "Opportunistic infection",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 446,
+    "stem": "A traveller returning from India is diagnosed with invasive Entamoeba histolytica infection and completes a tissue-active course of metronidazole. Why is a second luminal amoebicide still required?",
+    "options": [
+      "To eradicate intraluminal cysts",
+      "To treat a merozoite stage",
+      "To eradicate hepatic schizonts",
+      "To prevent trophozoite resistance to metronidazole"
+    ],
+    "correct_index": 0,
+    "explanation": "Metronidazole treats invasive trophozoites in the bowel wall and extra-intestinal sites such as an amoebic liver abscess, but it does not reliably eradicate luminal cyst carriage. A luminal agent such as paromomycin, diloxanide furoate or iodoquinol is therefore required after tissue therapy to eradicate residual intraluminal organisms, prevent relapse and reduce transmission. Paromomycin is poorly absorbed, which is precisely why it remains active within the gut lumen. RACP pearl: invasive amoebiasis requires two compartments of therapy - metronidazole/tinidazole for tissue trophozoites plus a luminal amoebicide for cyst eradication.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Entamoeba histolytica",
+      "Amoebiasis",
+      "Paromomycin",
+      "Luminal cysts",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0042.png",
+    "explanation_video": null
+  },
+  {
+    "id": 447,
+    "stem": "A 60-year-old smoker presents with painless progressive jaundice, pruritus, dark urine, pale stools and 6-kg weight loss. Ultrasound shows a distended gallbladder without stones and a dilated common bile duct to the distal duct. ALP and bilirubin are markedly elevated. What is the most likely diagnosis?",
+    "options": [
+      "Amoxicillin-clavulanate drug-induced liver injury",
+      "Alcohol-related liver disease",
+      "Diffuse colorectal liver metastases",
+      "Carcinoma of the pancreatic head"
+    ],
+    "correct_index": 3,
+    "explanation": "Pancreatic-head carcinoma is the classic explanation for painless obstructive jaundice with a distended non-tender gallbladder (Courvoisier sign) and distal biliary obstruction. A cholestatic biochemical pattern with markedly raised ALP/GGT and conjugated hyperbilirubinaemia supports extrahepatic obstruction. Cross-sectional pancreas-protocol CT is usually the first staging study once obstruction is identified; MRI/MRCP or EUS may provide additional anatomical or tissue information. Resectability determines treatment: potentially resectable pancreatic-head cancer is managed with pancreaticoduodenectomy in selected patients, often integrated with systemic chemotherapy, whereas unresectable disease requires systemic therapy and symptom-directed biliary drainage when needed. Amoxicillin-clavulanate can cause cholestatic DILI, but it would not explain a dilated CBD and gallbladder.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Pancreatic cancer",
+      "Courvoisier sign",
+      "Obstructive jaundice",
+      "Cholestasis",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 448,
+    "stem": "A colorectal cancer is mucinous and microsatellite-instability high. Which tumour mutation would strongly favour sporadic MLH1 promoter hypermethylation rather than Lynch syndrome?",
+    "options": [
+      "BRAF V600E",
+      "EGFR mutation",
+      "KRAS mutation",
+      "PIK3CA mutation"
+    ],
+    "correct_index": 0,
+    "explanation": "BRAF V600E strongly supports a sporadic mismatch-repair-deficient colorectal cancer arising through MLH1 promoter hypermethylation and makes Lynch syndrome due to germline MLH1 mutation very unlikely. MSI-high status can occur in both Lynch syndrome and sporadic colorectal cancer, so MSI alone does not distinguish them. When tumour immunohistochemistry shows loss of MLH1/PMS2, BRAF V600E testing and/or MLH1 promoter methylation testing helps identify a sporadic pathway before proceeding to germline testing. Lynch syndrome more commonly results from germline pathogenic variants in MLH1, MSH2, MSH6, PMS2 or EPCAM-related silencing. RACP pearl: MSI-high + MLH1/PMS2 loss + BRAF V600E = think sporadic MLH1 methylation.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Lynch syndrome",
+      "MSI",
+      "BRAF V600E",
+      "MLH1 methylation",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 449,
+    "stem": "A nurse sustains a needlestick from a patient who is HBsAg positive. The nurse previously completed hepatitis B vaccination and has documented anti-HBs >1000 IU/L with negative anti-HBc. What hepatitis B post-exposure prophylaxis is required?",
+    "options": [
+      "Start entecavir prophylaxis",
+      "Give hepatitis B immunoglobulin",
+      "No hepatitis B post-exposure prophylaxis is required",
+      "Repeat HBsAg at 6 and 12 weeks as the only intervention"
+    ],
+    "correct_index": 2,
+    "explanation": "A documented vaccine responder with anti-HBs >=10 IU/L is considered protected against hepatitis B, so HBIG or antiviral prophylaxis is not required after an occupational exposure. An anti-HBs titre >1000 IU/L demonstrates strong immunity. The exposed clinician should still follow the institution's needlestick protocol, including wound care, documentation and assessment for other blood-borne viruses, but no HBV-specific prophylaxis is needed when protective immunity is documented. RACP pearl: the key occupational-exposure threshold is anti-HBs >=10 IU/L after a complete vaccine course.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Needlestick injury",
+      "Hepatitis B vaccination",
+      "Anti-HBs",
+      "Post-exposure prophylaxis",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 450,
+    "stem": "A patient with biopsy-proven coeliac disease has persistent malabsorptive symptoms and ongoing villous atrophy despite treatment. What is the most common explanation?",
+    "options": [
+      "Ongoing dietary gluten exposure",
+      "Pancreatic exocrine insufficiency",
+      "Small-bowel Crohn disease",
+      "Refractory collagenous enteropathy"
+    ],
+    "correct_index": 0,
+    "explanation": "Continued gluten exposure, often inadvertent, is by far the most common explanation for persistent symptoms and villous atrophy in established coeliac disease. The first step is therefore to reconfirm the original diagnosis and undertake detailed dietetic review for hidden gluten and cross-contamination, with coeliac serology used as supportive rather than definitive evidence of adherence. Other causes of persistent symptoms include lactose intolerance, IBS, pancreatic insufficiency, microscopic colitis, SIBO and medication effects. True refractory coeliac disease is rare and should only be diagnosed after persistent villous atrophy despite a strict gluten-free diet and exclusion of mimics; type II refractory disease carries a significant risk of enteropathy-associated T-cell lymphoma.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Coeliac disease",
+      "Villous atrophy",
+      "Gluten exposure",
+      "Refractory coeliac disease",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 451,
+    "stem": "What is the principal haemodynamic mechanism by which terlipressin reduces portal pressure in acute variceal bleeding?",
+    "options": [
+      "Splanchnic vasoconstriction",
+      "Splanchnic vasodilatation",
+      "Selective peripheral vasoconstriction without portal effect",
+      "Peripheral vasodilatation"
+    ],
+    "correct_index": 0,
+    "explanation": "Terlipressin is a vasopressin analogue whose clinically important portal effect is V1-mediated splanchnic arteriolar vasoconstriction. This reduces splanchnic blood flow into the portal venous system, lowering portal pressure and variceal flow. In acute variceal haemorrhage, vasoactive therapy is started early alongside resuscitation, prophylactic antibiotics and urgent endoscopy. Terlipressin can cause systemic vasoconstrictor complications including myocardial, mesenteric and peripheral ischaemia, as well as hyponatraemia. The same vasoconstrictor mechanism is used with albumin in selected hepatorenal syndrome-AKI. RACP pearl: V1 = vascular constriction; V2 = collecting-duct water retention.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Terlipressin",
+      "Portal hypertension",
+      "V1 receptor",
+      "Variceal bleeding",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 452,
+    "stem": "A biopsy from the gastro-oesophageal junction in a patient with Barrett oesophagus is most characteristically expected to show which histological change?",
+    "options": [
+      "Goblet-cell hyperplasia without metaplasia",
+      "Non-specific inflammation only",
+      "Specialised intestinal metaplasia",
+      "Invasive intestinal-type neoplasia"
+    ],
+    "correct_index": 2,
+    "explanation": "Barrett oesophagus is replacement of the normal distal oesophageal stratified squamous epithelium by columnar epithelium with specialised intestinal metaplasia, classically containing goblet cells. It is an acquired response to chronic gastro-oesophageal reflux and increases the risk of oesophageal adenocarcinoma through a metaplasia-dysplasia-carcinoma sequence. The diagnosis requires both appropriate endoscopic appearance and histological confirmation according to local criteria. Non-dysplastic Barrett disease is managed with reflux control and surveillance at intervals determined by segment length and guideline framework; confirmed dysplasia is increasingly treated endoscopically with resection of visible lesions plus ablation rather than surgery alone. RACP pearl: Barrett = intestinal metaplasia, not merely goblet-cell 'hyperplasia'.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Barrett oesophagus",
+      "Intestinal metaplasia",
+      "Goblet cells",
+      "Oesophageal adenocarcinoma",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 453,
+    "stem": "A 24-year-old man with Crohn disease previously underwent resection of the terminal ileum. He now has chronic watery diarrhoea, but faecal calprotectin, ileocolonoscopy and MR enterography show no active inflammation. What is the most likely cause?",
+    "options": [
+      "Bile acid malabsorption",
+      "Clostridioides difficile infection",
+      "Coeliac disease",
+      "Short-bowel syndrome"
+    ],
+    "correct_index": 0,
+    "explanation": "Terminal ileal resection impairs bile-acid reabsorption. When the remaining liver can still maintain the bile-acid pool, excess bile acids spill into the colon and stimulate chloride and water secretion, causing chronic watery bile-acid diarrhoea. Normal inflammatory markers, endoscopy and imaging make recurrent Crohn disease unlikely. A therapeutic trial of a bile-acid sequestrant such as cholestyramine can support the diagnosis, although formal testing may be available in some settings. With very extensive ileal resection, the bile-acid pool can become depleted and steatorrhoea/fat-soluble-vitamin malabsorption may dominate; true short-bowel syndrome generally requires much more extensive small-bowel loss.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Crohn disease",
+      "Bile acid malabsorption",
+      "Terminal ileum",
+      "Cholestyramine",
+      "Gastroenterology",
+      "2021 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 454,
+    "stem": "A 53-year-old man undergoing screening colonoscopy is incidentally found to have several colonic angiodysplasias. He has no bleeding symptoms, his haemoglobin and MCV are normal, and he is not anticoagulated. What is the most appropriate management?",
+    "options": [
+      "Observation without endoscopic treatment",
+      "Argon plasma coagulation",
+      "Echocardiography for Heyde syndrome",
+      "Right hemicolectomy"
+    ],
+    "correct_index": 0,
+    "explanation": "Incidental asymptomatic angiodysplasia without anaemia or overt/occult bleeding does not require treatment. Angiodysplasias are acquired dilated, tortuous mucosal and submucosal vessels, most commonly found in the caecum/right colon in older adults. Endoscopic therapy such as argon plasma coagulation is used when lesions are believed to be causing clinically significant bleeding. Heyde syndrome describes the association of severe aortic stenosis, acquired von Willebrand factor deficiency and GI angiodysplasia, but an echocardiogram is not indicated merely because an incidental lesion is seen in an asymptomatic patient. RACP pearl: treat the bleeding patient, not the incidental angiodysplasia.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Angiodysplasia",
+      "Lower GI bleeding",
+      "Argon plasma coagulation",
+      "Observation",
+      "Gastroenterology",
+      "2021 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 455,
+    "stem": "A 27-year-old man with Crohn disease treated with infliximab develops photosensitive annular erythematous lesions over the neck, upper back and forearms with minimal scale. Which diagnosis is most likely?",
+    "options": [
+      "Dermatitis herpetiformis",
+      "Granuloma annulare",
+      "Paradoxical psoriasis",
+      "Subacute cutaneous lupus"
+    ],
+    "correct_index": 3,
+    "explanation": "Subacute cutaneous lupus is favoured by the photosensitive annular morphology. Anti-TNF therapy can paradoxically induce several immune phenomena, including psoriasis and lupus-like syndromes, so this is an image/morphology discriminator rather than a simple adverse-effect association. SCLE typically affects sun-exposed upper trunk and arms and may be associated with ANA, anti-Ro/SSA and sometimes anti-dsDNA depending on the drug-induced phenotype. Anti-TNF psoriasis is also exam-worthy but more often has plaque or palmoplantar pustular morphology. Management depends on severity and the importance of the biologic to IBD control; persistent or systemic lupus usually leads to withdrawal of the anti-TNF agent.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Infliximab",
+      "Subacute cutaneous lupus",
+      "Anti-TNF adverse effect",
+      "Crohn disease",
+      "Gastroenterology",
+      "2021 Oct CA"
+    ],
+    "image_path": "images/q0040.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 456,
+    "stem": "A young adult is being investigated for suspected Wilson disease. Which biochemical pattern is most supportive of the diagnosis?",
+    "options": [
+      "Low ceruloplasmin with increased urinary/non-ceruloplasmin-bound copper and an AST:ALT ratio that may exceed 1",
+      "High ceruloplasmin with low urinary copper and isolated ALT elevation",
+      "Normal ceruloplasmin with low urinary copper and raised ALP",
+      "High ceruloplasmin with high ferritin and transferrin saturation"
+    ],
+    "correct_index": 0,
+    "explanation": "Wilson disease is caused by biallelic ATP7B dysfunction, impairing hepatic incorporation of copper into ceruloplasmin and biliary copper excretion. Typical chronic disease therefore has low ceruloplasmin and increased 24-hour urinary copper; non-ceruloplasmin-bound copper is increased. A key correction to the original recall is that total serum copper is often low in stable Wilson disease because most circulating copper is normally ceruloplasmin-bound. In acute Wilson liver failure, however, hepatocyte necrosis can release copper and raise total serum copper. Other high-yield acute-Wilson clues are Coombs-negative haemolysis, a relatively low ALP for the degree of hyperbilirubinaemia and AST often exceeding ALT. Diagnosis integrates biochemistry, slit-lamp examination, hepatic copper/genetics and the Leipzig framework rather than relying on one marker.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Wilson disease",
+      "ATP7B",
+      "Ceruloplasmin",
+      "Copper",
+      "Gastroenterology",
+      "2021 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 457,
+    "stem": "Brush-border lactase hydrolyses lactose into glucose and which other monosaccharide?",
+    "options": [
+      "Fructose",
+      "Galactose",
+      "Maltose",
+      "Sucrose"
+    ],
+    "correct_index": 1,
+    "explanation": "Lactose is a disaccharide composed of glucose and galactose. Lactase-phlorizin hydrolase on the small-intestinal brush border cleaves lactose so the two monosaccharides can be absorbed. Lactase activity normally declines after weaning in much of the world's population; unabsorbed lactose is then osmotically active and fermented by colonic bacteria, causing bloating, flatulence and diarrhoea. Secondary lactase deficiency can occur after mucosal injury such as gastroenteritis or active coeliac disease. By contrast, sucrose is glucose plus fructose, and maltose consists of two glucose units.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Lactose",
+      "Lactase",
+      "Galactose",
+      "Carbohydrate digestion",
+      "Gastroenterology",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 458,
+    "stem": "What is the primary mechanism by which lactulose acts as an aperient?",
+    "options": [
+      "Promotes water absorption from stool",
+      "Directly activates intestinal electrolyte pumps",
+      "Remains osmotically active in the lumen and retains water",
+      "Acts as a surfactant to alter stool surface tension"
+    ],
+    "correct_index": 2,
+    "explanation": "Lactulose is a synthetic, poorly absorbed disaccharide that reaches the colon largely intact and retains water osmotically, softening stool and increasing stool volume. Colonic bacteria metabolise it to organic acids, which further increase osmotic effect and may stimulate motility. In hepatic encephalopathy, bacterial acidification of colonic contents also shifts diffusible ammonia (NH3) toward ammonium (NH4+), which is less readily absorbed, and increases nitrogen excretion in stool. Lactulose is titrated to regular soft bowel motions rather than to diarrhoea. RACP pearl: its constipation effect is osmotic; its encephalopathy effect additionally involves colonic acidification and altered nitrogen handling.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Lactulose",
+      "Osmotic laxative",
+      "Hepatic encephalopathy",
+      "Ammonia",
+      "Gastroenterology",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 459,
+    "stem": "Which finding is most specific for pernicious anaemia as the cause of vitamin B12 deficiency?",
+    "options": [
+      "Elevated methylmalonic acid",
+      "Anti-intrinsic-factor antibodies",
+      "Anti-parietal-cell antibodies",
+      "Low serum vitamin B12"
+    ],
+    "correct_index": 1,
+    "explanation": "Anti-intrinsic-factor antibodies are highly specific for pernicious anaemia, although sensitivity is limited. Anti-parietal-cell antibodies are more sensitive but much less specific and can occur in other autoimmune disease and in healthy older people. Low B12 and elevated methylmalonic acid confirm B12 deficiency but do not identify its cause. Pernicious anaemia results from autoimmune destruction of gastric parietal cells and loss of intrinsic factor, causing impaired terminal-ileal B12 absorption; hypergastrinaemia and achlorhydria may accompany it. Patients also have increased risk of gastric adenocarcinoma and type I gastric neuroendocrine tumours because of chronic autoimmune atrophic gastritis.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Pernicious anaemia",
+      "Intrinsic factor antibody",
+      "Vitamin B12",
+      "Autoimmune gastritis",
+      "Gastroenterology",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 460,
+    "stem": "Which antiemetic is a neurokinin-1 (NK1) receptor antagonist that blocks the actions of substance P?",
+    "options": [
+      "Aprepitant",
+      "Cyclizine",
+      "Domperidone",
+      "Ondansetron"
+    ],
+    "correct_index": 0,
+    "explanation": "Aprepitant is an NK1 receptor antagonist. Substance P acting at NK1 receptors in the brainstem emetic network is important particularly in chemotherapy-induced nausea and vomiting, including delayed emesis. NK1 antagonists include aprepitant, fosaprepitant, netupitant and rolapitant. Ondansetron is a 5-HT3 antagonist, domperidone is a peripheral dopamine D2 antagonist with prokinetic activity, and cyclizine is predominantly an H1-antihistamine with anticholinergic effects. RACP memory aid: '-pitant' = NK1/substance P blockade.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Aprepitant",
+      "NK1 receptor",
+      "Substance P",
+      "Antiemetic",
+      "Gastroenterology",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 461,
+    "stem": "Which antiemetic is a selective 5-HT3 receptor antagonist?",
+    "options": [
+      "Aprepitant",
+      "Cyclizine",
+      "Domperidone",
+      "Ondansetron"
+    ],
+    "correct_index": 3,
+    "explanation": "Ondansetron blocks 5-HT3 receptors on vagal afferents in the gastrointestinal tract and within central emetic pathways, including the area postrema. It is especially useful for chemotherapy-, radiotherapy- and postoperative-related nausea. Important adverse effects include constipation, headache and QT prolongation, with risk amplified by electrolyte abnormalities or other QT-prolonging drugs. Aprepitant is an NK1 antagonist, cyclizine is an H1-antihistamine/anticholinergic and domperidone is a peripheral D2 antagonist. RACP pearl: 5-HT3 antagonists end in '-setron'.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Ondansetron",
+      "5-HT3 receptor",
+      "Antiemetic",
+      "QT prolongation",
+      "Gastroenterology",
+      "2022 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 462,
+    "stem": "A patient with advanced chronic liver disease develops platypnoea and orthodeoxia: dyspnoea and hypoxaemia worsen when standing and improve when supine. Which physiological abnormality explains this?",
+    "options": [
+      "Increased left-ventricular preload",
+      "Reduced cardiac output",
+      "Raised intra-abdominal pressure",
+      "Intrapulmonary capillary and precapillary vasodilatation"
+    ],
+    "correct_index": 3,
+    "explanation": "This is hepatopulmonary syndrome, caused by diffuse intrapulmonary vascular dilatation and abnormal pulmonary angiogenesis in chronic liver disease/portal hypertension. Dilated pulmonary vessels cause severe V/Q mismatch, diffusion limitation and true intrapulmonary shunting. The abnormalities are often greatest at the lung bases; standing increases perfusion to these dependent regions, worsening oxygenation and producing orthodeoxia/platypnoea. Contrast-enhanced echocardiography demonstrates delayed appearance of agitated-saline bubbles in the left heart after several beats, indicating an intrapulmonary rather than intracardiac shunt. Supplemental oxygen treats hypoxaemia, but liver transplantation is the definitive therapy with survival benefit.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatopulmonary syndrome",
+      "Orthodeoxia",
+      "Intrapulmonary vascular dilatation",
+      "Cirrhosis",
+      "Gastroenterology",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 463,
+    "stem": "A 36-year-old man has acute severe ulcerative colitis with >6 bloody stools/day, tachycardia and inflammatory markers. Flexible sigmoidoscopy confirms active extensive colitis. After 3 days of IV hydrocortisone he remains clinically severe without perforation or toxic megacolon. Which treatment is an appropriate rescue therapy to reduce colectomy risk?",
+    "options": [
+      "Further pulse methylprednisolone",
+      "Azathioprine",
+      "Infliximab",
+      "Methotrexate"
+    ],
+    "correct_index": 2,
+    "explanation": "Steroid-refractory acute severe ulcerative colitis requires rescue therapy with infliximab or ciclosporin in an appropriate patient, alongside early colorectal-surgical involvement. The Oxford/Travis day-3 assessment is high yield: >8 stools/day, or 3-8 stools/day with CRP >45 mg/L, predicts a high risk of colectomy. Simply continuing or escalating corticosteroid after failure delays effective rescue and can increase complications; azathioprine has an onset measured in weeks to months and is not acute rescue therapy. Absolute complications such as perforation, uncontrolled haemorrhage or toxic megacolon with deterioration require urgent colectomy rather than biologic rescue. RACP pearl: ASUC is a time-critical medical-surgical disease - assess response at day 3 and do not drift on ineffective steroids.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Ulcerative colitis",
+      "Acute severe UC",
+      "Infliximab",
+      "Rescue therapy",
+      "Gastroenterology",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 464,
+    "stem": "A malnourished patient presents with confusion, gait ataxia and ophthalmoplegia, consistent with Wernicke encephalopathy. Which treatment regimen is most appropriate?",
+    "options": [
+      "Oral thiamine 100 mg three times daily",
+      "Oral thiamine 300 mg three times daily",
+      "IV thiamine 100 mg once daily",
+      "High-dose parenteral thiamine, e.g. 300-500 mg IV three times daily initially"
+    ],
+    "correct_index": 3,
+    "explanation": "Wernicke encephalopathy is a medical emergency and requires high-dose parenteral thiamine; oral therapy is inadequate in established disease because absorption is unreliable and insufficient for rapid CNS repletion. Australian and international protocols vary because high-quality dose-comparison evidence is limited, but commonly used treatment regimens provide at least 500 mg/day parenterally, and many specialist protocols use 300-500 mg IV three times daily for the first several days. The original recall offered 300 mg IV TDS, while widely used international guidance often uses 500 mg IV TDS; this reconstructed option deliberately captures the clinically correct high-dose parenteral principle rather than teaching one uncertain number as universal. Give thiamine before or as soon as possible with carbohydrate, correct magnesium because it is required for thiamine-dependent enzymes, and continue treatment while neurological improvement occurs. RACP pearl: Wernicke = treat immediately; do not wait for the full classic triad.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Wernicke encephalopathy",
+      "Thiamine",
+      "Alcohol-related disease",
+      "Neurological emergency",
+      "Gastroenterology",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 465,
+    "stem": "A 50-year-old woman had a 3-cm gastric antral ulcer treated endoscopically for bleeding. She is clinically well 8 weeks later. The initial recall does not document definitive benign histology or H. pylori status. What is the most appropriate next step?",
+    "options": [
+      "Discharge without further gastric assessment",
+      "Repeat gastroscopy to document healing and exclude malignancy",
+      "Urea breath test alone with no repeat endoscopy",
+      "Fructose hydrogen breath test"
+    ],
+    "correct_index": 1,
+    "explanation": "A gastric ulcer generally warrants repeat upper endoscopy after an appropriate healing interval when malignancy has not been definitively excluded, because gastric cancer can ulcerate and initial biopsies can miss neoplasia. Follow-up endoscopy confirms healing and allows repeat biopsy of a persistent or suspicious lesion. This differs from an uncomplicated duodenal ulcer, where routine repeat endoscopy is usually unnecessary once H. pylori/NSAID issues are addressed and symptoms resolve. H. pylori testing remains essential, but a breath test alone does not answer whether a previously large gastric ulcer has healed or was malignant. RACP pearl: gastric ulcer = think biopsy and healing confirmation; duodenal ulcer follow-up is usually less endoscopy-intensive.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Gastric ulcer",
+      "Repeat gastroscopy",
+      "Gastric cancer",
+      "H. pylori",
+      "Gastroenterology",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 466,
+    "stem": "A 30-year-old woman with primary sclerosing cholangitis develops 6 months of bloody diarrhoea and bloating. Which investigation is most likely to establish the associated gastrointestinal diagnosis?",
+    "options": [
+      "CT colonography",
+      "Pelvic MRI",
+      "MR enterography",
+      "Ileocolonoscopy with biopsies",
+      "Capsule endoscopy",
+      "Stool culture",
+      "Tagged red-cell scan"
+    ],
+    "correct_index": 3,
+    "explanation": "PSC is strongly associated with inflammatory bowel disease, particularly ulcerative colitis, and the appropriate diagnostic test for chronic bloody diarrhoea is ileocolonoscopy with segmental biopsies. PSC-associated colitis may be relatively mild symptomatically yet carries a substantially increased colorectal-cancer risk, so colonoscopic surveillance is important once concomitant IBD is identified. CT colonography does not provide mucosal biopsies, and capsule endoscopy is not the first test for suspected colitis. RACP pearl: a new diagnosis of PSC should prompt assessment for IBD even when bowel symptoms are minimal.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "PSC",
+      "Inflammatory bowel disease",
+      "Colonoscopy",
+      "Ulcerative colitis",
+      "Gastroenterology",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 467,
+    "stem": "A 28-year-old woman has recurrent right-iliac-fossa pain, iron-deficiency anaemia and a history of perianal fistula. Which investigation is most useful for defining suspected small-bowel Crohn disease and its extent?",
+    "options": [
+      "CT colonography",
+      "Pelvic MRI alone",
+      "MR enterography",
+      "Routine gastroscopy",
+      "Capsule endoscopy as the first test despite possible stenosis",
+      "Stool culture",
+      "Tagged red-cell scan"
+    ],
+    "correct_index": 2,
+    "explanation": "MR enterography is particularly useful for suspected small-bowel Crohn disease because it assesses mural inflammation, bowel-wall thickening, strictures, penetrating complications and extra-luminal disease without ionising radiation. A perianal fistula is a major clue to Crohn disease, although dedicated pelvic MRI is the preferred test for mapping the perianal fistula itself. Ileocolonoscopy with terminal-ileal intubation is also fundamental in Crohn assessment, but in this EMQ the question is targeting imaging of small-bowel disease beyond the reach of colonoscopy. Capsule endoscopy is highly sensitive for subtle mucosal disease but should be avoided or preceded by patency assessment when a stricture is possible.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Crohn disease",
+      "MR enterography",
+      "Perianal fistula",
+      "Small bowel imaging",
+      "Gastroenterology",
+      "2020 CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 468,
+    "stem": "A 27-year-old man with severe Crohn disease has received infliximab for 2 years. He develops annular erythematous photosensitive lesions across the back and forearms with little scale. What is the most likely diagnosis?",
+    "options": [
+      "Granuloma annulare",
+      "Tinea corporis",
+      "Paradoxical psoriasis",
+      "Subacute cutaneous lupus"
+    ],
+    "correct_index": 3,
+    "explanation": "The morphology described is most consistent with anti-TNF-associated subacute cutaneous lupus. Infliximab can trigger lupus-like autoimmunity and can also cause paradoxical psoriasis, which is why the rash description is critical. SCLE is typically annular or papulosquamous and favours sun-exposed upper trunk and arms. Drug-associated cases often develop ANA and anti-Ro/SSA, while anti-dsDNA may be present with anti-TNF lupus. If disease is significant or persistent, the offending anti-TNF is usually withdrawn and an alternative IBD strategy selected; mild cutaneous disease can sometimes be managed with dermatological therapy while treatment decisions are individualised.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Infliximab",
+      "Subacute cutaneous lupus",
+      "Crohn disease",
+      "Anti-TNF",
+      "Gastroenterology",
+      "2022 Feb CA"
+    ],
+    "image_path": "images/q0040.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 469,
+    "stem": "A 38-year-old woman has progressive dysphagia to both solids and liquids. Chest X-ray shows a dilated oesophagus with an air-fluid level, and gastroscopy shows normal mucosa with a markedly dilated proximal oesophagus and no obstructing lesion. What is the best next diagnostic test?",
+    "options": [
+      "Gastric emptying scintigraphy",
+      "High-resolution oesophageal manometry",
+      "CT chest/abdomen/pelvis",
+      "Repeat barium swallow as the definitive test"
+    ],
+    "correct_index": 1,
+    "explanation": "The presentation is highly suggestive of achalasia. High-resolution oesophageal manometry is the diagnostic gold standard and demonstrates impaired relaxation of the lower oesophageal sphincter with absent normal peristalsis; it also classifies achalasia into manometric subtypes, which can guide treatment. Endoscopy is important first to exclude a mechanical lesion or pseudoachalasia, particularly in older patients or with rapid weight loss. A timed barium oesophagram is very useful for morphology and treatment response and may show a bird-beak appearance, but manometry confirms the motility disorder. Treatment options include pneumatic dilatation, laparoscopic Heller myotomy and POEM depending on subtype and patient factors.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Achalasia",
+      "Oesophageal manometry",
+      "Dysphagia",
+      "Motility disorder",
+      "Gastroenterology",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 470,
+    "stem": "A patient with stricturing Crohn disease underwent resection of approximately 100 cm of terminal ileum with ileocolonic anastomosis. Months later he has chronic watery diarrhoea, normal inflammatory markers and an intact non-inflamed anastomosis. What is the most likely mechanism?",
+    "options": [
+      "Generalised short-bowel syndrome",
+      "Clostridioides difficile infection",
+      "Bile acid malabsorption",
+      "Active recurrent Crohn disease"
+    ],
+    "correct_index": 2,
+    "explanation": "Loss of terminal ileal bile-acid transport allows excessive bile acids to enter the colon, where they stimulate secretion and accelerate transit, producing watery diarrhoea. Normal inflammatory markers and a normal anastomosis argue against active Crohn disease. The relationship with resection length is nuanced: limited ileal resection often produces bile-acid diarrhoea responsive to sequestrants, whereas very extensive ileal loss can deplete the total bile-acid pool and produce steatorrhoea, fat-soluble-vitamin deficiency and a broader short-bowel phenotype. B12 deficiency is also a long-term risk because intrinsic-factor-B12 absorption occurs in the terminal ileum.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Crohn disease",
+      "Bile acid malabsorption",
+      "Terminal ileal resection",
+      "Diarrhoea",
+      "Gastroenterology",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 471,
+    "stem": "Which histological change defines Barrett oesophagus?",
+    "options": [
+      "Low-grade dysplasia",
+      "Specialised intestinal metaplasia",
+      "Adenocarcinoma",
+      "Goblet-cell hyperplasia without metaplasia"
+    ],
+    "correct_index": 1,
+    "explanation": "Barrett oesophagus is specialised intestinal metaplasia replacing the normal distal oesophageal squamous mucosa, usually as a consequence of chronic gastro-oesophageal reflux. Goblet cells are characteristic of the intestinal phenotype, but the correct pathological process is metaplasia rather than simple hyperplasia. Barrett epithelium predisposes to dysplasia and oesophageal adenocarcinoma, so surveillance and management are based on segment length and dysplasia status. Confirmed visible dysplasia/neoplasia is managed with endoscopic resection of focal lesions and ablation of residual Barrett mucosa in many patients.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Barrett oesophagus",
+      "Intestinal metaplasia",
+      "Oesophageal adenocarcinoma",
+      "Gastroenterology",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 472,
+    "stem": "What is the principal mechanism of nutrient malabsorption in untreated coeliac disease?",
+    "options": [
+      "Reduced absorptive intestinal surface area from villous atrophy",
+      "Failure of pancreatic carbohydrate digestion",
+      "Gluten-triggered active chloride secretion as the primary defect",
+      "Isolated destruction of colonic epithelium"
+    ],
+    "correct_index": 0,
+    "explanation": "Coeliac disease is an immune-mediated enteropathy triggered by gluten in genetically susceptible patients, usually carrying HLA-DQ2 or DQ8. Tissue transglutaminase modifies gliadin peptides, enhancing their presentation to T cells and driving mucosal inflammation. The characteristic histology is increased intraepithelial lymphocytes, crypt hyperplasia and villous atrophy; flattening of villi markedly reduces absorptive surface area and produces malabsorption of iron, folate, calcium, fat and other nutrients. Disease is often most prominent proximally, explaining why iron deficiency is common. Diagnosis uses coeliac serology, particularly IgA tTG with total IgA, followed by duodenal biopsy in most adults while the patient remains on gluten.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Coeliac disease",
+      "Villous atrophy",
+      "Malabsorption",
+      "Tissue transglutaminase",
+      "Gastroenterology",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 473,
+    "stem": "A 35-year-old man develops confusion, gait ataxia and ophthalmoplegia after Roux-en-Y gastric bypass while consuming almost no nutritionally complete food for several weeks. Which vitamin deficiency is most likely?",
+    "options": [
+      "Vitamin B1 (thiamine)",
+      "Vitamin B2 (riboflavin)",
+      "Vitamin B3 (niacin)",
+      "Vitamin B12 (cobalamin)"
+    ],
+    "correct_index": 0,
+    "explanation": "This is Wernicke encephalopathy from thiamine deficiency. Bariatric surgery increases risk through restricted intake, vomiting and altered absorption, and body thiamine stores are small enough that severe deficiency can develop within weeks. The classic triad of confusion, ataxia and ophthalmoplegia is highly suggestive but is present in only a minority of cases; treatment should not wait for imaging or laboratory confirmation. Give high-dose parenteral thiamine urgently and correct magnesium, which is a required cofactor for thiamine-dependent enzymes. Prolonged untreated deficiency can evolve into irreversible Korsakoff amnestic syndrome.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Wernicke encephalopathy",
+      "Thiamine",
+      "Bariatric surgery",
+      "Vitamin B1",
+      "Gastroenterology",
+      "2022 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 474,
+    "stem": "A 35-year-old man has 3 months of bloody diarrhoea with mucus, urgency and tenesmus. He is systemically well, and a trip to Thailand occurred 6 months earlier. CRP is raised. What is the most likely diagnosis?",
+    "options": [
+      "Ulcerative colitis",
+      "Enterohaemorrhagic Escherichia coli infection",
+      "Campylobacter colitis",
+      "Intestinal amoebiasis"
+    ],
+    "correct_index": 0,
+    "explanation": "Ulcerative colitis is the best fit for chronic bloody diarrhoea with urgency and tenesmus. Tenesmus reflects rectal inflammation and is particularly characteristic of distal UC. The prolonged 3-month course and remote travel history make an acute bacterial infectious colitis much less likely, although stool infection testing should still be performed before immunosuppression in a real patient. UC classically begins in the rectum and extends proximally in a continuous pattern, whereas Crohn disease is patchy and can involve any part of the GI tract. RACP pearl: chronic blood + mucus + urgency + tenesmus should make proctocolitis/UC a leading diagnosis.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Ulcerative colitis",
+      "Bloody diarrhoea",
+      "Tenesmus",
+      "Inflammatory bowel disease",
+      "Gastroenterology",
+      "2022 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 475,
+    "stem": "A 27-year-old man with Crohn disease develops a photosensitive annular rash over the neck, upper back and forearms after starting infliximab. Which diagnosis is most likely?",
+    "options": [
+      "Subacute cutaneous lupus",
+      "Paradoxical psoriasis",
+      "Granuloma annulare",
+      "Dermatitis herpetiformis"
+    ],
+    "correct_index": 0,
+    "explanation": "Anti-TNF therapy can produce both paradoxical psoriasis and lupus-like disease. In this reconstructed stem, the annular photosensitive distribution is designed to match subacute cutaneous lupus, which typically affects sun-exposed upper trunk and arms with relatively little scale. Psoriasis would be more likely if the image showed well-demarcated plaques or palmoplantar pustulosis. The key RACP lesson is not simply that infliximab causes 'a rash', but that anti-TNF blockade can paradoxically dysregulate type I interferon signalling and trigger distinct autoimmune skin phenotypes.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Infliximab",
+      "Subacute cutaneous lupus",
+      "Anti-TNF",
+      "Drug eruption",
+      "Gastroenterology",
+      "2022 Oct MS"
+    ],
+    "image_path": "images/q0040.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 476,
+    "stem": "What histological finding defines Barrett oesophagus on biopsy from the distal oesophagus/gastro-oesophageal junction?",
+    "options": [
+      "Squamous dysplasia",
+      "Intestinal metaplasia with goblet cells",
+      "Foveolar hyperplasia",
+      "Adenocarcinoma"
+    ],
+    "correct_index": 1,
+    "explanation": "Barrett oesophagus is defined by replacement of normal distal oesophageal squamous epithelium by columnar epithelium with specialised intestinal metaplasia, classically containing goblet cells. This metaplastic epithelium develops in response to chronic reflux and carries an increased risk of progression through dysplasia to oesophageal adenocarcinoma. RACP pearl: the answer is metaplasia; dysplasia and carcinoma are later complications rather than the defining lesion.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Barrett oesophagus",
+      "Intestinal metaplasia",
+      "Goblet cells",
+      "Gastroenterology",
+      "2022 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 477,
+    "stem": "A 45-year-old man has an NSAID-associated duodenal ulcer treated endoscopically. H. pylori testing is negative and the NSAID is stopped. What is the usual minimum course of proton-pump inhibitor therapy to allow healing?",
+    "options": [
+      "1 week",
+      "4 weeks",
+      "8 weeks",
+      "6 months"
+    ],
+    "correct_index": 1,
+    "explanation": "A 4-week PPI course is usually sufficient for uncomplicated NSAID-related duodenal-ulcer healing once the offending NSAID is stopped, although treatment is individualised according to ulcer size, ongoing NSAID requirement, bleeding severity and healing response. Gastric ulcers are often treated for longer, commonly around 8 weeks, and may require repeat endoscopy to document healing and exclude malignancy. If NSAID therapy must continue, ongoing gastroprotection may be required. RACP pearl: duodenal ulcers generally heal faster than gastric ulcers; 4 weeks versus around 8 weeks is a useful exam distinction.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Peptic ulcer disease",
+      "NSAID",
+      "PPI",
+      "Duodenal ulcer",
+      "Gastroenterology",
+      "2022 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 478,
+    "stem": "What is the principal pathophysiological mechanism of malabsorption in untreated coeliac disease?",
+    "options": [
+      "Reduced intestinal absorptive surface area due to villous atrophy",
+      "Reduced pancreatic enzyme secretion",
+      "Primary bile-acid deficiency",
+      "Accelerated colonic transit only"
+    ],
+    "correct_index": 0,
+    "explanation": "Immune-mediated villous atrophy reduces the effective absorptive surface area of the small intestine. Gluten-derived peptides are deamidated by tissue transglutaminase and presented via HLA-DQ2/DQ8, driving T-cell-mediated mucosal injury with increased intraepithelial lymphocytes, crypt hyperplasia and villous blunting. The proximal small bowel is often most affected, explaining iron and folate deficiency, while severe disease can cause broader nutrient malabsorption. RACP pearl: coeliac malabsorption is fundamentally a mucosal-surface-area problem.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Coeliac disease",
+      "Villous atrophy",
+      "Malabsorption",
+      "Gastroenterology",
+      "2022 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 479,
+    "stem": "A man with decompensated cirrhosis and tense ascites develops AKI: creatinine rises from 90 to 240 micromol/L. Diuretics are stopped and he receives albumin 1 g/kg, but renal function does not improve. There is no shock, nephrotoxin exposure, proteinuria, haematuria or structural renal abnormality. Urine sodium is very low. What is the most likely diagnosis?",
+    "options": [
+      "Acute tubular necrosis",
+      "Hepatorenal syndrome-AKI",
+      "Acute interstitial nephritis",
+      "Obstructive uropathy"
+    ],
+    "correct_index": 1,
+    "explanation": "This is hepatorenal syndrome-AKI, a functional renal failure occurring in advanced cirrhosis with portal hypertension and severe circulatory dysfunction. Splanchnic vasodilatation lowers effective arterial volume, activating the sympathetic nervous system, renin-angiotensin-aldosterone system and vasopressin; intense renal vasoconstriction then reduces GFR despite structurally intact kidneys. HRS-AKI is a diagnosis made after excluding shock, nephrotoxins and intrinsic/obstructive renal disease and assessing response to volume expansion. Treatment uses a vasoconstrictor, now commonly terlipressin where appropriate, together with albumin, while urgently addressing triggers and assessing transplant candidacy. RACP pearl: cirrhosis + ascites + persistent AKI after appropriate volume assessment with bland urine = think HRS-AKI.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatorenal syndrome",
+      "Cirrhosis",
+      "AKI",
+      "Terlipressin",
+      "Gastroenterology",
+      "2022 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 480,
+    "stem": "A 45-year-old woman develops crampy abdominal pain, palpitations and diarrhoea about 15 minutes after meals following Roux-en-Y gastric bypass. What is the most likely diagnosis?",
+    "options": [
+      "Early dumping syndrome",
+      "Late dumping syndrome",
+      "Gastroparesis",
+      "Small intestinal bacterial overgrowth"
+    ],
+    "correct_index": 0,
+    "explanation": "Early dumping syndrome occurs within about 10-30 minutes of a meal after gastric surgery. Rapid delivery of hyperosmolar chyme into the small bowel draws fluid into the intestinal lumen and triggers vasoactive gut hormones, causing abdominal cramping, diarrhoea, bloating, tachycardia, flushing and light-headedness. Late dumping occurs 1-3 hours after meals and is driven by an exaggerated insulin response causing post-prandial hypoglycaemia. First-line management is dietary: smaller frequent meals, reduced rapidly absorbed carbohydrate, higher protein/fibre and separation of fluids from meals. RACP pearl: minutes after eating = osmotic early dumping; 1-3 hours later with hypoglycaemia = late dumping.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Dumping syndrome",
+      "Roux-en-Y",
+      "Post-bariatric complication",
+      "Gastroenterology",
+      "2022 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0043.png",
+    "explanation_video": null
+  },
+  {
+    "id": 481,
+    "stem": "A patient has symptomatic gastroparesis after mechanical gastric-outlet obstruction has been excluded. Which prokinetic is commonly used first-line in Australian practice?",
+    "options": [
+      "Domperidone",
+      "Ondansetron",
+      "Aprepitant",
+      "Cyclizine"
+    ],
+    "correct_index": 0,
+    "explanation": "Domperidone is a peripheral dopamine D2 antagonist that removes dopamine-mediated inhibition of acetylcholine release in the enteric nervous system, enhancing gastric motility and accelerating gastric emptying while also providing antiemetic benefit. It penetrates the blood-brain barrier much less than metoclopramide, so extrapyramidal adverse effects are less common. The key limitation is cardiac risk: domperidone can prolong QT and increase ventricular-arrhythmia risk, particularly in older patients, electrolyte disturbance or with interacting QT-prolonging drugs. Gastroparesis management also includes correcting the cause, optimising glucose, small low-fat/low-fibre meals and reviewing medications that delay gastric emptying.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Gastroparesis",
+      "Domperidone",
+      "D2 antagonist",
+      "Prokinetic",
+      "Gastroenterology",
+      "2022 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 482,
+    "stem": "A patient several weeks after bariatric surgery has had very poor oral intake and presents with ophthalmoplegia, nystagmus, gait ataxia and confusion. Which deficiency should be treated immediately?",
+    "options": [
+      "Vitamin B1 (thiamine)",
+      "Vitamin B6",
+      "Vitamin B12",
+      "Vitamin E"
+    ],
+    "correct_index": 0,
+    "explanation": "This is Wernicke encephalopathy due to thiamine deficiency. Bariatric surgery, vomiting and very low intake can deplete limited body thiamine stores rapidly. The neurological diagnosis is clinical and treatment must be immediate with high-dose parenteral thiamine; do not wait for a serum thiamine level or MRI. Correct magnesium as well because thiamine-dependent enzymes require it. RACP pearl: after bariatric surgery, vomiting/poor intake + eye signs/ataxia/confusion = Wernicke until proven otherwise.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Wernicke encephalopathy",
+      "Bariatric surgery",
+      "Thiamine",
+      "Gastroenterology",
+      "2022 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 483,
+    "stem": "Which pregnancy-specific liver disorder carries the greatest risk of maternal acute liver failure and death among these options?",
+    "options": [
+      "Chronic hepatitis B",
+      "Acute fatty liver of pregnancy",
+      "HELLP syndrome",
+      "Intrahepatic cholestasis of pregnancy"
+    ],
+    "correct_index": 1,
+    "explanation": "Acute fatty liver of pregnancy (AFLP) is the intended answer because it can progress rapidly to acute liver failure, hypoglycaemia, coagulopathy, encephalopathy, renal failure and DIC. Modern maternal mortality is far lower than historical reports because recognition and prompt delivery have improved, but AFLP remains a major obstetric-hepatology emergency. Swansea criteria can support diagnosis; typical features include late-pregnancy nausea/vomiting, abdominal pain, jaundice, hypoglycaemia, leukocytosis, renal impairment and coagulopathy. Fetal fatty-acid-oxidation defects, especially LCHAD deficiency, are associated with some cases. Definitive management is prompt delivery with aggressive maternal supportive care and early transplant-centre discussion if acute liver failure develops.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Acute fatty liver of pregnancy",
+      "AFLP",
+      "Pregnancy liver disease",
+      "LCHAD",
+      "Gastroenterology",
+      "2023 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 484,
+    "stem": "A patient with cirrhosis presents with acute oesophageal variceal haemorrhage. Which vasoactive drug has demonstrated a mortality benefit compared with placebo/no vasoactive therapy in the classic evidence base?",
+    "options": [
+      "Terlipressin",
+      "Octreotide",
+      "Somatostatin",
+      "Vasopressin"
+    ],
+    "correct_index": 0,
+    "explanation": "Terlipressin is the classic exam answer. It is a vasopressin analogue that reduces portal inflow through V1-mediated splanchnic vasoconstriction. Acute variceal bleeding management is multimodal: resuscitate with a restrictive transfusion strategy, start vasoactive therapy early, give prophylactic antibiotics and perform urgent endoscopy with band ligation for oesophageal varices. Modern comparative studies do not show terlipressin to be clearly superior to all other vasoactive agents for every outcome, and adverse vasoconstrictor effects are important, but terlipressin has the strongest historical placebo-controlled mortality signal. RACP pearl: the drug is only one component; antibiotics and early endoscopic haemostasis are essential.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Variceal bleeding",
+      "Terlipressin",
+      "Portal hypertension",
+      "Cirrhosis",
+      "Gastroenterology",
+      "2023 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 485,
+    "stem": "A patient presents late after a paracetamol overdose with acute liver injury and is receiving IV N-acetylcysteine. Which combination most strongly supports stopping NAC once the patient is otherwise clinically improving?",
+    "options": [
+      "Paracetamol falling but still detectable, ALT stable, INR <2",
+      "Paracetamol detectable, ALT falling, INR normal",
+      "Paracetamol undetectable, ALT rising, INR worsening",
+      "Paracetamol undetectable, transaminases falling and INR/clinical status improving"
+    ],
+    "correct_index": 3,
+    "explanation": "NAC should be continued beyond the standard infusion when there is ongoing paracetamol exposure, rising aminotransferases, coagulopathy, acidosis or clinical liver failure. Stopping is appropriate only when paracetamol is undetectable and hepatic injury and synthetic function are clearly improving, with the patient clinically well. A falling ALT alone can be misleading in fulminant liver failure because aminotransferases may decline as viable hepatocyte mass is lost; improvement in INR, lactate, acidosis, renal function and encephalopathy matters. Current expert algorithms commonly reassess after 12-20 hours and continue NAC if transaminases remain very high or clinical status has not improved. RACP pearl: undetectable drug + improving liver injury/synthetic function, not simply 'the infusion is finished'.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Paracetamol",
+      "N-acetylcysteine",
+      "Acute liver injury",
+      "INR",
+      "Gastroenterology",
+      "2023 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0044.png",
+    "explanation_video": null
+  },
+  {
+    "id": 486,
+    "stem": "A patient with Child-Pugh B cirrhosis takes ibuprofen 400 mg three times daily, paracetamol 1 g twice daily and low-dose oxycodone. Which medication should be stopped?",
+    "options": [
+      "Paracetamol",
+      "Oxycodone",
+      "All analgesia",
+      "Ibuprofen"
+    ],
+    "correct_index": 3,
+    "explanation": "NSAIDs should generally be avoided in cirrhosis because renal perfusion is prostaglandin-dependent in the vasodilated cirrhotic circulation. Cyclo-oxygenase inhibition can precipitate AKI/hepatorenal physiology, impair natriuresis and diuretic response, worsen ascites and increase gastrointestinal bleeding risk. Paracetamol is usually the preferred simple analgesic when used within a conservative daily dose, commonly <=2 g/day for chronic use in cirrhosis, particularly where alcohol use or malnutrition are concerns. Opioids require cautious dose reduction and monitoring because reduced first-pass metabolism and hepatic clearance increase exposure and can precipitate encephalopathy, but they are not absolutely contraindicated. RACP pearl: cirrhosis + NSAID is a high-risk combination.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Cirrhosis",
+      "NSAID",
+      "Ibuprofen",
+      "Analgesia",
+      "Gastroenterology",
+      "2023 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 487,
+    "stem": "A renal-transplant recipient taking mycophenolate, tacrolimus, prednisolone and antiviral prophylaxis has chronic diarrhoea. Stool studies and CMV testing are negative. Which medication is the most likely cause?",
+    "options": [
+      "Prednisolone",
+      "Valaciclovir/valganciclovir",
+      "Tacrolimus",
+      "Mycophenolate"
+    ],
+    "correct_index": 3,
+    "explanation": "Mycophenolate is particularly associated with chronic diarrhoea and drug-induced enterocolitis. Mycophenolic acid inhibits inosine monophosphate dehydrogenase and purine synthesis; rapidly dividing enterocytes can be injured, producing diarrhoea, abdominal pain, weight loss and characteristic histology that may mimic IBD or graft-versus-host-like injury. Infection, especially CMV and C. difficile, must be excluded before attributing symptoms to immunosuppression. Management may require dose reduction, formulation change or switching therapy in consultation with the transplant team because under-immunosuppression risks graft rejection.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Mycophenolate",
+      "Transplant",
+      "Diarrhoea",
+      "Drug-induced colitis",
+      "Gastroenterology",
+      "2023 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 488,
+    "stem": "A patient with haemochromatosis presents with chronic wrist and MCP pain. Which hand-radiograph finding is most characteristic?",
+    "options": [
+      "Punched-out erosions with overhanging edges",
+      "Hook-like osteophytes at the 2nd/3rd MCP joints with chondrocalcinosis",
+      "Pencil-in-cup deformity",
+      "Marginal erosions with periarticular osteopenia"
+    ],
+    "correct_index": 1,
+    "explanation": "Haemochromatosis arthropathy characteristically affects the second and third MCP joints and can produce distinctive hook-like osteophytes from the radial aspects of the metacarpal heads. Chondrocalcinosis from calcium pyrophosphate deposition is common, linking haemochromatosis to CPPD disease. Punched-out erosions with overhanging edges suggest gout; pencil-in-cup deformity suggests psoriatic arthritis; marginal erosions and periarticular osteopenia are classic for rheumatoid arthritis. RACP pearl: MCP2/3 hook osteophytes + chondrocalcinosis = haemochromatosis.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Haemochromatosis",
+      "CPPD",
+      "Hook osteophytes",
+      "MCP joints",
+      "Gastroenterology",
+      "2023 Oct CA"
+    ],
+    "image_path": "images/q0045.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 489,
+    "stem": "An amoebic liver abscess is treated successfully with metronidazole. Why must a luminal amoebicide subsequently be given?",
+    "options": [
+      "To treat routine bacterial superinfection",
+      "To improve hepatic penetration of metronidazole",
+      "To eradicate intraluminal cysts and prevent relapse/transmission",
+      "To prevent metronidazole-induced neuropathy"
+    ],
+    "correct_index": 2,
+    "explanation": "Metronidazole is highly effective against invasive E. histolytica trophozoites in tissues but does not reliably eradicate luminal cyst carriage. A poorly absorbed luminal agent such as paromomycin is therefore required after tissue-active treatment to eliminate intestinal carriage, prevent recurrence and reduce onward transmission. This two-stage treatment principle applies even when an amoebic liver abscess has clinically resolved. RACP pearl: metronidazole alone is incomplete therapy for invasive amoebiasis.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Amoebic liver abscess",
+      "Entamoeba histolytica",
+      "Paromomycin",
+      "Cysts",
+      "Gastroenterology",
+      "2023 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 490,
+    "stem": "A patient with acute severe ulcerative colitis continues to pass 10 bloody stools/day with CRP 80 mg/L after 3 days of IV hydrocortisone. eGFR is 25 mL/min/1.73 m2. There is no toxic megacolon, perforation, uncontrolled haemorrhage or peritonitis. What is the most appropriate rescue therapy?",
+    "options": [
+      "Infliximab",
+      "Cyclophosphamide",
+      "Further pulse methylprednisolone",
+      "Immediate colectomy without a rescue-therapy trial"
+    ],
+    "correct_index": 0,
+    "explanation": "This is steroid-refractory acute severe UC and requires rescue therapy rather than more corticosteroid. Infliximab or ciclosporin are established rescue options, but severe renal impairment makes calcineurin-inhibitor nephrotoxicity particularly unattractive, so infliximab is an appropriate choice here. The Oxford day-3 criteria (>8 stools/day or 3-8 with CRP >45) identify a very high colectomy-risk group and should trigger an active rescue/surgical plan. Colorectal surgeons should be involved early even when rescue therapy is attempted. Immediate surgery is mandatory for perforation, uncontrolled major haemorrhage, toxic megacolon with deterioration or rescue-therapy failure.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Ulcerative colitis",
+      "ASUC",
+      "Infliximab",
+      "Rescue therapy",
+      "Gastroenterology",
+      "2024 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 491,
+    "stem": "An elderly man with chronic constipation presents with abdominal pain, distension and vomiting. Abdominal X-ray shows a large coffee-bean-shaped loop of colon arising from the pelvis. What is the diagnosis?",
+    "options": [
+      "Sigmoid volvulus",
+      "Malignant large-bowel obstruction",
+      "Severe faecal loading",
+      "Acute colonic pseudo-obstruction"
+    ],
+    "correct_index": 0,
+    "explanation": "The coffee-bean configuration arising from the pelvis is classic for sigmoid volvulus. The sigmoid twists around its mesentery, creating a closed-loop obstruction and progressive distension. Uncomplicated cases are initially treated with urgent flexible sigmoidoscopic decompression, but definitive resection is usually recommended because recurrence is common. Peritonitis, perforation, ischaemia or failed decompression mandates emergency surgery. Caecal volvulus more often produces a displaced kidney/coffee-bean-shaped caecum and is primarily managed surgically rather than endoscopically.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Sigmoid volvulus",
+      "Coffee bean sign",
+      "Bowel obstruction",
+      "Gastroenterology",
+      "2024 Feb CA"
+    ],
+    "image_path": "images/q0041.png",
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 492,
+    "stem": "A patient develops sudden abdominal cramping and bloody diarrhoea shortly after a course of amoxicillin-clavulanate. C. difficile toxin and routine stool culture are negative and symptoms settle rapidly after stopping antibiotics. What is the most likely diagnosis?",
+    "options": [
+      "Non-specific antibiotic-associated diarrhoea",
+      "Antibiotic-associated haemorrhagic colitis due to Klebsiella oxytoca",
+      "Non-toxigenic C. difficile colitis",
+      "Acute diverticulitis"
+    ],
+    "correct_index": 1,
+    "explanation": "Antibiotic-associated haemorrhagic colitis is a distinct C. difficile-negative syndrome classically linked to penicillins and caused by toxin-producing Klebsiella oxytoca. It produces abrupt crampy abdominal pain and bloody diarrhoea during or soon after antibiotic exposure, often with right-sided or segmental colitis. The illness usually resolves rapidly when the culprit antibiotic is withdrawn, so prolonged metronidazole is not usually required once C. difficile has been excluded. RACP pearl: penicillin-class antibiotic + acute bloody diarrhoea + C. difficile negative = think K. oxytoca haemorrhagic colitis.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Klebsiella oxytoca",
+      "Antibiotic-associated colitis",
+      "Bloody diarrhoea",
+      "Gastroenterology",
+      "2024 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 493,
+    "stem": "A patient with eosinophilic oesophagitis remains symptomatic despite an adequate PPI course and swallowed topical budesonide. Repeat endoscopy shows no critical stricture requiring dilation. Which non-pharmacological treatment is the most appropriate next option?",
+    "options": [
+      "Empiric dietary elimination therapy",
+      "Routine oesophageal dilation despite no narrowing",
+      "Mepolizumab",
+      "Long-term systemic prednisolone"
+    ],
+    "correct_index": 0,
+    "explanation": "Dietary elimination is an established anti-inflammatory treatment for EoE and is appropriate when PPI/topical-steroid therapy has been inadequate or when the patient prefers a dietary approach. Current ACG guidance favours starting with a less restrictive empiric elimination strategy, often one- or two-food elimination, with dietitian support. Response must be assessed with repeat endoscopy and biopsy because symptoms correlate poorly with histological activity. Dupilumab is an evidence-based biologic step-up option in treatment-resistant disease, particularly with coexisting atopy; mepolizumab is not a standard EoE therapy. Dilation treats fibrostenotic narrowing but does not treat underlying inflammation and is unnecessary when no relevant stricture exists.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Eosinophilic oesophagitis",
+      "Elimination diet",
+      "Budesonide",
+      "Diet therapy",
+      "Gastroenterology",
+      "2024 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 494,
+    "stem": "A patient who is HBsAg negative but anti-HBc positive is about to receive R-CHOP containing rituximab. What is the best hepatitis B management?",
+    "options": [
+      "No prophylaxis because HBsAg is negative",
+      "Lamivudine prophylaxis only",
+      "Prophylactic tenofovir or entecavir",
+      "Monitor ALT only and treat if jaundice develops"
+    ],
+    "correct_index": 2,
+    "explanation": "Rituximab causes profound B-cell depletion and carries a high risk of HBV reactivation even in patients with resolved infection (HBsAg negative, anti-HBc positive). Potent nucleos(t)ide analogue prophylaxis with a high resistance barrier, such as entecavir or tenofovir, is therefore recommended rather than waiting for reactivation. Lamivudine has a lower barrier to resistance and is generally not preferred for prolonged high-risk prophylaxis. HBV DNA and liver tests are monitored during and after immunosuppression, and prophylaxis must continue for an extended period after B-cell-depleting therapy because reactivation can be delayed. RACP pearl: rituximab + anti-HBc positivity = high-risk reactivation regardless of HBsAg negativity.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatitis B reactivation",
+      "Rituximab",
+      "R-CHOP",
+      "Tenofovir",
+      "Entecavir",
+      "Gastroenterology",
+      "2024 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 495,
+    "stem": "Which colonic polyp has the greatest malignant potential among the following options?",
+    "options": [
+      "Tubular adenoma with low-grade dysplasia",
+      "Tubulovillous adenoma with low-grade dysplasia",
+      "Small distal hyperplastic polyp with inflammatory change",
+      "Inflammatory pseudopolyp"
+    ],
+    "correct_index": 1,
+    "explanation": "Among conventional adenomas, malignant potential increases with increasing villous component, larger size and higher-grade dysplasia. A tubulovillous adenoma therefore carries more malignant potential than a purely tubular adenoma of otherwise comparable size and dysplasia. Inflammatory pseudopolyps arise in chronic colitis and are markers of previous inflammation rather than conventional premalignant adenomas. Small distal hyperplastic polyps usually have minimal malignant potential, although sessile serrated lesions are a separate serrated-pathway precursor and should not be confused with ordinary hyperplastic polyps. RACP pearl: adenoma risk = size + villous architecture + high-grade dysplasia.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Colon polyp",
+      "Tubulovillous adenoma",
+      "Colorectal cancer",
+      "Adenoma",
+      "Gastroenterology",
+      "2024 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 496,
+    "stem": "What is the principal antiviral mechanism of entecavir in chronic hepatitis B?",
+    "options": [
+      "Inhibition of HBV polymerase/reverse transcriptase",
+      "Prevention of virion uncoating",
+      "Blockade of viral entry into hepatocytes",
+      "Viral protease inhibition"
+    ],
+    "correct_index": 0,
+    "explanation": "Entecavir is a guanosine nucleoside analogue that inhibits HBV polymerase, including priming, reverse transcription of pregenomic RNA and synthesis of the positive DNA strand. It is a potent oral suppressive therapy with a high resistance barrier in nucleoside-naive patients. Like tenofovir, it suppresses HBV DNA but does not reliably eradicate cccDNA, so therapy is often prolonged. Entecavir requires renal dose adjustment and is not the preferred antiviral in pregnancy; tenofovir disoproxil fumarate has the strongest pregnancy-prevention data for vertical transmission. RACP pearl: entecavir/tenofovir suppress polymerase; they do not directly eliminate the nuclear HBV reservoir.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Entecavir",
+      "HBV polymerase",
+      "Reverse transcriptase",
+      "Hepatitis B",
+      "Gastroenterology",
+      "2024 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 497,
+    "stem": "Vedolizumab is a gut-selective biologic used in inflammatory bowel disease. What is its molecular target?",
+    "options": [
+      "Alpha4beta7 integrin",
+      "TNF-alpha",
+      "IL-12/23 p40",
+      "JAK1"
+    ],
+    "correct_index": 0,
+    "explanation": "Vedolizumab is a monoclonal antibody against alpha4beta7 integrin on lymphocytes. Blocking alpha4beta7 prevents interaction with MAdCAM-1 on gut vascular endothelium, reducing lymphocyte trafficking specifically into gastrointestinal tissue. This gut selectivity distinguishes vedolizumab from broader systemic immunosuppressive biologics and contributes to its favourable infection-safety profile. In contrast, infliximab targets TNF-alpha, ustekinumab targets IL-12/23 p40 and upadacitinib is a JAK inhibitor. RACP pearl: vedolizumab = alpha4beta7-MAdCAM gut homing blockade.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Vedolizumab",
+      "Alpha4beta7 integrin",
+      "IBD",
+      "MAdCAM-1",
+      "Gastroenterology",
+      "2024 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0046.png",
+    "explanation_video": null
+  },
+  {
+    "id": 498,
+    "stem": "Which gastrointestinal site is most commonly involved by intestinal tuberculosis?",
+    "options": [
+      "Jejunum",
+      "Ileocaecal region",
+      "Rectum",
+      "Gastric antrum"
+    ],
+    "correct_index": 1,
+    "explanation": "The ileocaecal region is the commonest site of gastrointestinal tuberculosis. Proposed reasons include relative physiological stasis, abundant lymphoid tissue in Peyer patches and prolonged contact between luminal contents and mucosa. Intestinal TB can closely mimic Crohn disease with abdominal pain, weight loss, strictures, ulceration and granulomas. Features favouring TB include necrotic lymph nodes, transverse ulcers, a patulous ileocaecal valve and caseating granulomas, but microbiological confirmation is important where possible. RACP pearl: Crohn versus TB is a classic ileocaecal differential, especially in patients from high-prevalence settings.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Intestinal tuberculosis",
+      "Ileocaecal",
+      "Crohn disease differential",
+      "Gastroenterology",
+      "2024 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 499,
+    "stem": "Apart from the splenic flexure, which colonic region is a classic watershed zone vulnerable to ischaemic colitis?",
+    "options": [
+      "Rectosigmoid junction",
+      "Caecal pole",
+      "Mid-ascending colon",
+      "Hepatic flexure"
+    ],
+    "correct_index": 0,
+    "explanation": "The rectosigmoid junction (Sudeck point) is a classic watershed area between the inferior mesenteric and superior rectal arterial territories. The splenic flexure (Griffith point) is another watershed between SMA and IMA territories. These regions are vulnerable during systemic hypoperfusion and can develop ischaemic colitis, typically presenting with crampy left-sided abdominal pain followed by haematochezia. The rectum is relatively protected because of its dual arterial supply. RACP pearl: splenic flexure and rectosigmoid are the two named colonic watershed zones.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Ischaemic colitis",
+      "Watershed area",
+      "Rectosigmoid",
+      "Splenic flexure",
+      "Gastroenterology",
+      "2024 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0047.png",
+    "explanation_video": null
+  },
+  {
+    "id": 500,
+    "stem": "Which complication of chronic liver disease is caused by intrapulmonary vascular dilatation and produces hypoxaemia that may worsen when upright?",
+    "options": [
+      "Hepatopulmonary syndrome",
+      "Portopulmonary hypertension",
+      "Hepatic hydrothorax",
+      "Hepatorenal syndrome"
+    ],
+    "correct_index": 0,
+    "explanation": "Hepatopulmonary syndrome is defined by liver disease or portal hypertension, abnormal oxygenation and intrapulmonary vascular dilatation. The dilated vessels cause V/Q mismatch, diffusion limitation and shunting, often producing platypnoea and orthodeoxia. Portopulmonary hypertension is different: it is pulmonary arterial hypertension occurring in portal hypertension, with elevated pulmonary vascular resistance rather than vasodilated capillaries. Contrast echocardiography with delayed left-sided bubbles is a useful test for HPS. RACP pearl: HPS = dilated pulmonary vessels; portopulmonary hypertension = constricted/remodelled pulmonary arterioles.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatopulmonary syndrome",
+      "Portopulmonary hypertension",
+      "Orthodeoxia",
+      "Gastroenterology",
+      "2024 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 501,
+    "stem": "Which laboratory pattern best describes the HBeAg-positive chronic infection ('immune-tolerant') phase of hepatitis B?",
+    "options": [
+      "HBeAg positive, very high HBV DNA and persistently normal ALT",
+      "HBeAg positive, low HBV DNA and markedly elevated ALT",
+      "HBeAg negative, HBV DNA <2000 IU/mL and normal ALT",
+      "HBsAg negative, anti-HBs positive and HBV DNA undetectable"
+    ],
+    "correct_index": 0,
+    "explanation": "The traditional immune-tolerant phase is characterised by HBeAg positivity, very high HBV DNA and normal or near-normal ALT, reflecting high viral replication with relatively little immune-mediated hepatocyte injury. Modern guidelines increasingly use terminology such as 'HBeAg-positive chronic infection' because the biology is more nuanced than true immunological tolerance. HBeAg-positive chronic hepatitis has elevated ALT with active liver injury; HBeAg-negative chronic infection generally has low HBV DNA and normal ALT; HBeAg-negative chronic hepatitis has active replication/inflammation despite HBeAg loss. Treatment decisions now integrate HBV DNA, ALT, fibrosis/cirrhosis, age, family history, comorbidity, immunosuppression and pregnancy rather than phase labels alone.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatitis B",
+      "HBeAg",
+      "HBV phases",
+      "Immune tolerant",
+      "Gastroenterology",
+      "2024 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0039.png",
+    "explanation_video": null
+  },
+  {
+    "id": 502,
+    "stem": "A patient with cirrhosis takes ibuprofen 400 mg three times daily, paracetamol 1 g twice daily, oxycodone IR 10 mg twice daily and pregabalin. Which analgesic should be ceased because of the specific risks of cirrhosis?",
+    "options": [
+      "Ibuprofen",
+      "Paracetamol",
+      "Oxycodone",
+      "Pregabalin"
+    ],
+    "correct_index": 0,
+    "explanation": "Ibuprofen should be stopped. Patients with cirrhosis have marked splanchnic vasodilatation and depend on renal prostaglandin-mediated afferent arteriolar vasodilatation to preserve kidney perfusion. NSAIDs inhibit this compensation and can precipitate AKI/HRS physiology, impair natriuresis and diuretic response, worsen ascites and increase GI bleeding risk. Paracetamol is generally the preferred simple analgesic when used conservatively; many clinicians limit chronic dosing to around 2 g/day in cirrhosis, particularly with alcohol use or malnutrition. Opioids require reduced doses and close monitoring because they can accumulate and precipitate encephalopathy, but are not universally prohibited. Pregabalin is largely renally cleared, although sedation still matters.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Cirrhosis",
+      "NSAID",
+      "Ibuprofen",
+      "Analgesia",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 503,
+    "stem": "A woman reports persistent difficulty evacuating stool with prolonged straining, a sense of incomplete emptying and tenesmus despite passing soft, thin stools. Colonoscopy, gastroscopy and inflammatory investigations are normal. What is the most likely diagnosis?",
+    "options": [
+      "Slow-transit constipation",
+      "Functional defecation disorder (dyssynergic defecation)",
+      "Laxative overuse",
+      "Intussusception"
+    ],
+    "correct_index": 1,
+    "explanation": "Functional defecation disorder is caused by failure of coordinated pelvic-floor and anal-sphincter relaxation during attempted defecation, often with paradoxical contraction or inadequate propulsive force. The important clue is obstructed evacuation despite soft stool, rather than hard infrequent stool from slow-transit constipation. Diagnosis is supported by anorectal manometry and balloon-expulsion testing, sometimes with defecography. First-line treatment is pelvic-floor biofeedback therapy, which retrains abdominal propulsion and sphincter relaxation and is more effective than simply escalating laxatives when true dyssynergia is present. RACP pearl: soft stool + prolonged straining/incomplete evacuation = think outlet dysfunction.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Dyssynergic defecation",
+      "Functional defecation disorder",
+      "Anorectal manometry",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 504,
+    "stem": "Primary sclerosing cholangitis increases the risk of cholangiocarcinoma and several other gastrointestinal malignancies. Which additional cancer in the options is specifically associated with PSC and warrants gallbladder surveillance?",
+    "options": [
+      "Gallbladder carcinoma",
+      "Pancreatic adenocarcinoma",
+      "Oesophageal adenocarcinoma",
+      "Lung carcinoma"
+    ],
+    "correct_index": 0,
+    "explanation": "PSC is associated with a markedly increased risk of cholangiocarcinoma and also an increased risk of gallbladder neoplasia. Gallbladder polyps or masses in PSC deserve particular attention because malignant potential is higher than in the general population, and hepatobiliary surveillance strategies commonly include regular ultrasound or MRI-based imaging. PSC with colitis also confers a substantially increased colorectal-cancer risk and requires intensive colonoscopic surveillance. Patients with cirrhosis additionally enter standard HCC surveillance pathways. RACP pearl: PSC cancer triad to remember = cholangiocarcinoma, gallbladder carcinoma and colorectal cancer when IBD is present.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Primary sclerosing cholangitis",
+      "Gallbladder cancer",
+      "Cholangiocarcinoma",
+      "Cancer surveillance",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 505,
+    "stem": "After a very large immediate-release paracetamol ingestion, serial levels show unexpectedly delayed absorption and a late secondary peak. Which mechanism can account for this pattern in massive tablet ingestion?",
+    "options": [
+      "Saturation of CYP-mediated metabolism",
+      "A large increase in volume of distribution",
+      "Saturation of albumin binding",
+      "Tablet concretion/pharmacobezoar formation with delayed gastric emptying"
+    ],
+    "correct_index": 3,
+    "explanation": "Massive paracetamol ingestions can show delayed or double-peaked absorption, particularly when a large tablet burden forms concretions or a pharmacobezoar and when gastric emptying is impaired. Modified-release formulations and anticholinergic/opioid co-ingestants are other well-recognised causes of delayed absorption. CYP saturation affects metabolism rather than explaining persistent gastrointestinal delivery of drug, and paracetamol is only modestly protein-bound. This is an uncommon and somewhat recall-specific pharmacokinetic phenomenon rather than a universal feature of every 50-g ingestion. Clinically, massive or modified-release overdoses require serial paracetamol concentrations and extended NAC when levels or liver injury remain concerning rather than relying on a single early level.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Paracetamol overdose",
+      "Pharmacobezoar",
+      "Delayed absorption",
+      "Toxicology",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 506,
+    "stem": "A 55-year-old man born in an HBV-endemic country has chronic hepatitis B, HBeAg negative disease, persistently normal ALT, no cirrhosis on elastography and HBV DNA 1000 IU/mL. He has no other current treatment indication. What is the most appropriate management?",
+    "options": [
+      "Start tenofovir immediately based on the viral load alone",
+      "Start lamivudine",
+      "Routine liver biopsy",
+      "Continue longitudinal HBV monitoring and age/risk-appropriate HCC surveillance"
+    ],
+    "correct_index": 3,
+    "explanation": "An HBV DNA of 1000 IU/mL with normal ALT and no cirrhosis is compatible with HBeAg-negative chronic infection/inactive disease and does not by itself mandate antiviral therapy. Management requires serial ALT and HBV DNA because phase can change over time, with reassessment of fibrosis and treatment indications. HCC surveillance is based on cirrhosis plus demographic and family-history risk rather than viral load alone; in an older person from an endemic region this may include 6-monthly liver ultrasound according to local HBV guidance. Lamivudine is not preferred because of its low resistance barrier, and liver biopsy is not routinely required when non-invasive fibrosis assessment is adequate. This stem was reconstructed because the original recall provided only 'viral load 1000' without the information needed for a valid treatment decision.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatitis B",
+      "Inactive HBV",
+      "HCC surveillance",
+      "HBV DNA",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 507,
+    "stem": "A patient at risk for hepatocellular carcinoma has a new liver lesion that does not meet definitive non-invasive imaging criteria for HCC. Which test can establish a non-radiological tissue diagnosis?",
+    "options": [
+      "Serum alpha-fetoprotein",
+      "Percutaneous/core liver-lesion biopsy",
+      "Serum CA19-9",
+      "Serum CEA"
+    ],
+    "correct_index": 1,
+    "explanation": "Histological biopsy provides a non-radiological diagnosis when imaging is indeterminate or when a patient without the appropriate high-risk background develops a suspicious hepatic lesion. In a patient with cirrhosis or another recognised high-risk state, HCC can often be diagnosed non-invasively when multiphasic CT/MRI demonstrates the characteristic pattern of arterial phase hyperenhancement with washout/capsule according to validated imaging criteria. AFP can support surveillance and risk assessment but is neither sensitive nor specific enough to establish HCC by itself. Biopsy is avoided when imaging is already diagnostic because of bleeding and rare tumour-seeding risks, but it is important when imaging cannot confidently distinguish HCC from cholangiocarcinoma, metastasis or benign lesions.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hepatocellular carcinoma",
+      "Liver biopsy",
+      "AFP",
+      "LI-RADS",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 508,
+    "stem": "A woman receiving chemotherapy develops nausea before treatment begins whenever she enters the infusion unit, consistent with anticipatory emesis. Which drug class is most useful if behavioural strategies alone are insufficient?",
+    "options": [
+      "5-HT3 receptor antagonists",
+      "Glucocorticoids",
+      "NK1 receptor antagonists",
+      "Benzodiazepines"
+    ],
+    "correct_index": 3,
+    "explanation": "Anticipatory nausea and vomiting is a conditioned response that develops after previous poorly controlled chemotherapy-induced nausea, with anxiety and environmental cues triggering symptoms before drug administration. Prevention begins with optimal control of nausea from the first chemotherapy cycle and behavioural techniques such as relaxation, systematic desensitisation or cognitive strategies. When medication is required, a short-acting benzodiazepine such as lorazepam can reduce anxiety and conditioned anticipatory symptoms. 5-HT3 and NK1 antagonists are essential for acute/delayed chemotherapy-induced emesis but are less effective once an anticipatory conditioned response is established.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Anticipatory nausea",
+      "Chemotherapy",
+      "Benzodiazepine",
+      "Lorazepam",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 509,
+    "stem": "A patient has chronic watery diarrhoea after cholecystectomy. Stool culture and C. difficile testing are negative. Which treatment is most appropriate?",
+    "options": [
+      "Loperamide as first-line causal therapy",
+      "Cholestyramine",
+      "Metronidazole",
+      "Codeine"
+    ],
+    "correct_index": 1,
+    "explanation": "Post-cholecystectomy diarrhoea is often caused by bile-acid diarrhoea. Continuous bile delivery into the small bowel and altered enterohepatic cycling can allow excess bile acids to reach the colon, where they stimulate secretion and motility. A bile-acid sequestrant such as cholestyramine binds luminal bile acids and is therefore mechanistically targeted therapy. Colesevelam is an alternative that may be better tolerated. If symptoms do not respond, alternative causes such as microscopic colitis, coeliac disease, pancreatic disease or infection should be reconsidered. RACP pearl: ileal disease/resection and post-cholecystectomy diarrhoea are classic settings for bile-acid sequestrants.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Bile acid diarrhoea",
+      "Cholecystectomy",
+      "Cholestyramine",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 510,
+    "stem": "Which functioning gastro-entero-pancreatic neuroendocrine tumour is most commonly associated with MEN1?",
+    "options": [
+      "Gastrinoma",
+      "VIPoma",
+      "Insulinoma",
+      "Glucagonoma"
+    ],
+    "correct_index": 0,
+    "explanation": "Gastrinoma is the most common functioning gastro-entero-pancreatic neuroendocrine tumour in MEN1. MEN1 is an autosomal dominant tumour-suppressor syndrome caused by pathogenic variants in MEN1 encoding menin, classically producing the '3 Ps': primary hyperparathyroidism, pituitary tumours and pancreatic/duodenal neuroendocrine tumours. MEN1 gastrinomas are often multiple and arise in the duodenum, causing Zollinger-Ellison syndrome with refractory peptic ulceration and diarrhoea. Insulinomas also occur but are less common. An important clinical pearl is that hyperparathyroidism can worsen gastrin secretion, so calcium control matters in MEN1-associated Zollinger-Ellison syndrome.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "MEN1",
+      "Gastrinoma",
+      "Zollinger-Ellison syndrome",
+      "Neuroendocrine tumour",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 511,
+    "stem": "A hospitalised patient has PCR-confirmed norovirus gastroenteritis. After vomiting and diarrhoea have completely ceased, how long should contact/infectious precautions generally continue under NSW infection-control guidance?",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours for every individual patient",
+      "Until hospital discharge"
+    ],
+    "correct_index": 1,
+    "explanation": "Norovirus is highly infectious and viral shedding can continue after symptoms resolve. NSW Health advises that affected healthcare workers and other high-risk workers remain away from work until at least 48 hours after the last episode of vomiting or diarrhoea, and institutional infection-control measures similarly use a 48-hour symptom-free period for affected individuals. Outbreak-level ward reopening rules can differ and may require additional time after the last case. Soap-and-water handwashing is particularly important because alcohol-based hand rub is less reliably effective against norovirus. RACP pearl: individual symptom exclusion/contact precautions = 48 hours after resolution in standard NSW guidance.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Norovirus",
+      "Contact precautions",
+      "Infection control",
+      "NSW Health",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 512,
+    "stem": "A patient has recurrent, multiple peptic ulcers and features suggesting a neuroendocrine syndrome. Which initial biochemical test is appropriate when Zollinger-Ellison syndrome is suspected?",
+    "options": [
+      "Fasting serum gastrin",
+      "Secretin stimulation test as the first test in every patient",
+      "Chromogranin A alone",
+      "Serum VIP"
+    ],
+    "correct_index": 0,
+    "explanation": "The initial biochemical investigation for suspected Zollinger-Ellison syndrome is fasting serum gastrin, interpreted alongside gastric acid status and medication use. PPIs markedly raise gastrin and can confound testing, so specialist-supervised medication adjustment and gastric pH assessment may be needed. If fasting gastrin is elevated but not diagnostic, a secretin stimulation test can demonstrate the paradoxical gastrin rise characteristic of gastrinoma. Chromogranin A is non-specific and is also increased by PPI therapy and renal dysfunction. The original recall mentioned phaeochromocytoma, which is not a classic MEN1 association; the stem has therefore been reconstructed around the intended gastric-ulcer/gastrinoma diagnostic sequence rather than teaching a false syndromic link.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Gastrinoma",
+      "Zollinger-Ellison syndrome",
+      "Fasting gastrin",
+      "Secretin test",
+      "Gastroenterology",
+      "2024 Oct CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 513,
+    "stem": "Which organ is the principal site of thrombopoietin synthesis in adults?",
+    "options": [
+      "Liver",
+      "Bone marrow megakaryocytes",
+      "Spleen",
+      "Kidney"
+    ],
+    "correct_index": 0,
+    "explanation": "The liver is the principal source of thrombopoietin (TPO), the key hormone regulating megakaryocyte development and platelet production through the MPL receptor. TPO is produced relatively constitutively; circulating platelets and megakaryocytes bind and clear it, so thrombocytopenia leaves more free TPO available to stimulate marrow platelet production. Chronic liver disease can therefore contribute to thrombocytopenia not only through portal-hypertensive hypersplenism but also through reduced hepatic TPO production. TPO-receptor agonists such as eltrombopag and romiplostim exploit this pathway therapeutically.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Thrombopoietin",
+      "Liver",
+      "Platelets",
+      "Megakaryocytes",
+      "Gastroenterology",
+      "2024 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 514,
+    "stem": "Terlipressin lowers portal pressure primarily through activation of which pathway?",
+    "options": [
+      "V1-receptor-mediated splanchnic vasoconstriction",
+      "V2-receptor-mediated aquaporin insertion",
+      "Beta-2-mediated splanchnic vasodilatation",
+      "Alpha-2-mediated reduction in sympathetic tone"
+    ],
+    "correct_index": 0,
+    "explanation": "Terlipressin is a prodrug/analogue of vasopressin with a clinically dominant V1-mediated vasoconstrictor effect in splanchnic vascular smooth muscle. Reduced splanchnic arterial inflow lowers portal venous pressure and is therapeutically useful in acute variceal bleeding. In HRS-AKI, systemic/splanchnic vasoconstriction plus albumin increases effective arterial volume and renal perfusion. V2 receptors are located mainly in the renal collecting duct and mediate aquaporin-2 insertion and free-water reabsorption; that is not the desired portal-haemodynamic mechanism.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Terlipressin",
+      "V1 receptor",
+      "Portal hypertension",
+      "Vasopressin",
+      "Gastroenterology",
+      "2024 Oct MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 515,
+    "stem": "Why does hypomagnesaemia commonly cause refractory renal potassium loss and hypokalaemia?",
+    "options": [
+      "Loss of magnesium-mediated inhibition of distal tubular ROMK potassium secretion",
+      "Reduced gastrointestinal potassium absorption",
+      "Insulin-mediated intracellular potassium shift",
+      "Inhibition of aldosterone secretion"
+    ],
+    "correct_index": 0,
+    "explanation": "Intracellular magnesium normally inhibits ROMK channels in the distal nephron. When magnesium is depleted, this inhibitory brake is removed, increasing potassium secretion into the tubular lumen and causing renal potassium wasting. This is why hypokalaemia may remain refractory to potassium replacement until magnesium is corrected. Hypomagnesaemia can also increase arrhythmic risk directly, making combined K/Mg deficiency particularly dangerous. RACP pearl: unexplained or treatment-resistant hypokalaemia -> always check and replace magnesium.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Hypomagnesaemia",
+      "Hypokalaemia",
+      "ROMK",
+      "Renal potassium wasting",
+      "Gastroenterology",
+      "2025 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 516,
+    "stem": "A patient has diarrhoea, 7-kg weight loss and recurrent erythematous plaques with superficial necrosis around the perineum, face and extremities. CT shows a 4-cm pancreatic mass. Which tumour is most likely?",
+    "options": [
+      "Gastrinoma",
+      "Insulinoma",
+      "VIPoma",
+      "Glucagonoma"
+    ],
+    "correct_index": 3,
+    "explanation": "Glucagonoma is classically associated with necrolytic migratory erythema, a distinctive erythematous blistering/erosive rash that often affects intertriginous, perineal, periorificial and distal sites and migrates as lesions heal. Other features include weight loss, diabetes/hyperglycaemia, diarrhoea, anaemia, depression and venous thrombosis - sometimes remembered as the 'D' syndrome. Most glucagonomas arise from pancreatic alpha cells and are often large or metastatic by diagnosis. MEN1 is an occasional association. Markedly elevated fasting glucagon supports the diagnosis, followed by staging and somatostatin-receptor imaging; treatment includes surgery when resectable and somatostatin analogues/systemic options for advanced disease.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Glucagonoma",
+      "Necrolytic migratory erythema",
+      "Pancreatic NET",
+      "Gastroenterology",
+      "2025 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 517,
+    "stem": "What is the major mechanism by which GLP-1 receptor agonists sustain clinically significant weight loss over time?",
+    "options": [
+      "Central appetite suppression and reduced energy intake",
+      "Persistent slowing of gastric emptying as the dominant long-term mechanism",
+      "Increased basal metabolic rate",
+      "Renal glucose wasting"
+    ],
+    "correct_index": 0,
+    "explanation": "The durable weight-loss effect of GLP-1 receptor agonism is driven predominantly by central effects on satiety and appetite that reduce energy intake. GLP-1 receptors in hypothalamic and brainstem circuits enhance satiety and reduce food reward and hunger. Gastric emptying is slowed, particularly early in therapy and with shorter-acting agents, but tachyphylaxis develops to this effect and it is not thought to explain most sustained weight loss. Renal glucose wasting is the mechanism of SGLT2 inhibitors, not GLP-1 agonists. RACP pearl: GLP-1RA weight loss = eat less because of central satiety, not simply 'food stays in the stomach longer'.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "GLP-1 receptor agonist",
+      "Weight loss",
+      "Appetite",
+      "Satiety",
+      "Gastroenterology",
+      "2025 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 518,
+    "stem": "A patient has paracetamol-induced acute liver failure despite NAC. INR is approximately 3, creatinine is in the low 200s micromol/L, encephalopathy is grade II and arterial lactate remains >3 mmol/L after resuscitation. Which finding is the most concerning isolated prognostic marker among these options?",
+    "options": [
+      "INR around 3",
+      "Creatinine around 220 micromol/L",
+      "Grade II encephalopathy",
+      "Persistently elevated lactate >3 mmol/L after adequate resuscitation"
+    ],
+    "correct_index": 3,
+    "explanation": "Persistent hyperlactataemia after adequate resuscitation is a major poor-prognosis marker in paracetamol acute liver failure and can trigger urgent transplant-centre assessment even before the full classic King's College triad is present. The traditional non-pH King's College criteria require the combination of very severe coagulopathy (INR >6.5), creatinine >300 micromol/L and grade III-IV encephalopathy; none of those isolated values is reached in this reconstructed stem. Lactate criteria are time- and resuscitation-dependent, which is why the original recall was ambiguous without pH/timing information. RACP pearl: in paracetamol ALF, rising lactate/acidosis can be an earlier warning sign than waiting for INR 6.5 plus creatinine 300 plus deep encephalopathy.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Paracetamol acute liver failure",
+      "Lactate",
+      "King's College criteria",
+      "Liver transplant",
+      "Gastroenterology",
+      "2025 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 519,
+    "stem": "A young adult develops progressive distal paraesthesia, sensory ataxia and upper-motor-neuron signs after frequent recreational nitrous oxide inhalation. Which vitamin is functionally inactivated?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B6",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "correct_index": 2,
+    "explanation": "Nitrous oxide oxidises the cobalt atom within cobalamin and irreversibly inactivates vitamin B12-dependent methionine synthase. This produces a functional B12 deficiency even when the measured serum B12 concentration is normal. Impaired methionine and methylation pathways disrupt myelin maintenance, producing peripheral neuropathy and subacute combined degeneration with posterior-column sensory loss and corticospinal-tract signs. Homocysteine and methylmalonic acid are more useful functional markers than serum B12 alone in this setting. Management requires stopping nitrous oxide and giving B12 replacement, often parenterally when neurological disease is significant.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Nitrous oxide",
+      "Vitamin B12",
+      "Subacute combined degeneration",
+      "Nanging",
+      "Gastroenterology",
+      "2023 Feb MS"
+    ],
+    "image_path": null,
+    "explanation_image": "images/q0048.png",
+    "explanation_video": null
+  },
+  {
+    "id": 520,
+    "stem": "A 48-year-old man with Child-Pugh B cirrhosis, ascites and chronic back pain takes ibuprofen, paracetamol, sustained-release oxycodone and pregabalin. Which medication should be stopped?",
+    "options": [
+      "Ibuprofen",
+      "Paracetamol",
+      "Oxycodone",
+      "Pregabalin"
+    ],
+    "correct_index": 0,
+    "explanation": "Ibuprofen is the medication with the clearest cirrhosis-specific harm. NSAIDs reduce renal prostaglandin synthesis and can precipitate renal hypoperfusion, sodium retention, ascites worsening and GI bleeding. Paracetamol at a conservative dose is generally safer than NSAIDs, while opioids require cautious dosing because hepatic metabolism is reduced and encephalopathy can worsen. Pregabalin is renally eliminated but can contribute to sedation. RACP pearl: compensated or decompensated cirrhosis does not make NSAIDs 'just another analgesic' - they should usually be avoided.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Cirrhosis",
+      "Ibuprofen",
+      "NSAID",
+      "Analgesia",
+      "Gastroenterology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 521,
+    "stem": "A 62-year-old liver-transplant recipient has persistent diarrhoea while taking mycophenolate, tacrolimus, prednisolone and valganciclovir. Colonoscopy shows mild colitis and CMV testing is negative. Which drug is the most likely cause?",
+    "options": [
+      "Prednisolone",
+      "Mycophenolate",
+      "Tacrolimus",
+      "Valganciclovir"
+    ],
+    "correct_index": 1,
+    "explanation": "Mycophenolate is the classic immunosuppressant associated with chronic diarrhoea and enterocolitis. Inhibition of purine synthesis affects rapidly dividing gastrointestinal epithelial cells, producing mucosal injury that may histologically resemble IBD, graft-versus-host disease or infection. CMV and other infectious causes must be actively excluded in a transplant recipient before attributing symptoms to medication. Management should be coordinated with the transplant team because dose reduction or switching formulation/drug can improve symptoms but may increase rejection risk.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Mycophenolate",
+      "Liver transplant",
+      "Drug-induced diarrhoea",
+      "Colitis",
+      "Gastroenterology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 522,
+    "stem": "A man with decompensated cirrhosis has marked ascites and oedema with low serum albumin but develops AKI during aggressive diuresis. Before diuresis his creatinine was near baseline. What is the most likely immediate physiological mechanism of the AKI?",
+    "options": [
+      "Established hepatorenal syndrome independent of volume change",
+      "Reduced effective intravascular volume causing pre-renal renal hypoperfusion",
+      "Acute interstitial nephritis",
+      "Direct tubular toxicity from loop diuretic"
+    ],
+    "correct_index": 1,
+    "explanation": "Despite obvious total-body fluid excess, patients with decompensated cirrhosis can have a low effective arterial blood volume because of splanchnic vasodilatation, low oncotic pressure and third spacing. Aggressive diuresis can further reduce effective circulating volume and renal perfusion, causing a pre-renal AKI. If renal dysfunction persists after stopping diuretics and appropriate volume assessment/albumin expansion, HRS-AKI then becomes an important diagnosis after intrinsic and obstructive causes are excluded. This distinction is high yield: oedematous does not mean intravascularly replete.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Cirrhosis",
+      "Pre-renal AKI",
+      "Effective arterial volume",
+      "Diuresis",
+      "Gastroenterology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
+  },
+  {
+    "id": 523,
+    "stem": "A 25-year-old man with eosinophilic oesophagitis remains symptomatic despite PPI and swallowed budesonide. Repeat endoscopy shows persistent eosinophilic inflammation but no fibrostenotic stricture. What is the most appropriate next management option?",
+    "options": [
+      "Empiric dietary elimination",
+      "Montelukast",
+      "Mepolizumab",
+      "Balloon dilatation"
+    ],
+    "correct_index": 0,
+    "explanation": "Dietary elimination is appropriate because this patient has ongoing inflammatory EoE without a stricture requiring mechanical therapy. Current management uses shared decision-making among PPI, swallowed topical corticosteroid and empiric food-elimination strategies, with less restrictive diets such as one- or two-food elimination increasingly preferred initially. Histological response must be checked with repeat biopsy because symptom response alone is unreliable. Dupilumab is an effective biologic step-up option for treatment-resistant EoE; montelukast and mepolizumab are not standard effective therapies. Balloon dilation is useful for symptomatic fibrostenotic narrowing but does not treat the underlying eosinophilic inflammation.",
+    "specialty": "Gastroenterology",
+    "tags": [
+      "Eosinophilic oesophagitis",
+      "Elimination diet",
+      "Budesonide",
+      "Diet therapy",
+      "Gastroenterology",
+      "2023 Feb CA"
+    ],
+    "image_path": null,
+    "explanation_image": null,
+    "explanation_video": null
   }
 ]
